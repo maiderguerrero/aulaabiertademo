@@ -236,7 +236,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	content: "";
 	background-size: contain;
 	top: 3px;
-	background-image: url(imagenes_difusion/thespanishhub_logo.png) !important;
+	background-image: url(imagenes/thespanishhub_logo.png) !important;
 	position: fixed;
 	width: 80px;
 	height: 40px;
@@ -256,7 +256,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	left: 0;
 	width: 100px;
 	height: 44px;
-	background: url(imagenes_difusion/thespanishhub_logo.png) 0 0 no-repeat;
+	background: url(imagenes/thespanishhub_logo.png) 0 0 no-repeat;
 	-webkit-background-size: contain;
 	   -moz-background-size: contain;
 		 -o-background-size: contain;
@@ -486,7 +486,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 /*Icono audio*/
 #actividad .player.audio {
-	background-image: url(imagenes_difusion/img_audio.png);
+	background-image: url(imagenes/img_audio.png);
 	color: #fff;
 }
 
@@ -521,7 +521,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-file-attach:before {
 	content: " ";
-	background-image: url(imagenes_difusion/icono_transcripciones.png);
+	background-image: url(imagenes/icono_transcripciones.png);
 	background-repeat: no-repeat;
 	padding: 10px;
 	background-size: contain;
@@ -570,7 +570,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	padding: 17px;
 	margin-right: 10px;
 	background-size: contain;
-	background-image: url(imagenes_difusion/img_casablanca.png);
+	background-image: url(imagenes/img_casablanca.png);
 	background-repeat: no-repeat;
 }
 
@@ -874,7 +874,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 20px;
-	background-image: url(imagenes_difusion/img_multi.png);
+	background-image: url(imagenes/img_multi.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: 0px;
@@ -927,7 +927,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 23px;
-	background: url(imagenes_difusion/img_cafeteria.png);
+	background: url(imagenes/img_cafeteria.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: -23px;
@@ -963,7 +963,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
     position: absolute;
     padding: 12px;
-    background: url(imagenes_difusion/campana_mapas.png);
+    background: url(imagenes/campana_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-top: 2px;
@@ -975,7 +975,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
     position: absolute;
     padding: 12px;
-    background: url(imagenes_difusion/campana_mapas.png);
+    background: url(imagenes/campana_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-top: 2px;
@@ -1012,7 +1012,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 24px;
-	background: url(imagenes_difusion/img_engranaje.png);
+	background: url(imagenes/img_engranaje.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: -25px;
@@ -1056,7 +1056,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 20px;
-	background-image: url(imagenes_difusion/img_duo.png);
+	background-image: url(imagenes/img_duo.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: 0px;
@@ -1109,7 +1109,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 17px;
-	background-image: url(imagenes_difusion/icono_video_blanco.png);
+	background-image: url(imagenes/icono_video_blanco.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: 3px;
@@ -1322,29 +1322,29 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .item-container .icon-critical:before {
-	background-image: url(imagenes_difusion/critical_thinking_dark.png);
+	background-image: url(imagenes/critical_thinking_dark.png);
 }
 
 .item-container .icon-critical-gold:before {
-	background-image: url(imagenes_difusion/critical_thinking_gold.png);
+	background-image: url(imagenes/critical_thinking_gold.png);
 }
 
 .item-container .icon-critical-verde:before {
-	background-image: url(imagenes_difusion/critical_thinking_verde.png);
+	background-image: url(imagenes/critical_thinking_verde.png);
 }
 
 .item-container .icon-critical-negro:before {
-	background-image: url(imagenes_difusion/critical_thinking_negro.png);
+	background-image: url(imagenes/critical_thinking_negro.png);
 }
 
 .item-container .icon-video-oscuro:before {
-	background-image: url(imagenes_difusion/icono_video_oscuro.png);
+	background-image: url(imagenes/icono_video_oscuro.png);
 	height: 20px;
 	width: 33px;
 }
 
 .item-container .icon-bocadillo-blanco:before {
-	background-image: url(imagenes_difusion/bocadillo_blanco.png);
+	background-image: url(imagenes/bocadillo_blanco.png);
 }
 
 /**TABLA**/
@@ -1426,7 +1426,7 @@ th {
 }
 
 .activitytag_naranja_mapas .bck-box-3 .bck-title:before {
-	background: url(imagenes_difusion/campana_verde.png);
+	background: url(imagenes/campana_verde.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1440,7 +1440,7 @@ th {
 }
 
 .activitytag_naranja_mapas .bck-box-4 .bck-title:before {
-	background: url(imagenes_difusion/engranajes_verde.png);
+	background: url(imagenes/engranajes_verde.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1463,7 +1463,7 @@ th {
 }
 
 .activitytag_negra_mapasdemo .bck-box-3 .bck-title:before {
-	background: url(imagenes_difusion/campana_negra.png);
+	background: url(imagenes/campana_negra.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1477,7 +1477,7 @@ th {
 }
 
 .activitytag_negra_mapasdemo .bck-box-4 .bck-title:before {
-	background: url(imagenes_difusion/engranajes_negra.png);
+	background: url(imagenes/engranajes_negra.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1492,7 +1492,7 @@ th {
 }
 
 .activitytag_gold_mapasdemo .bck-box-3 .bck-title:before {
-	background: url(imagenes_difusion/campana_gold.png);
+	background: url(imagenes/campana_gold.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1506,7 +1506,7 @@ th {
 }
 
 .activitytag_gold_mapasdemo .bck-box-4 .bck-title:before {
-	background: url(imagenes_difusion/engranajes_gold.png);
+	background: url(imagenes/engranajes_gold.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1539,7 +1539,7 @@ th {
 }
 
 .activitytag_azul_mapasdemo .bck-box-3 .bck-title:before {
-	background: url(imagenes_difusion/campana_azul.png);
+	background: url(imagenes/campana_azul.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1553,7 +1553,7 @@ th {
 }
 
 .activitytag_azul_mapasdemo .bck-box-4 .bck-title:before {
-	background: url(imagenes_difusion/engranajes_azul.png);
+	background: url(imagenes/engranajes_azul.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -1760,7 +1760,7 @@ th {
 	padding: 22px;
 	margin-right: 20px;
 	background-size: contain;
-	background-image: url(imagenes_difusion/img_casablanca.png);
+	background-image: url(imagenes/img_casablanca.png);
 	background-repeat: no-repeat;
 }
 
@@ -1811,7 +1811,7 @@ th {
 	padding: 20px;
 	margin-right: 20px;
 	background-size: contain;
-	background-image: url(imagenes_difusion/img_multi.png);
+	background-image: url(imagenes/img_multi.png);
 	background-repeat: no-repeat;
 }
 
