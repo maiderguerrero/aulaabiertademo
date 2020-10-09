@@ -981,7 +981,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .bck-box-4 .bck-title {
-	padding: 15px 45px;
+	padding: 15px 55px;
 	padding-bottom: 0;
     border: 0px;
     color: #333;
@@ -998,25 +998,20 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-left: 10px;
 }
 
-.bck-box.bck-box-4 {
-	background: #fff;
-	border: 3px dotted #9D9D9C;
-	text-align: left;
-}
 
 .bck-box.bck-box-4 .bck-title:before {
-	content: " ";
+	    content: " ";
     position: absolute;
-    padding: 12px;
+    padding: 15px;
     background: url(imagenes/estrategia_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
+    margin-top: -4px;
+    margin-left: -35px;
 }
 
 .bck-box-5 .bck-box-4 .bck-title {
-	padding: 15px 45px;
+	padding: 15px 55px;
 	padding-bottom: 0;
     border: 0px;
     color: #333;
