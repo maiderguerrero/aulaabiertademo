@@ -9,7 +9,7 @@
 	url('fonts/TypeType-TT_Rounds-Black.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Black.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Black.svg') format('svg');
-	font-weight: normal;
+	font-weight: 800;
 	font-style: normal;
 }
 
@@ -20,8 +20,8 @@
 	url('fonts/TypeType-TT_Rounds-Black-Italic.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Black-Italic.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Black-Italic.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+	font-weight: 800;
+	font-style: italic;
 }
 
 @font-face {
@@ -31,7 +31,7 @@
 	url('fonts/TypeType-TT_Rounds-Bold.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Bold.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Bold.svg') format('svg');
-	font-weight: normal;
+	font-weight: bold;
 	font-style: normal;
 }
 
@@ -42,19 +42,8 @@
 	url('fonts/TypeType-TT_Rounds-Bold-Italic.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Bold-Italic.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Bold-Italic.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	src: url('fonts/TypeType-TT_Rounds-Regular.eot');
-	src: local('☺'), 
-	url('fonts/TypeType-TT_Rounds-Regular.woff') format('woff'), 
-	url('fonts/TypeType-TT_Rounds-Regular.ttf') format('truetype'), 
-	url('fonts/TypeType-TT_Rounds-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+	font-weight: bold;
+	font-style: italic;
 }
 
 @font-face {
@@ -77,7 +66,7 @@
 	url('fonts/TypeType-TT_Rounds-Italic.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Italic.svg') format('svg');
 	font-weight: normal;
-	font-style: normal;
+	font-style: italic;
 }
 
 @font-face {
@@ -87,7 +76,7 @@
 	url('fonts/TypeType-TT_Rounds-Light.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Light.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Light.svg') format('svg');
-	font-weight: normal;
+	font-weight: 200;
 	font-style: normal;
 }
 
@@ -98,8 +87,8 @@
 	url('fonts/TypeType-TT_Rounds-Light-Italic.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Light-Italic.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Light-Italic.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+	font-weight: 100;
+	font-style: italic;
 }
 
 
@@ -110,7 +99,7 @@
 	url('fonts/TypeType-TT_Rounds-Thin.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Thin.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Thin.svg') format('svg');
-	font-weight: normal;
+	font-weight: 100;
 	font-style: normal;
 }
 
@@ -121,8 +110,8 @@
 	url('fonts/TypeType-TT_Rounds-Thin-Italic.woff') format('woff'), 
 	url('fonts/TypeType-TT_Rounds-Thin-Italic.ttf') format('truetype'), 
 	url('fonts/TypeType-TT_Rounds-Thin-Italic.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+	font-weight: 100;
+	font-style: italic;
 }
 
 
