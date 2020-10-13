@@ -593,6 +593,15 @@ body.is_app .mapasdemo-navbar.ocultar {
 	border-bottom: none;
 }
 
+.bck-title-5 {
+	font-weight: bold;
+	font-size: 4.8rem;
+	margin-left: 20px;
+	border-bottom: none;
+	border-radius: 15px;
+	background: #000;
+}
+
 .bck-enfasis {
 	color: #31A2C7;
 	font-weight: bold;
