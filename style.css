@@ -1573,7 +1573,8 @@ th {
 
 /*TAGS*/
 
-/*Tag azul*/
+/*--------------------Tag azul-----------------------*/
+
 .activitytag_azul_mapas #actividad .content .header .title h3 {
 	background: #007AAB;
 }
@@ -1591,102 +1592,171 @@ th {
 }
 
 /*CAJA1 - tag azul*/
-.bck-box-1 .bck-title:before {
+.activitytag_azul_mapas .bck-box-1 .bck-title:before {
 	background-image: url(imagenes/engrupo_mapas_azul.png);
 }
 
-.bck-box-1 .bck-title {
+.activitytag_azul_mapas .bck-box-1 .bck-title {
 	color: #007AAB;
     border-bottom: 2px solid #007AAB;
 }
 
-.bck-box.bck-box-1 .bck-content {
+.activitytag_azul_mapas .bck-box.bck-box-1 .bck-content {
 	border-bottom: 2px solid #007AAB;
 }
 
 
 /*CAJA2 - tag azul*/
-.bck-box.bck-box-2 {
+.activitytag_azul_mapas .bck-box.bck-box-2 {
 	background: #007AAB;
 }
 
-.bck-box.bck-box-2 .bck-content {
+.activitytag_azul_mapas .bck-box.bck-box-2 .bck-content {
     background: #007AAB;
 }
 
-.bck-box.bck-box-2 .bck-title {
+.activitytag_azul_mapas .bck-box.bck-box-2 .bck-title {
     background: #007AAB;
 }
 
 
 /*CAJA 3 - tag azul*/
-.bck-box.bck-box-3 {
+.activitytag_azul_mapas .bck-box.bck-box-3 {
 	background: #E6F2F7;
 }
 
-.bck-box.bck-box-3 .bck-title {
+.activitytag_azul_mapas .bck-box.bck-box-3 .bck-title {
     background: #E6F2F7;
 }
 
 
-/*CAJA4*/
-.bck-box.bck-box-4 {
+/*CAJA4 - tag azul*/
+.activitytag_azul_mapas .bck-box.bck-box-4 {
 	background: #E6F2F7;
 }
 
-.bck-box-4 .bck-title {
+.activitytag_azul_mapas .bck-box-4 .bck-title {
     background: #E6F2F7;
 }
 
-.bck-box-5 .bck-box-4 .bck-title {
+.activitytag_azul_mapas.bck-box-5 .bck-box-4 .bck-title {
     background: #E6F2F7;
 }
 
-/*CAJA5*/
+/*CAJA 5 - tag azul*/
 
-.bck-box.bck-box-5 {
+.activitytag_azul_mapas .bck-box.bck-box-5 {
 	background-color: #E6F2F7;
 }
 
-/*CAJA 6*/
-.bck-box-6 .bck-title:before {
+/*CAJA 6 - tag azul*/
+.activitytag_azul_mapas .bck-box-6 .bck-title:before {
 	background-image: url(imagenes/enparejas_mapas_azul.png);
 }
 
 
-.bck-box-6 .bck-title {
+.activitytag_azul_mapas .bck-box-6 .bck-title {
 	color: #007AAB;
 	border-bottom: 2px solid #007AAB;
 }
 
-.bck-box-6 .bck-content {
+.activitytag_azul_mapas .bck-box-6 .bck-content {
 	border-bottom: 2px solid #007AAB;
 }
 
 
-/*Tag verde*/
-.activitytag_naranja_mapas #actividad .content .header .title h3 {
-	background: #DC4F24;
+/*---------------Tag verde-------------------*/
+
+.activitytag_verde_mapas #actividad .content .header .title h3 {
+	background: #009746;
 }
 
-.activitytag_naranja_mapas .bck-title-1 {
-	color: #DC4F24;
+.activitytag_verde_mapas .bck-title-preparate {
+	background: #009746;
 }
 
-.activitytag_naranja_mapas .bck-title-preparate {
-	background: #DC4F24;
-
+.activitytag_verde_mapas .bck-title-1 {
+	color: #009746;
 }
 
-.activitytag_naranja_mapas .bck-box.bck-box-5 {
-	padding: 10px;
-	background-color: #DC4F2426;
+.activitytag_verde_mapas .bck-enfasis-8 {
+	background-color: #009746;
+}
+
+/*CAJA1 - tag verde*/
+.activitytag_verde_mapas .bck-box-1 .bck-title:before {
+	background-image: url(imagenes/engrupo_mapas_verde.png);
+}
+
+.activitytag_verde_mapas .bck-box-1 .bck-title {
+	color: #009746;
+    border-bottom: 2px solid #009746;
+}
+
+.activitytag_verde_mapas .bck-box.bck-box-1 .bck-content {
+	border-bottom: 2px solid #009746;
 }
 
 
-.activitytag_naranja_mapas .bck-enfasis-8 {
-	background-color: #DC4F24;
+/*CAJA2 - tag verde*/
+.activitytag_verde_mapas .bck-box.bck-box-2 {
+	background: #009746;
 }
+
+.activitytag_verde_mapas .bck-box.bck-box-2 .bck-content {
+    background: #009746;
+}
+
+.activitytag_verde_mapas .bck-box.bck-box-2 .bck-title {
+    background: #009746;
+}
+
+
+/*CAJA 3 - tag verde*/
+.activitytag_verde_mapas .bck-box.bck-box-3 {
+	background: #99D5B5;
+}
+
+.activitytag_verde_mapas .bck-box.bck-box-3 .bck-title {
+    background: #99D5B5;
+}
+
+
+/*CAJA4 - tag verde*/
+.activitytag_verde_mapas .bck-box.bck-box-4 {
+	background: #99D5B5;
+}
+
+.activitytag_verde_mapas .bck-box-4 .bck-title {
+    background: #99D5B5;
+}
+
+.activitytag_verde_mapas .bck-box-5 .bck-box-4 .bck-title {
+    background: #99D5B5;
+}
+
+/*CAJA5 - tag verde*/
+
+.activitytag_verde_mapas .bck-box.bck-box-5 {
+	background-color: #F2FAF6;
+}
+
+/*CAJA 6 - tag verde*/
+.activitytag_verde_mapas .bck-box-6 .bck-title:before {
+	background-image: url(imagenes/enparejas_mapas_verde.png);
+}
+
+
+.activitytag_verde_mapas .bck-box-6 .bck-title {
+	color: #009746;
+	border-bottom: 2px solid #009746;
+}
+
+.activitytag_verde_mapas .bck-box-6 .bck-content {
+	border-bottom: 2px solid #009746;
+}
+
+
 
 /*Tag negra*/
 .activitytag_negra_mapasdemo #actividad .content .header .title h3 {
