@@ -1129,6 +1129,17 @@ body.is_app .mapasdemo-navbar.ocultar {
 	border-radius: 15px;
 }
 
+/*Caja 7 dentro de cajas 1 y 6*/
+
+.bck-box.bck-box-1 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+.bck-box.bck-box-6 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+
 /*CAJA8*/
 .bck-box-8 .bck-title:before {
 	content: " ";
