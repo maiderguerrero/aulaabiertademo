@@ -565,7 +565,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 
 .bck-title-1 {
-	color: #333;
+	color: #DC4F24;
 	font-size: 3.3rem;
 	padding-bottom: 0px;
 	margin-left: 25px;
@@ -898,6 +898,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-box.bck-box-1 .bck-content {
 	padding: 10px;
+	border-bottom: 2px solid #dc4f24;
 }
 
 .bck-box-1 {
@@ -1099,6 +1100,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-box-6 .bck-content {
 	background: transparent;
+	border-bottom: 2px solid #dc4f24;
 }
 
 .bck-box-6 {
@@ -1589,33 +1591,6 @@ th {
 	background-color: #DC4F2426;
 }
 
-.activitytag_naranja_mapas .bck-box.bck-box-3 {
-	border: 3px dotted #DC4F24;
-}
-
-.activitytag_naranja_mapas .bck-box-3 .bck-title:before {
-	background: url(imagenes/campana_verde.png);
-	background-size: contain;
-	background-repeat: no-repeat;
-}
-
-.activitytag_naranja_mapas .bck-box.bck-box-3 .bck-title {
-	color: #DC4F24;
-}
-
-.activitytag_naranja_mapas .bck-box.bck-box-4 {
-	border: 3px dotted #DC4F24;
-}
-
-.activitytag_naranja_mapas .bck-box-4 .bck-title:before {
-	background: url(imagenes/engranajes_verde.png);
-	background-size: contain;
-	background-repeat: no-repeat;
-}
-
-.activitytag_naranja_mapas .bck-box.bck-box-4 .bck-title {
-	color: #DC4F24;
-}
 
 .activitytag_naranja_mapas .bck-enfasis-8 {
 	background-color: #DC4F24;
