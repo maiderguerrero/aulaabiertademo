@@ -651,6 +651,10 @@ body.is_app .mapasdemo-navbar.ocultar {
 	padding: 2px;
 }
 
+.bck-enfasis-9 {
+	font-weight: 800;
+}
+
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
 	padding-left: 20px;
@@ -744,7 +748,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ol-1 li:before {
 	content: counter(bck-li-counter) ".";
 	font-family: Conv_TypeType-TT_Rounds;
-	font-weight: bold;
+	font-weight: 800;
 	position: absolute;
 	text-align: right;
 	color: #333;
@@ -1129,7 +1133,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	border-radius: 15px;
 }
 
-/*Caja 7 dentro de cajas 1 y 6*/
+/*Caja 7 en cajas 1 y 6*/
 
 .bck-box.bck-box-1 .bck-box-7 .bck-content {
 	border-bottom: none;
