@@ -1196,6 +1196,43 @@ body.is_app .mapasdemo-navbar.ocultar {
     margin-left: -25px;
 }
 
+/*CAJA 9*/
+.bck-box.bck-box-10 {
+	background: #E58D7C;
+    border: none;
+    text-align: left;
+    border-radius: 15px;
+}
+
+.bck-box.bck-box-10 .bck-content {
+	padding: 4px 10px 15px;
+	width: 100%;
+	margin-left: 10px;
+	border-radius: 15px;
+}
+
+.bck-box.bck-box-10 .bck-title {
+	padding: 15px 45px;
+	padding-bottom: 0;
+    border: 0px;
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 800;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.bck-box-10 .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 12px;
+    background: url(imagenes/vocabulario_mapas.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -3px;
+    margin-left: -25px;
+}
+
 /*Caja 9 dentro de caja 6*/
 .bck-box-6 .bck-box-9 .bck-title:before {
 	content: " ";
