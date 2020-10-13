@@ -1083,7 +1083,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-color: transparent;
 	padding: 10px;
 	padding-left: 70px;
-	border-bottom: 2px solid #dc4f24;
+	border-bottom: 2px solid transparent;
 }
 
 .bck-box-6 {
