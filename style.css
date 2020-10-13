@@ -866,7 +866,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-image: url(imagenes/engrupo_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: 0px;
+	margin-top: -2px;
 	margin-left: -53px;
 }
 
@@ -1063,7 +1063,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 20px;
-	background-image: url(imagenes/img_duo.png);
+	background-image: url(imagenes/enparejas_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: 0px;
@@ -1076,17 +1076,18 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .bck-box-6 .bck-title {
-	color: #fff;
+	color: #dc4f24;
 	font-size: 2rem;
 	font-weight: bold;
 	text-align: left;
-	background-color: #808080;
+	background-color: transparent;
 	padding: 10px;
 	padding-left: 70px;
+	border-bottom: 2px solid #dc4f24;
 }
 
 .bck-box-6 {
-	background: #E5E5E5;
+	background: transparent;
 }
 
 /*CAJA 7*/
