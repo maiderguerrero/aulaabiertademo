@@ -543,7 +543,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	color: #fff;
 	font-size: 2.1rem;
 	font-weight: bold;
-	background: #333;
+	background: #dc4f24;
 	padding: 12px;
 	padding-left: 25px;
 	border-radius: 15px 15px 0px 0px;
@@ -1572,7 +1572,7 @@ th {
 }
 
 /*TAGS*/
-/*Tag naranja*/
+/*Tag verde*/
 .activitytag_naranja_mapas #actividad .content .header .title h3 {
 	background: #DC4F24;
 }
