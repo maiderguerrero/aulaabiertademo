@@ -1159,6 +1159,56 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-size: 2.2rem;
 }
 
+/*CAJA 9*/
+.bck-box.bck-box-9 {
+	background: #FFE054;
+    border: none;
+    text-align: left;
+    border-radius: 15px;
+}
+
+.bck-box.bck-box-9 .bck-content {
+	padding: 4px 10px 15px;
+	width: 100%;
+	margin-left: 10px;
+	border-radius: 15px;
+}
+
+.bck-box.bck-box-9 .bck-title {
+	padding: 15px 45px;
+	padding-bottom: 0;
+    border: 0px;
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 800;
+    background: #F1B9A7;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.bck-box-9 .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 12px;
+    background: url(imagenes/vocabulario_mapas.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -3px;
+    margin-left: -25px;
+}
+
+/*Caja 9 dentro de caja 6*/
+.bck-box-6 .bck-box-9 .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 12px;
+    background: url(imagenes/vocabulario_mapas.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -3px;
+    margin-left: -25px;
+}
+
 /*Arreglos cajas*/
 .bck-box-5 .bck-box-1 .bck-title {
 	color: #fff;
@@ -1757,7 +1807,7 @@ th {
 .bck-dropdown-3 .bck-dropdown-titulo {
 	font-size: 1.8rem;
 	padding-left: 8px;
-	font-weight: 800;
+	font-weight: 600;
 }
 
 .bck-dropdown-3 .bck-dropdown-titulo:before {
@@ -1808,7 +1858,7 @@ th {
 .bck-dropdown-4 .bck-dropdown-titulo {
 	font-size: 1.8rem;
 	padding-left: 8px;
-	font-weight: 800;
+	font-weight: 600;
 }
 
 .bck-dropdown-4 .bck-dropdown-titulo:before {
@@ -1859,7 +1909,7 @@ th {
 .bck-dropdown-5 .bck-dropdown-titulo {
 	font-size: 1.8rem;
 	padding-left: 8px;
-	font-weight: 800;
+	font-weight: 600;
 }
 
 .bck-dropdown-5 .bck-dropdown-content {
