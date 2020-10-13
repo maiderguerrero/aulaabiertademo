@@ -876,12 +876,13 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .bck-box-1 .bck-title {
-	color: #fff;
-	font-size: 2rem;
-	text-align: left;
-	background-color: #808080;
-	padding: 10px;
-	padding-left: 70px;
+	color: #dc4f24;
+    font-size: 2rem;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 70px;
+    border-bottom: 2px solid #dc4f24;
 }
 
 .bck-box.bck-box-1 .bck-content {
