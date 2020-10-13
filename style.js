@@ -1,4 +1,4 @@
-/*estilo mapasdemo*/
+
 (function (blink) {
 	'use strict';
 
@@ -15,8 +15,12 @@
 			name: 'mapasdemo',
 			styles: [
 				{ name: 'Título Prepárate', element: 'h2', attributes: { 'class': 'bck-title bck-title-preparate'} },
+				{ name: 'Título 1', element: 'h3', attributes: { 'class': 'bck-title bck-title-1'} },
+				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
+				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
 				{ name: 'Título 4', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
 
+				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis-2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Énfasis-4', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
@@ -25,8 +29,13 @@
 				{ name: 'Énfasis-Plus', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis-Paginas', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 
+				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
+				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
+				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
 				{ name: 'Lista Ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
 
+				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
+				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
 				{ name: 'Caja 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
 				{ name: 'Caja 5', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
