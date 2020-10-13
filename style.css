@@ -1261,7 +1261,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 /*CAJA 11*/
 .bck-box.bck-box-11 {
-	background: #E58D7C;
     border: none;
     text-align: left;
     border-radius: 15px;
@@ -1271,14 +1270,14 @@ body.is_app .mapasdemo-navbar.ocultar {
 	padding: 4px 10px 15px;
 	width: 100%;
 	margin-left: 10px;
-	border-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 	background: #fff;
 }
 
 .bck-box.bck-box-11 .bck-title {
 	background: #333;
-	padding: 15px 45px;
-	padding-bottom: 0;
+    padding: 5px 20px;
     border: 0px;
     color: #fff;
     font-size: 1.5rem;
