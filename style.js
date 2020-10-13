@@ -29,6 +29,7 @@
 				{ name: 'Énfasis-Leer', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'Énfasis-Plus', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis-Paginas', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
+				{ name: 'Énfasis-Bolder', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
