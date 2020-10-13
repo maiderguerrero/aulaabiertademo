@@ -863,7 +863,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 20px;
-	background-image: url(imagenes/img_multi.png);
+	background-image: url(imagenes/engrupo_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: 0px;
@@ -890,7 +890,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .bck-box-1 {
-	background: #E5E5E5;
+	background: transparent;
 }
 
 /*CAJA2*/
