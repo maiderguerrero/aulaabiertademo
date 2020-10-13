@@ -263,7 +263,7 @@ body {
 	font-size: 1.8rem;
 	font-weight: normal;
 	text-align: left;
-	font-family: Conv_TypeType-TT_Rounds;
+	font-family: 'Conv_TypeType-TT_Rounds';
 }
 
 .slide-wrapper {
@@ -894,29 +894,35 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 /*CAJA2*/
 .bck-box.bck-box-2 {
-	background: transparent;
-	border: 3px dotted #9D9D9C;
-	margin-top: 20px;
-	border-radius: 0px;
+	background: #DC4F24;
+    border: none;
+    margin-top: 20px;
+    border-radius: 0px;
+    color: #fff;
 }
 
 .bck-box.bck-box-2 .bck-content {
-	font-family: 'Conv_Stag-Light';
-	color: #808285;
-	background: #fff;
-	font-size: 3.1rem;
+	font-family: 'Conv_TypeType-TT_Rounds';
+	color: #fff;
+    background: #DC4F24;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 4px;
 }
 
 .bck-box.bck-box-2 .bck-title {
-	color: #9D9D9C;
-	background: #fff;
+	color: #fff;
+    background: #DC4F24;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 1.5rem;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 23px;
-	background: url(imagenes/img_cafeteria.png);
+	background: url(imagenes/foro_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: -23px;
