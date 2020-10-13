@@ -897,7 +897,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background: #DC4F24;
     border: none;
     margin-top: 20px;
-    border-radius: 0px;
+    border-radius: 15px;
     color: #fff;
 }
 
@@ -914,19 +914,20 @@ body.is_app .mapasdemo-navbar.ocultar {
 	color: #fff;
     background: #DC4F24;
     margin-bottom: 0;
-    padding-bottom: 0;
     font-size: 1.5rem;
+    padding: 15px 45px 0px 60px;
+    font-weight: 800;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
 	content: " ";
-	position: absolute;
-	padding: 23px;
-	background: url(imagenes/foro_mapas.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -23px;
-	margin-left: -48px;
+    position: absolute;
+    padding: 15px;
+    background: url(imagenes/foro_mapas.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -3px;
+    margin-left: -35px;
 }
 
 /*CAJA 3*/
