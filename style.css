@@ -1466,12 +1466,15 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box.bck-box-12 .bck-content {
 	padding: 4px 10px 15px;
 	background: #F1E9EC;
+	border-radius: 15px;
 }
 
 .bck-box.bck-box-12 .bck-title {
 	background: #F1E9EC;
     padding: 5px 20px;
     border: 0px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
 .bck-box-12 .bck-title:before {
