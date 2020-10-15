@@ -2259,8 +2259,6 @@ th {
 .bck-dropdown-5 .bck-dropdown-button {
 	margin-top: 0px;
 	font-size: 1.2rem;
-	background: #333;
-
 }
 
 .bck-dropdown-5 .bck-dropdown-icon {
@@ -2290,8 +2288,8 @@ th {
 	background-color: #E5E5E5;
 	padding-left: 25px;
 	max-height: 800%;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 13px;
+	border-bottom-right-radius: 13px;
 }
 
 .fa-times:before {
