@@ -861,7 +861,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .bck-box p {
-	display: inline-block;
+	display: block;
 }
 
 .bck-box .bck-content {
