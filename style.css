@@ -1696,7 +1696,7 @@ th {
 	border-bottom: 2px solid #007AAB;
 }
 
-/*Caja 7 en cajas 1 y 6*/
+/*Caja 7 en cajas 1 y 6 - tag azul*/
 
 .activitytag_azul_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
 	border-bottom: none;
@@ -1798,7 +1798,17 @@ th {
 	border-bottom: 2px solid #009746;
 }
 
-/*Tag naranjaclaro*/
+/*Caja 7 en cajas 1 y 6 - tag verde*/
+
+.activitytag_verde_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+.activitytag_verde_mapas .bck-box.bck-box-6 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+/*-----------------Tag naranjaclaro------------------*/
 .activitytag_naranjaclaro_mapas #actividad .content .header .title h3 {
 	background: #F39200;
 }
@@ -1888,8 +1898,18 @@ th {
 	border-bottom: 2px solid #F39200;
 }
 
+/*Caja 7 en cajas 1 y 6 - tag naranjaclaro*/
 
-/*Tag negro*/
+.activitytag_naranjaclaro_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+.activitytag_naranjaclaro_mapas .bck-box.bck-box-6 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+
+/*---------------------Tag negro-----------------*/
 .activitytag_negro_mapas #actividad .content .header .title h3 {
 	background: #000000;
 }
@@ -1979,7 +1999,17 @@ th {
 	border-bottom: 2px solid #000000;
 }
 
-/*Tag gris*/
+/*Caja 7 en cajas 1 y 6 - tag negro*/
+
+.activitytag_negro_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+.activitytag_negro_mapas .bck-box.bck-box-6 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+/*-----------------Tag gris---------------------*/
 .activitytag_gris_mapas #actividad .content .header .title h3 {
 	background: #8EA79B;
 }
@@ -2069,6 +2099,16 @@ th {
 	border-bottom: 2px solid #8EA79B;
 }
 
+
+/*Caja 7 en cajas 1 y 6 - tag gris*/
+
+.activitytag_gris_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+.activitytag_gris_mapas .bck-box.bck-box-6 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
 
 
 /*WB*/
