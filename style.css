@@ -2136,7 +2136,7 @@ th {
 
 /*Dropdown 3*/
 .bck-dropdown.bck-dropdown-3 {
-	background-color: #00A4CC;
+	background-color: #ffe054;
 	margin-top: 10px;
 }
 
@@ -2159,28 +2159,30 @@ th {
 .bck-dropdown-3 .fa-chevron-up:before,
 .bck-dropdown-3 .fa-chevron-down:before {
 	font-size: 1.8rem;
+	color: #000;
 }
 
 .bck-dropdown-3 .bck-dropdown-titulo {
 	font-size: 1.8rem;
 	padding-left: 8px;
 	font-weight: 600;
+	color: #000;
 }
 
 .bck-dropdown-3 .bck-dropdown-titulo:before {
 	content: " ";
-	position: relative;
-	top: 13px;
-	left: 0;
-	padding: 22px;
-	margin-right: 20px;
-	background-size: contain;
-	background-image: url(imagenes/img_casablanca.png);
-	background-repeat: no-repeat;
+    position: relative;
+    top: 10px;
+    left: 13px;
+    padding: 10px;
+    margin-right: 20px;
+    background-size: contain;
+    background-image: url(imagenes/vocabulario_mapas.png);
+    background-repeat: no-repeat;
 }
 
 .bck-dropdown-3 .bck-dropdown-content {
-	background-color: #D1E3F0;
+	background-color: #ffe054;
 	padding-left: 17px;
 	max-height: 800%;
 }
