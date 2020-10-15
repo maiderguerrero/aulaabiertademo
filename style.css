@@ -1240,6 +1240,13 @@ body.is_app .mapasdemo-navbar.ocultar {
     margin-left: -25px;
 }
 
+/*Párrafos en caja 9*/
+
+.bck-box.bck-box-9 p {
+	margin-bottom: 5px;
+}
+
+
 /*CAJA 10*/
 .bck-box.bck-box-10 {
 	background: #E58D7C;
@@ -1290,6 +1297,11 @@ body.is_app .mapasdemo-navbar.ocultar {
     margin-left: -25px;
 }
 
+/*Párrafo en caja 10*/
+
+.bck-box.bck-box-10 p {
+	margin-bottom: 5px;
+}
 
 /*CAJA 11*/
 .bck-box.bck-box-11 {
