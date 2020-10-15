@@ -2191,6 +2191,10 @@ th {
 	border-bottom-right-radius: 15px;
 }
 
+.bck-dropdown-3 .bck-dropdown-content p {
+	margin-bottom: 5px;
+}
+
 /*Dropdown 4*/
 .bck-dropdown.bck-dropdown-4 {
 	background-color: #808080;
