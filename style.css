@@ -1452,6 +1452,33 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 
+/*CAJA 12*/
+
+.bck-box.bck-box-12 {
+    border: none;
+    text-align: left;
+    border-radius: 15px;
+    background: #F1E9EC;
+    -webkit-box-shadow: 10px 10px 15px 0 #BABABA;
+	box-shadow: 10px 10px 15px 0 #BABABA;
+}
+
+.bck-box.bck-box-12 .bck-content {
+	padding: 4px 10px 15px;
+	background: #F1E9EC;
+}
+
+.bck-box.bck-box-12 .bck-title {
+	background: #F1E9EC;
+    padding: 5px 20px;
+    border: 0px;
+}
+
+.bck-box-12 .bck-title:before {
+	display: none;
+}
+
+
 /*CAJA POP-UP*/
 .info-popover .popover-title:before,
 .popover-template .popover-title:before {
