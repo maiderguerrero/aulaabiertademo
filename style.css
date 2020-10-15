@@ -2191,6 +2191,7 @@ th {
 	max-height: 800%;
 	border-bottom-left-radius: 15px;
 	border-bottom-right-radius: 15px;
+	overflow: inherit;
 }
 
 .bck-dropdown-3 .bck-dropdown-content p {
