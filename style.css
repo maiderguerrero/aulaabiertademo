@@ -922,7 +922,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-family: 'Conv_TypeType-TT_Rounds';
 	color: #fff;
     background: #DC4F24;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     font-weight: bold;
     padding-top: 4px;
     border-radius: 15px;
@@ -1694,6 +1694,16 @@ th {
 
 .activitytag_azul_mapas .bck-box-6 .bck-content {
 	border-bottom: 2px solid #007AAB;
+}
+
+/*Caja 7 en cajas 1 y 6*/
+
+.activitytag_azul_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
+	border-bottom: none;
+}
+
+.activitytag_azul_mapas .bck-box.bck-box-6 .bck-box-7 .bck-content {
+	border-bottom: none;
 }
 
 
