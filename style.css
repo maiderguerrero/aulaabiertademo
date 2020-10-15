@@ -2138,6 +2138,7 @@ th {
 .bck-dropdown.bck-dropdown-3 {
 	background-color: #ffe054;
 	margin-top: 10px;
+	border-radius: 15px;
 }
 
 .bck-dropdown-3 .bck-dropdown-button {
@@ -2154,6 +2155,7 @@ th {
 
 .bck-dropdown-3 .bck-dropdown-icon>.fa {
 	border: 0px solid white;
+	padding-top: 2px;
 }
 
 .bck-dropdown-3 .fa-chevron-up:before,
@@ -2163,9 +2165,9 @@ th {
 }
 
 .bck-dropdown-3 .bck-dropdown-titulo {
-	font-size: 1.8rem;
+	font-size: 1.5rem;
 	padding-left: 8px;
-	font-weight: 600;
+	font-weight: 800;
 	color: #000;
 }
 
@@ -2185,6 +2187,8 @@ th {
 	background-color: #ffe054;
 	padding-left: 17px;
 	max-height: 800%;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 /*Dropdown 4*/
