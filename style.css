@@ -1154,6 +1154,8 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-size: contain;
 	margin-top: 3px;
 	margin-left: -52px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
 .bck-box .bck-box-8 {
@@ -1166,23 +1168,26 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-size: 2rem;
 	font-weight: bold;
 	text-align: left;
-	background-color: #333;
+	background-color: #dc4f24;
 	padding: 10px;
 	padding-left: 70px;
 }
 
 .bck-box-8 .bck-content {
 	text-align: center;
+	background: #fbede9;
+	border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 
 .bck-box-8 {
-	background: #E5E5E5;
+	background: transparent;
 	margin-top: 50px;
 }
 
 .bck-box-8:before {
 	content: "VIDEO";
-	color: #333;
+	color: #dc4f24;
 	padding: 40px;
 	position: absolute;
 	margin-top: -65px;
@@ -2267,9 +2272,10 @@ th {
 
 /*Dropdown 5*/
 .bck-dropdown.bck-dropdown-5 {
-	background-color: #000;
+	background-color: #fff;
 	margin-top: 10px;
 	border-radius: 15px;
+	border: 2px solid #dc4f24;
 }
 
 .bck-dropdown-5 .bck-dropdown-button {
@@ -2292,16 +2298,18 @@ th {
 .bck-dropdown-5 .fa-chevron-up:before,
 .bck-dropdown-5 .fa-chevron-down:before {
 	font-size: 1.8rem;
+	color: #dc4f24;
 }
 
 .bck-dropdown-5 .bck-dropdown-titulo {
 	font-size: 1.8rem;
 	padding-left: 8px;
 	font-weight: 600;
+	color: #dc4f24;
 }
 
 .bck-dropdown-5 .bck-dropdown-content {
-	background-color: #E5E5E5;
+	background-color: transparent;
 	padding-left: 25px;
 	max-height: 800%;
 	border-bottom-left-radius: 13px;
