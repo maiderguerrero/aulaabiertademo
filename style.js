@@ -48,6 +48,7 @@
 				{ name: 'Caja 10', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-10' } },
 				{ name: 'Caja 11', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-11' } },
 				{ name: 'Caja 12', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-12' } },
+				{ name: 'Caja 13', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-13' } },
 
 				{ name: 'Icono Critical Thinking', element: 'span', attributes: { 'class': 'icon icon-critical' } },
 				{ name: 'Icono Critical Thinking Gold', element: 'span', attributes: { 'class': 'icon icon-critical-gold' } },
