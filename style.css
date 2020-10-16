@@ -898,6 +898,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     padding: 10px;
     padding-left: 70px;
     border-bottom: 2px solid #dc4f24;
+    border-radius: 0px;
 }
 
 .bck-box.bck-box-1 .bck-content {
@@ -1508,9 +1509,6 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-13 .bck-title:before {
-	display: none;
-}
 
 
 /*CAJA POP-UP*/
