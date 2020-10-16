@@ -949,9 +949,9 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background: transparent;
 }
 
-/*Caja 1 en caja 12*/
+/*Caja 1 en caja 13*/
 
-.bck-box-12 .bck-box-1 .bck-title:before {
+.bck-box-13 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 20px;
@@ -963,12 +963,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 	display: block;
 }
 
-.bck-box-12 .bck-box .bck-box-1 {
+.bck-box-13 .bck-box .bck-box-1 {
 	min-height: 80px;
 	margin-top: 20px;
 }
 
-.bck-box-12 .bck-box-1 .bck-title {
+.bck-box-13 .bck-box-1 .bck-title {
 	color: #dc4f24;
     font-size: 2rem;
     text-align: left;
@@ -978,13 +978,13 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-bottom: 2px solid #dc4f24;
 }
 
-.bck-box-12 .bck-box.bck-box-1 .bck-content {
+.bck-box-13 .bck-box.bck-box-1 .bck-content {
 	padding: 10px;
 	border-bottom: 2px solid #dc4f24;
 	border-radius: 0;
 }
 
-.bck-box-12 .bck-box-1 {
+.bck-box-13 .bck-box-1 {
 	background: transparent;
 }
 
@@ -1229,9 +1229,9 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background: transparent;
 }
 
-/*Caja 6 en caja 12*/
+/*Caja 6 en caja 13*/
 
-.bck-box-12 .bck-box-6 .bck-title:before {
+.bck-box-13 .bck-box-6 .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 20px;
@@ -1243,12 +1243,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 	display: block;
 }
 
-.bck-box-12 .bck-box .bck-box-6 {
+.bck-box-13 .bck-box .bck-box-6 {
 	min-height: 80px;
 	margin-top: 20px;
 }
 
-.bck-box-12 .bck-box-6 .bck-title {
+.bck-box-13 .bck-box-6 .bck-title {
 	color: #dc4f24;
     font-size: 2rem;
     text-align: left;
@@ -1257,13 +1257,13 @@ body.is_app .mapasdemo-navbar.ocultar {
     padding-left: 70px;
 }
 
-.bck-box-12 .bck-box.bck-box-6 .bck-content {
+.bck-box-13 .bck-box.bck-box-6 .bck-content {
 	padding: 10px;
 	border-bottom: 2px solid #dc4f24;
 	border-radius: 0;
 }
 
-.bck-box-12 .bck-box-6 {
+.bck-box-13 .bck-box-6 {
 	background: transparent;
 }
 
@@ -2297,9 +2297,9 @@ th {
 	background: transparent;
 }
 
-/*Caja 1 en caja 12 - tag negro*/
+/*Caja 1 en caja 13 - tag negro*/
 
-.activitytag_negro_mapas .bck-box-12 .bck-box-1 .bck-title:before {
+.activitytag_negro_mapas .bck-box-13 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 20px;
@@ -2311,12 +2311,12 @@ th {
 	display: block;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box .bck-box-1 {
+.activitytag_negro_mapas .bck-box-13 .bck-box .bck-box-1 {
 	min-height: 80px;
 	margin-top: 20px;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box-1 .bck-title {
+.activitytag_negro_mapas .bck-box-13 .bck-box-1 .bck-title {
 	color: #000;
     font-size: 2rem;
     text-align: left;
@@ -2326,19 +2326,19 @@ th {
     border-bottom: 2px solid #000;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box.bck-box-1 .bck-content {
+.activitytag_negro_mapas .bck-box-13 .bck-box.bck-box-1 .bck-content {
 	padding: 10px;
 	border-bottom: 2px solid #000;
 	border-radius: 0;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box-1 {
+.activitytag_negro_mapas .bck-box-13 .bck-box-1 {
 	background: transparent;
 }
 
-/*Caja 6 en caja 12 - tag negro*/
+/*Caja 6 en caja 13 - tag negro*/
 
-.activitytag_negro_mapas .bck-box-12 .bck-box-6 .bck-title:before {
+.activitytag_negro_mapas .bck-box-13 .bck-box-6 .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 20px;
@@ -2350,12 +2350,12 @@ th {
 	display: block;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box .bck-box-6 {
+.activitytag_negro_mapas .bck-box-13 .bck-box .bck-box-6 {
 	min-height: 80px;
 	margin-top: 20px;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box-6 .bck-title {
+.activitytag_negro_mapas .bck-box-13 .bck-box-6 .bck-title {
 	color: #000;
     font-size: 2rem;
     text-align: left;
@@ -2364,13 +2364,13 @@ th {
     padding-left: 70px;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box.bck-box-6 .bck-content {
+.activitytag_negro_mapas .bck-box-13 .bck-box.bck-box-6 .bck-content {
 	padding: 10px;
 	border-bottom: 2px solid #000;
 	border-radius: 0;
 }
 
-.activitytag_negro_mapas .bck-box-12 .bck-box-6 {
+.activitytag_negro_mapas .bck-box-13 .bck-box-6 {
 	background: transparent;
 }
 
