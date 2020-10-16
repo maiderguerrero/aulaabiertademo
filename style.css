@@ -1216,6 +1216,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-box.bck-box-1 .bck-box-7 .bck-content {
 	border-bottom: none;
+	background: #D0D0D0;
 }
 
 .bck-box.bck-box-6 .bck-box-7 .bck-content {
@@ -2216,6 +2217,83 @@ th {
 }
 
 .activitytag_negro_mapas .bck-box-11 .bck-box-6 {
+	background: transparent;
+}
+
+/*Caja 1 en caja 12 - tag negro*/
+
+.activitytag_negro_mapas .bck-box-12 .bck-box-1 .bck-title:before {
+	content: " ";
+	position: absolute;
+	padding: 20px;
+	background-image: url(imagenes/engrupo_mapas_negro.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-top: -2px;
+	margin-left: -53px;
+	display: block;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box .bck-box-1 {
+	min-height: 80px;
+	margin-top: 20px;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box-1 .bck-title {
+	color: #000;
+    font-size: 2rem;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 70px;
+    border-bottom: 2px solid #000;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box.bck-box-1 .bck-content {
+	padding: 10px;
+	border-bottom: 2px solid #000;
+	border-radius: 0;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box-1 {
+	background: transparent;
+}
+
+/*Caja 6 en caja 12 - tag negro*/
+
+.activitytag_negro_mapas .bck-box-12 .bck-box-6 .bck-title:before {
+	content: " ";
+	position: absolute;
+	padding: 20px;
+	background-image: url(imagenes/enparejas_mapas_negro.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-top: -2px;
+	margin-left: -53px;
+	display: block;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box .bck-box-6 {
+	min-height: 80px;
+	margin-top: 20px;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box-6 .bck-title {
+	color: #000;
+    font-size: 2rem;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 70px;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box.bck-box-6 .bck-content {
+	padding: 10px;
+	border-bottom: 2px solid #000;
+	border-radius: 0;
+}
+
+.activitytag_negro_mapas .bck-box-12 .bck-box-6 {
 	background: transparent;
 }
 
