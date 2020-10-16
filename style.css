@@ -1300,6 +1300,20 @@ body.is_app .mapasdemo-navbar.ocultar {
 	border-bottom: none;
 }
 
+/*Caja 7 en caja 1 en caja 13*/
+
+.bck-box-13 .bck-box.bck-box-1 .bck-box.bck-box-7 .bck-content {
+    border-bottom: none;
+    border-radius: 15px;
+}
+
+/*Caja 7 en caja 6 en caja 13*/
+
+.bck-box-13 .bck-box.bck-box-6 .bck-box.bck-box-7 .bck-content {
+    border-bottom: none;
+    border-radius: 15px;
+}
+
 
 /*CAJA8*/
 .bck-box-8 .bck-title:before {
@@ -2372,6 +2386,20 @@ th {
 
 .activitytag_negro_mapas .bck-box-13 .bck-box-6 {
 	background: transparent;
+}
+
+/*Caja 7 en caja 1 en caja 13 - activitytag negro*/
+
+.activitytag_negro_mapas .bck-box-13 .bck-box.bck-box-1 .bck-box.bck-box-7 .bck-content {
+    border-bottom: none;
+    border-radius: 15px;
+}
+
+/*Caja 7 en caja 6 en caja 13 - activitytag negro*/
+
+.activitytag_negro_mapas .bck-box-13 .bck-box.bck-box-6 .bck-box.bck-box-7 .bck-content {
+    border-bottom: none;
+    border-radius: 15px;
 }
 
 /*-----------------Tag gris---------------------*/
