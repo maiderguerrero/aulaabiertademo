@@ -1448,8 +1448,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-size: contain;
 	margin-top: 3px;
 	margin-left: -52px;
-	border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
 }
 
 .bck-box .bck-box-8 {
@@ -1465,6 +1463,8 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-color: #dc4f24;
 	padding: 10px;
 	padding-left: 70px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
 .bck-box-8 .bck-content {
