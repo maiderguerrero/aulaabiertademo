@@ -663,6 +663,10 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-weight: 800;
 }
 
+.bck-enfasis-10 {
+	background-color: #99D5B5;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
