@@ -889,8 +889,8 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 #actividad .content .cke_contents .bck-ul-1 li:before,
 #actividad .content .texto_curso ul.bck-ul-1 li:before,
-#actividad .popover-content ul.bck-ol-1 li:before,
-#actividad .content .workspace ul li ol.bck-ul-1 li:before {
+#actividad .popover-content ul.bck-ul-1 li:before,
+#actividad .content .workspace ul li ul.bck-ul-1 li:before {
 	content: "";
     height: 6px;
     width: 6px;
@@ -923,7 +923,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 #actividad .content .cke_contents .bck-ul-2 li:before,
 #actividad .content .texto_curso ul.bck-ul-2 li:before,
-#actividad .popover-content ul.bck-ol-2 li:before,
+#actividad .popover-content ul.bck-ul-2 li:before,
 #actividad .content .workspace ul li ul.bck-ul-2 li:before {
 	content: "►";
     color: #333;
