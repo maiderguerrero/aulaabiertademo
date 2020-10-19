@@ -924,10 +924,9 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ul-2 li:before,
 #actividad .content .texto_curso ul.bck-ul-2 li:before,
 #actividad .popover-content ul.bck-ol-2 li:before,
-#actividad .content .workspace ul li ol.bck-ul-2 li:before {
+#actividad .content .workspace ul li ul.bck-ul-2 li:before {
 	content: "►";
     color: #333;
-    border-radius: 50%;
     position: absolute;
     margin-top: 0em;
     margin-left: -10px;
