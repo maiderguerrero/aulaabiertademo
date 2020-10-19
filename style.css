@@ -758,7 +758,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-weight: bold;
 	margin-top: 0;
 	text-align: right;
-	left: -30px;
+	margin-left: -10px;
 	width: 29px;
 	font-family: Conv_TypeType-TT_Rounds;
 
@@ -792,7 +792,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	text-align: right;
 	left: -20px;
 	font-family: inherit;
-	margin: 0px 0px 0px -10px;
+	margin: 0px 0px 0px 2px;
 	width: inherit;
 }
 
@@ -826,14 +826,14 @@ body.is_app .mapasdemo-navbar.ocultar {
 	text-align: right;
 	left: -20px;
 	font-family: inherit;
-	margin: 0px 0px 0px -10px;
+	margin: 0px 0px 0px -1px;
 	width: inherit;
 }
 
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
-	padding-left: 20px;
+	padding-left: 40px;
 }
 
 .texto_curso ul li:before,
@@ -895,7 +895,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-1 li,
 #actividad .popover-content .bck-ul-1 li,
 #actividad .content .workspace ul li .bck-ul-1 li {
-	padding-left: 20px;
+	padding-left: 40px;
 	position: relative;
 	list-style: none;
 	margin-bottom: 10px;
@@ -929,7 +929,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-2 li,
 #actividad .popover-content .bck-ul-2 li,
 #actividad .content .workspace ul li .bck-ul-2 li {
-	padding-left: 25px;
+	padding-left: 40px;
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
@@ -962,7 +962,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-3 li,
 #actividad .popover-content .bck-ul-3 li,
 #actividad .content .workspace ul li .bck-ul-3 li {
-	padding-left: 25px;
+	padding-left: 40px;
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
