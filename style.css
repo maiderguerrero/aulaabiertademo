@@ -903,7 +903,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 }
 
-/*LISTA DESORDENADA 1*/
+/*LISTA DESORDENADA 2*/
 #actividad .content .cke_contents .bck-ul-2,
 #actividad .content .texto_curso .bck-ul-2,
 #actividad .content .workspace ul li .bck-ul-2 {
@@ -929,7 +929,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: .6em;
+    margin-top: 0em;
     margin-left: -10px;
 
 }
