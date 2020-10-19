@@ -542,26 +542,26 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-title-preparate {
 	color: #fff;
-	font-size: 2.1rem;
-	font-weight: bold;
-	background: #dc4f24;
-	padding: 12px;
-	padding-left: 25px;
-	border-radius: 15px 15px 0px 0px;
-	margin-top: 5px;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #dc4f24;
+    padding: 12px;
+    padding-left: 10px;
+    border-radius: 15px 15px 0px 0px;
+    margin-top: 5px;
 }
 
 
 .bck-title-preparate:before {
 	content: " ";
-	position: relative;
-	top: 15px;
-	left: 0;
-	padding: 17px;
-	margin-right: 10px;
-	background-size: contain;
-	background-image: url(imagenes/img_casablanca.png);
-	background-repeat: no-repeat;
+    position: relative;
+    top: 13px;
+    left: -5px;
+    padding: 20px;
+    margin-right: 0;
+    background-size: contain;
+    background-image: url(imagenes/img_casablanca.png);
+    background-repeat: no-repeat;
 }
 
 
