@@ -663,54 +663,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-weight: 800;
 }
 
-/*LISTAS DESORDENADAS*/
-.texto_curso ul li {
-	padding-left: 20px;
-}
-
-.texto_curso ul li:before,
-.workspace ul li ul li:before,
-.cke_contents ul li:before,
-.preview ul li:before,
-.classify-item ul li:before,
-#actividad .workspace.multiple-choice .js-item ul li:before,
-#actividad .workspace.matching .box ul li:before,
-#actividad .workspace.ordenar .js-rank-item ul li:before {
-	height: 6px;
-	width: 6px;
-	background-color: #333;
-	color: #333;
-	border-radius: 50%;
-}
-
-/*lista desordenada por defecto, sin seleccionar estilo para la ul*/
-#actividad .content .texto_curso ul li:before,
-#actividad .content .workspace ul li ul li:before {
-	height: 9px;
-	width: 9px;
-	background-color: #fff;
-	color: #fff;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	border-radius: 50%;
-}
-
-#actividad .content .texto_curso ul li::before,
-#actividad .content .workspace ul li ul li::before,
-#actividad .content .texto_curso .bck-ul li::before,
-#actividad .content .workspace ul li .bck-ul li::before,
-#actividad .popover-background.shown .popover-content>ul>li::before {
-	content: "";
-	height: 6px;
-	width: 6px;
-	background-color: #333;
-	color: #333;
-	border-radius: 50%;
-	position: absolute;
-	margin-top: .6em;
-	margin-left: -10px;
-}
-
+/*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
 #actividad .popover-content .bck-ol li:before,
@@ -869,6 +822,58 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 
+/*LISTAS DESORDENADAS*/
+.texto_curso ul li {
+	padding-left: 20px;
+}
+
+.texto_curso ul li:before,
+.workspace ul li ul li:before,
+.cke_contents ul li:before,
+.preview ul li:before,
+.classify-item ul li:before,
+#actividad .workspace.multiple-choice .js-item ul li:before,
+#actividad .workspace.matching .box ul li:before,
+#actividad .workspace.ordenar .js-rank-item ul li:before {
+	content: "";
+	height: 6px;
+	width: 6px;
+	background-color: #333;
+	color: #333;
+	border-radius: 50%;
+}
+
+/*lista desordenada por defecto, sin seleccionar estilo para la ul*/
+#actividad .content .texto_curso ul li:before,
+#actividad .content .workspace ul li ul li:before {
+	content: "";
+	height: 9px;
+	width: 9px;
+	background-color: #fff;
+	color: #fff;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+#actividad .content .texto_curso ul li::before,
+#actividad .content .workspace ul li ul li::before,
+#actividad .content .texto_curso .bck-ul li::before,
+#actividad .content .workspace ul li .bck-ul li::before,
+#actividad .popover-background.shown .popover-content>ul>li::before {
+	content: "";
+	height: 6px;
+	width: 6px;
+	background-color: #333;
+	color: #333;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: .6em;
+	margin-left: -10px;
+}
+
+
+
 /*LISTA DESORDENADA 1*/
 #actividad .content .cke_contents .bck-ul-1,
 #actividad .content .texto_curso .bck-ul-1,
@@ -917,7 +922,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ul-2 li {
 	padding-left: 20px;
 	position: relative;
-	list-style: none;
+	list-style-type: none;
 	margin-bottom: 10px;
 }
 
