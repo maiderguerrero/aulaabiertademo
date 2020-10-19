@@ -32,6 +32,7 @@
 				{ name: 'Énfasis-Paginas', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'Énfasis-Bolder', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 				{ name: 'Énfasis-10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
+				{ name: 'Énfasis-11', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
