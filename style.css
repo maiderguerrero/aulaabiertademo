@@ -966,7 +966,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
-	font-weight: bold;
 }
 
 #actividad .content .cke_contents .bck-ul-3 li:before,
@@ -975,8 +974,8 @@ body.is_app .mapasdemo-navbar.ocultar {
 #actividad .content .workspace ul li ul.bck-ul-3 li:before {
 	font-family: 'FontAwesome';
     content: "\f058";
-    background-color: #dc4f24;
-    color: #dc4f24;
+    background-color: transparent;
+    color: #fff;
     position: absolute;
     margin-top: 1px;
     margin-left: -14px;
