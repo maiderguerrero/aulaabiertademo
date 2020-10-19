@@ -792,7 +792,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	text-align: right;
 	left: -20px;
 	font-family: inherit;
-	margin: 0px 0px 0px 2px;
+	margin: 0px 0px 0px -3px;
 	width: inherit;
 }
 
