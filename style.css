@@ -924,6 +924,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	position: relative;
 	list-style-type: none;
 	margin-bottom: 10px;
+	font-weight: bold;
 }
 
 #actividad .content .cke_contents .bck-ul-2 li:before,
