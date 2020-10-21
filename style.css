@@ -675,9 +675,8 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-enfasis-12 {
 	color: #fff;
 	font-weight: bold;
-	border-radius: 15px;
-	padding-left: 15px;
-	padding-right: 15px;
+	border-radius: 10px;
+	padding: 2px 15px 2px 15px;
 	background-color: #009746;
 }
 
