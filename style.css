@@ -672,6 +672,15 @@ body.is_app .mapasdemo-navbar.ocultar {
 	color: #373636;
 }
 
+.bck-enfasis-12 {
+	color: #fff;
+	font-weight: bold;
+	border-radius: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #009746;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
