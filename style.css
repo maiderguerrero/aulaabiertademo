@@ -1141,6 +1141,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     font-size: 2.3rem;
     font-weight: bold;
     padding-top: 4px;
+    padding-left: 20px;
     border-radius: 15px;
 }
 
@@ -1149,7 +1150,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     background: #DC4F24;
     margin-bottom: 0;
     font-size: 1.5rem;
-    padding: 15px 45px 0px 60px;
+    padding: 15px 45px 0px 55px;
     font-weight: 800;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
