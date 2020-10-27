@@ -1015,7 +1015,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-image: url(imagenes/engrupo_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: 0px;
+	margin-top: -3px;
 	margin-left: -40px;
 }
 
@@ -1049,12 +1049,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box-11 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
-	padding: 20px;
+	padding: 17px;
 	background-image: url(imagenes/engrupo_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: -2px;
-	margin-left: -53px;
+	margin-top: -3px;
+	margin-left: -40px;
 	display: block;
 }
 
@@ -1088,12 +1088,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box-13 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
-	padding: 20px;
+	padding: 17px;
 	background-image: url(imagenes/engrupo_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: -2px;
-	margin-left: -53px;
+	margin-top: -3px;
+	margin-left: -40px;
 	display: block;
 }
 
@@ -1291,12 +1291,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box-6 .bck-title:before {
 	content: " ";
 	position: absolute;
-	padding: 20px;
+	padding: 15px;
 	background-image: url(imagenes/enparejas_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: 0px;
-	margin-left: -52px;
+	margin-top: -3px;
+	margin-left: -35px;
 	display: block;
 }
 
@@ -1307,13 +1307,14 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-box-6 .bck-title {
 	color: #dc4f24;
-	font-size: 2rem;
-	font-weight: bold;
+	font-size: 1.5rem;
+	font-weight: 800;
 	text-align: left;
 	background-color: transparent;
 	padding: 10px;
-	padding-left: 70px;
+	padding-left: 550px;
 	border-bottom: 2px solid transparent;
+	margin-bottom: 0px;
 }
 
 .bck-box-6 .bck-content {
@@ -2373,12 +2374,12 @@ th {
 .activitytag_negro_mapas .bck-box-11 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
-	padding: 20px;
+	padding: 17px;
 	background-image: url(imagenes/engrupo_mapas_negro.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: -2px;
-	margin-left: -53px;
+	margin-top: -3px;
+	margin-left: -40px;
 	display: block;
 }
 
@@ -2450,12 +2451,12 @@ th {
 .activitytag_negro_mapas .bck-box-13 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
-	padding: 20px;
+	padding: 17px;
 	background-image: url(imagenes/engrupo_mapas_negro.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: -2px;
-	margin-left: -53px;
+	margin-top: -3px;
+	margin-left: -40px;
 	display: block;
 }
 
