@@ -1011,12 +1011,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box-1 .bck-title:before {
 	content: " ";
 	position: absolute;
-	padding: 20px;
+	padding: 17px;
 	background-image: url(imagenes/engrupo_mapas_naranja.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	margin-top: -2px;
-	margin-left: -53px;
+	margin-top: 0px;
+	margin-left: -40px;
 }
 
 .bck-box .bck-box-1 {
@@ -1026,11 +1026,11 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-box-1 .bck-title {
 	color: #dc4f24;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: left;
     background-color: transparent;
     padding: 10px;
-    padding-left: 70px;
+    padding-left: 60px;
     border-bottom: 2px solid #dc4f24;
     border-radius: 0px;
 }
