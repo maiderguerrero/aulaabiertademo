@@ -1110,6 +1110,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     padding: 10px;
     padding-left: 70px;
     border-bottom: 2px solid #dc4f24;
+    font-weight: 800;
 }
 
 .bck-box-13 .bck-box.bck-box-1 .bck-content {
@@ -1662,12 +1663,12 @@ body.is_app .mapasdemo-navbar.ocultar {
 /*Arreglos cajas*/
 .bck-box-5 .bck-box-1 .bck-title {
 	color: #fff;
-	font-size: 2rem;
-	font-weight: bold;
+	font-size: 1.5rem;
+	font-weight: 800;
 	text-align: left;
 	background-color: #808080;
 	padding: 10px;
-	padding-left: 70px;
+	padding-left: 60px;
 }
 
 .bck-box-1 .bck-content .bck-box-4 .bck-title {
@@ -2390,12 +2391,13 @@ th {
 
 .activitytag_negro_mapas .bck-box-11 .bck-box-1 .bck-title {
 	color: #000;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: left;
     background-color: transparent;
     padding: 10px;
-    padding-left: 70px;
+    padding-left: 60px;
     border-bottom: 2px solid #000;
+    font-weight: 800;
 }
 
 .activitytag_negro_mapas .bck-box-11 .bck-box.bck-box-1 .bck-content {
@@ -2467,12 +2469,13 @@ th {
 
 .activitytag_negro_mapas .bck-box-13 .bck-box-1 .bck-title {
 	color: #000;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: left;
     background-color: transparent;
     padding: 10px;
-    padding-left: 70px;
+    padding-left: 60px;
     border-bottom: 2px solid #000;
+    font-weight: bold;
 }
 
 .activitytag_negro_mapas .bck-box-13 .bck-box.bck-box-1 .bck-content {
