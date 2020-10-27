@@ -1033,6 +1033,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     padding-left: 50px;
     border-bottom: 2px solid #dc4f24;
     border-radius: 0px;
+    font-weight: 800;
 }
 
 .bck-box.bck-box-1 .bck-content {
@@ -1071,6 +1072,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     padding: 10px;
     padding-left: 50px;
     border-bottom: 2px solid #dc4f24;
+    font-weight: 800;
 }
 
 .bck-box-11 .bck-box.bck-box-1 .bck-content {
@@ -2482,7 +2484,7 @@ th {
     padding: 10px;
     padding-left: 50px;
     border-bottom: 2px solid #000;
-    font-weight: bold;
+    font-weight: 800;
 }
 
 .activitytag_negro_mapas .bck-box-13 .bck-box.bck-box-1 .bck-content {
