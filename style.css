@@ -1901,45 +1901,40 @@ body.is_app .mapasdemo-navbar.ocultar {
 .item-container .icon-critical:before {
 	background-image: url(imagenes/criticalthinking_naranja.png);
 	width: 160px;
-    height: 45px;
+    height: 25px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
 .item-container .icon-critical-gold:before {
 	background-image: url(imagenes/criticalthinking_naranjaclaro.png);
 	width: 160px;
-    height: 45px;
+    height: 25px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
 .item-container .icon-critical-verde:before {
 	background-image: url(imagenes/criticalthinking_verde.png);
 	width: 160px;
-    height: 45px;
+    height: 25px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
 .item-container .icon-critical-negro:before {
 	background-image: url(imagenes/criticalthinking_negro.png);
 	width: 160px;
-    height: 45px;
+    height: 25px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
 .item-container .icon-critical-azul:before {
 	background-image: url(imagenes/criticalthinking_azul.png);
 	width: 160px;
-    height: 45px;
+    height: 25px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
@@ -1948,7 +1943,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	width: 97px;
     height: 20px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
@@ -1957,7 +1951,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	width: 97px;
     height: 20px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
@@ -1966,7 +1959,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	width: 97px;
     height: 20px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
@@ -1975,7 +1967,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	width: 97px;
     height: 20px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
@@ -1984,7 +1975,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	width: 97px;
     height: 20px;
     vertical-align: top;
-    margin-top: -10px;
     margin-right: 5px;
 }
 
