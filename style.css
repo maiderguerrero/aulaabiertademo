@@ -1899,19 +1899,43 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 .item-container .icon-critical:before {
-	background-image: url(imagenes/critical_thinking_dark.png);
+	background-image: url(imagenes/criticalthinking_naranja.png);
 }
 
 .item-container .icon-critical-gold:before {
-	background-image: url(imagenes/critical_thinking_gold.png);
+	background-image: url(imagenes/criticalthinking_naranjaclaro.png);
 }
 
 .item-container .icon-critical-verde:before {
-	background-image: url(imagenes/critical_thinking_verde.png);
+	background-image: url(imagenes/criticalthinking_verde.png);
 }
 
 .item-container .icon-critical-negro:before {
-	background-image: url(imagenes/critical_thinking_negro.png);
+	background-image: url(imagenes/criticalthinking_negro.png);
+}
+
+.item-container .icon-critical-azul:before {
+	background-image: url(imagenes/criticalthinking_azul.png);
+}
+
+.item-container .icon-search:before {
+	background-image: url(imagenes/search_naranja.png);
+}
+
+.item-container .icon-search-naranjaclaro:before {
+	background-image: url(imagenes/search_naranjaclaro.png);
+}
+
+.item-container .icon-search-verde:before {
+	background-image: url(imagenes/search_verde.png);
+}
+
+.item-container .icon-search-negro:before {
+	background-image: url(imagenes/search_negro.png);
+}
+
+.item-container .icon-search-azul:before {
+	background-image: url(imagenes/search_azul.png);
 }
 
 .item-container .icon-video-oscuro:before {
