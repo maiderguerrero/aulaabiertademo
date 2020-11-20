@@ -683,6 +683,11 @@ body.is_app .mapasdemo-navbar.ocultar {
     top: -5px;
 }
 
+.bck-enfasis-12 {
+	font-style: italic;
+	font-size: 2rem;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
@@ -1031,7 +1036,6 @@ body.is_app .mapasdemo-navbar.ocultar {
     background-color: transparent;
     padding: 10px;
     padding-left: 50px;
-    border-bottom: 2px solid #dc4f24;
     border-radius: 0px;
     font-weight: 800;
 }
@@ -1071,7 +1075,6 @@ body.is_app .mapasdemo-navbar.ocultar {
     background-color: transparent;
     padding: 10px;
     padding-left: 50px;
-    border-bottom: 2px solid #dc4f24;
     font-weight: 800;
 }
 
@@ -1111,7 +1114,6 @@ body.is_app .mapasdemo-navbar.ocultar {
     background-color: transparent;
     padding: 10px;
     padding-left: 50px;
-    border-bottom: 2px solid #dc4f24;
     font-weight: 800;
 }
 
@@ -1138,7 +1140,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-family: 'Conv_TypeType-TT_Rounds';
 	color: #fff;
     background: #DC4F24;
-    font-size: 2.3rem;
+    font-size: 2.1rem;
     font-weight: bold;
     padding-top: 4px;
     padding-left: 20px;
@@ -2003,7 +2005,6 @@ th {
 
 .activitytag_azul_mapas .bck-box-1 .bck-title {
 	color: #007AAB;
-    border-bottom: 2px solid #007AAB;
 }
 
 .activitytag_azul_mapas .bck-box.bck-box-1 .bck-content {
@@ -2104,7 +2105,6 @@ th {
 
 .activitytag_verde_mapas .bck-box-1 .bck-title {
 	color: #009746;
-    border-bottom: 2px solid #009746;
 }
 
 .activitytag_verde_mapas .bck-box.bck-box-1 .bck-content {
@@ -2203,7 +2203,6 @@ th {
 
 .activitytag_naranjaclaro_mapas .bck-box-1 .bck-title {
 	color: #F39200;
-    border-bottom: 2px solid #F39200;
 }
 
 .activitytag_naranjaclaro_mapas .bck-box.bck-box-1 .bck-content {
@@ -2303,7 +2302,6 @@ th {
 
 .activitytag_negro_mapas .bck-box-1 .bck-title {
 	color: #000000;
-    border-bottom: 2px solid #000000;
 }
 
 .activitytag_negro_mapas .bck-box.bck-box-1 .bck-content {
@@ -2404,7 +2402,6 @@ th {
     background-color: transparent;
     padding: 10px;
     padding-left: 50px;
-    border-bottom: 2px solid #000;
     font-weight: 800;
 }
 
@@ -2484,7 +2481,6 @@ th {
     background-color: transparent;
     padding: 10px;
     padding-left: 50px;
-    border-bottom: 2px solid #000;
     font-weight: 800;
 }
 
@@ -2575,7 +2571,6 @@ th {
 
 .activitytag_gris_mapas .bck-box-1 .bck-title {
 	color: #8EA79B;
-    border-bottom: 2px solid #8EA79B;
 }
 
 .activitytag_gris_mapas .bck-box.bck-box-1 .bck-content {
@@ -2972,7 +2967,15 @@ th {
     -o-transition: height .4s ease;
     transition: height .4s ease;
     max-height: fit-content;
+    -o-max-height: fit-content;
+    -moz-max-height: fit-content;
+    -webkit-max-height: fit-content;
 }
+
+#indice .unit-content .actividades .item .text p {
+    margin-bottom: 3px;
+}
+
 #indice .unit-content .material .item .imagen.archivo:after {
     background-color: rgba(174, 68, 15, 0.7);
     border-radius: 50%;
