@@ -688,6 +688,26 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-size: 1.8rem;
 }
 
+.bck-enfasis-14{
+	font-weight: bold;
+	font-size: 1.4rem;
+	text-transform: uppercase;
+	border-radius: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: #FFE054;
+}
+
+.bck-enfasis-14:before {
+	content: "";
+	position: absolute;
+	background-image: url(imagenes/icono_video_oscuro.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
