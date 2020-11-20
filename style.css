@@ -1940,42 +1940,47 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .item-container .icon-search:before {
 	background-image: url(imagenes/search_naranja.png);
-	width: 97px;
-    height: 20px;
+	width: 105px;
+    height: 23px;
     vertical-align: top;
     margin-right: 5px;
+    margin-top: 1px;
 }
 
 .item-container .icon-search-naranjaclaro:before {
 	background-image: url(imagenes/search_naranjaclaro.png);
-	width: 97px;
-    height: 20px;
+	width: 105px;
+    height: 23px;
     vertical-align: top;
     margin-right: 5px;
+    margin-top: 1px;
 }
 
 .item-container .icon-search-verde:before {
 	background-image: url(imagenes/search_verde.png);
-	width: 97px;
-    height: 20px;
+	width: 105px;
+    height: 23px;
     vertical-align: top;
     margin-right: 5px;
+    margin-top: 1px;
 }
 
 .item-container .icon-search-negro:before {
 	background-image: url(imagenes/search_negro.png);
-	width: 97px;
-    height: 20px;
+	width: 105px;
+    height: 23px;
     vertical-align: top;
     margin-right: 5px;
+    margin-top: 1px;
 }
 
 .item-container .icon-search-azul:before {
 	background-image: url(imagenes/search_azul.png);
-	width: 97px;
-    height: 20px;
+	width: 105px;
+    height: 23px;
     vertical-align: top;
     margin-right: 5px;
+    margin-top: 1px;
 }
 
 .item-container .icon-video-oscuro:before {
