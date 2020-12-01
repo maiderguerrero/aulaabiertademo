@@ -2078,6 +2078,7 @@ th {
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
+	background-position: center;
 }
 
 /*Escribir*/
@@ -2088,6 +2089,7 @@ th {
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
+	background-position: center;
 }
 
 /*Corregir por el profesor*/
