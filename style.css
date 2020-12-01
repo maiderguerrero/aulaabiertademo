@@ -2072,7 +2072,7 @@ th {
 
 /*Leer*/
 
-.activitytag_mapas_iconoleer {
+.activitytag_mapas_iconoleer:before {
 	content: "";
 	background-image: url(imagenes/icono_leer.png);
 	background-repeat: no-repeat;
@@ -2081,6 +2081,14 @@ th {
 }
 
 /*Escribir*/
+
+.activitytag_mapas_iconoescribir:before {
+	content: "";
+	background-image: url(imagenes/icono_escribir.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+}
 
 /*Corregir por el profesor*/
 
