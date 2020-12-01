@@ -2068,6 +2068,24 @@ th {
 	margin-bottom: 0px;
 }
 
+/*TAGS ICONOS*/
+
+/*Leer*/
+
+.activitytag_mapas_iconoleer {
+	content: "";
+	background-image: url(imagenes/icono_leer.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+}
+
+/*Escribir*/
+
+/*Corregir por el profesor*/
+
+/*Grabar audio*/
+
 /*TAGS*/
 
 /*--------------------Tag azul-----------------------*/
