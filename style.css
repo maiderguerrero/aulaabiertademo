@@ -2135,6 +2135,28 @@ th {
 	background-position: center;
 }
 
+/*Audio corregir profesor*/
+
+.activitytag_mapas_iconoaudiocorregir:before {
+	content: "";
+	background-image: url(imagenes/blink-mix-audio1.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+	background-position: center;
+}
+
+.activitytag_mapas_iconoaudiocorregir2:before {
+	content: "";
+	background-image: url(imagenes/blink-mix-audio2.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+	background-position: center;
+}
+
+
+
 /*TAGS*/
 
 /*--------------------Tag azul-----------------------*/
