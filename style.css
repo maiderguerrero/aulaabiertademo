@@ -1203,6 +1203,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	width: 100%;
 	margin-left: 10px;
 	border-radius: 15px;
+	border-bottom: 2px solid transparent;
 }
 
 .bck-box.bck-box-3 .bck-title {
