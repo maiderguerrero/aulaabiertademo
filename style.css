@@ -2080,86 +2080,111 @@ th {
 
 /*TAGS ICONOS*/
 
-/*Leer*/
+/*Actividad Leer*/
 
 .activitytag_mapas_iconoleer:before {
 	content: "";
-	background-image: url(imagenes/icono_leer.png);
+	background-image: url(imagenes/icono_actividadleer_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	background-position: center;
 }
 
-/*Escribir*/
+/*Actividad Leer Corregir profesor*/
+
+.activitytag_mapas_iconoleer_profesor:before {
+	content: "";
+	background-image: url(imagenes/icono_actividadleer_tick_mapas.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+	background-position: center;
+}
+
+/*Actividad Escribir*/
 
 .activitytag_mapas_iconoescribir:before {
 	content: "";
-	background-image: url(imagenes/icono_escribir.png);
+	background-image: url(imagenes/icono_actividadescribir_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	background-position: center;
 }
 
-/*Corregir por el profesor*/
+/*Actividad Escribir Corregir profesor*/
 
-.activitytag_mapas_corregirprofesor:before {
+.activitytag_mapas_iconoescribir_profesor:before {
 	content: "";
-	background-image: url(imagenes/icono_corregir_profesor.png);
+	background-image: url(imagenes/icono_actividadescribir_tick_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	background-position: center;
 }
 
-/*Grabar audio*/
+
+/*Actividad Grabar audio*/
 
 .activitytag_mapas_iconograbaraudio:before {
 	content: "";
-	background-image: url(imagenes/icono_grabar_audio.png);
+	background-image: url(imagenes/icono_actividadgrabar_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	background-position: center;
 }
 
-/*Video*/
+/*Actividad Grabar audio Corregir profesor*/
+
+.activitytag_mapas_iconograbaraudio_profesor:before {
+	content: "";
+	background-image: url(imagenes/icono_actividadgrabar_tick_mapas.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+	background-position: center;
+}
+
+/*Actividad Video*/
+
 .activitytag_mapas_iconovideo:before {
 	content: "";
-	background-image: url(imagenes/icono_video.png);
+	background-image: url(imagenes/icono_actividadvideo_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	background-position: center;
 }
 
-/*Audio*/
+/*Actividad Video Corregir profesor*/
+
+.activitytag_mapas_iconovideo_profesor:before {
+	content: "";
+	background-image: url(imagenes/icono_actividadvideo_tick_mapas.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20px;
+	background-position: center;
+}
+
+/*Actividad Audio*/
 
 .activitytag_mapas_iconoaudio:before {
 	content: "";
-	background-image: url(imagenes/icono_audio.png);
+	background-image: url(imagenes/icono_actividadaudio_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 20px;
 	background-position: center;
 }
 
-/*Audio corregir profesor*/
+/*Actividad Audio corregir profesor*/
 
-.activitytag_mapas_iconoaudiocorregir:before {
+.activitytag_mapas_iconoaudio_profesor:before {
 	content: "";
-	background-image: url(imagenes/blink-mix-audio1.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 35px;
-	background-position: center;
-	margin-right: 5px;
-}
-
-.activitytag_mapas_iconoaudiocorregir2:before {
-	content: "";
-	background-image: url(imagenes/blink-mix-audio2.png);
+	background-image: url(imagenes/icono_actividadaudio_tick_mapas.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	padding: 35px;
