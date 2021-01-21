@@ -2216,6 +2216,19 @@ th {
     margin-left: -7px;
 }
 
+/*Actividad Audio corregir profesor negro*/
+
+.activitytag_mapas_iconoaudio_profesor:before {
+	content: "";
+    background-image: url(imagenes/icono_actividadaudio_tick_negro_mapas.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 5px 20px;
+    background-position: center;
+    text-align: center;
+    margin-right: 3px;
+    margin-left: -7px;
+}
 
 
 /*TAGS*/
