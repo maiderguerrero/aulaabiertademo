@@ -2218,7 +2218,7 @@ th {
 
 /*Actividad Audio corregir profesor negro*/
 
-.activitytag_mapas_iconoaudio_profesor:before {
+.activitytag_mapas_iconoaudio_profesor_negro:before {
 	content: "";
     background-image: url(imagenes/icono_actividadaudio_tick_negro_mapas.png);
     background-repeat: no-repeat;
