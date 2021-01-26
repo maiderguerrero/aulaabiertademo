@@ -2087,50 +2087,54 @@ th {
     background-image: url(imagenes/icono_actividadleer_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 5px 13px;
+    padding: 1px 8px;
     background-position: center;
     margin-right: 10px;
     margin-left: -1px;
+    vertical-align: top;
 }
 
 /*Actividad Leer Corregir profesor*/
 
 .activitytag_mapas_iconoleer_profesor:before {
-	    content: "";
+	content: "";
     background-image: url(imagenes/icono_actividadleer_tick_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 4px 15px;
+    padding: 0px 9px;
     margin-right: 7px;
     background-position: center;
     margin-left: -2px;
+    vertical-align: top;
 }
 
 /*Actividad Escribir*/
 
 .activitytag_mapas_iconoescribir:before {
-	content: "";
+    content: "";
     background-image: url(imagenes/icono_actividadescribir_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 8px 13px;
+    padding: 0px 8px;
     margin-right: 8px;
     background-position: center;
     text-align: center;
+    vertical-align: text-top;
 }
 
 /*Actividad Escribir Corregir profesor*/
 
 .activitytag_mapas_iconoescribir_profesor:before {
 	    content: "";
-    background-image: url(imagenes/icono_actividadescribir_tick_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 8px 14px;
-    background-position: center;
-    margin-left: -2px;
-    text-align: center;
-    margin-right: 8px;
+	    background-image: url(imagenes/icono_actividadescribir_tick_mapas.png);
+	    background-repeat: no-repeat;
+	    background-size: contain;
+	    padding: 0px 8px;
+	    background-position: center;
+	    margin-left: -2px;
+	    text-align: -webkit-match-parent;
+	    margin-right: 8px;
+	    vertical-align: top;
 }
 
 
@@ -2141,11 +2145,12 @@ th {
     background-image: url(imagenes/icono_actividadgrabar_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 4px 16px;
+    padding: 0px 9px;
     background-position: center;
     text-align: center;
     margin-left: -5.5px;
     margin-right: 8px;
+    vertical-align: top;
 }
 
 /*Actividad Grabar audio Corregir profesor*/
@@ -2155,10 +2160,11 @@ th {
     background-image: url(imagenes/icono_actividadgrabar_tick_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 4px 16px;
+    padding: 0px 10px;
     background-position: center;
     margin-left: -5.5px;
     margin-right: 8px;
+    vertical-align: top;
 }
 
 /*Actividad Video*/
@@ -2168,11 +2174,12 @@ th {
     background-image: url(imagenes/icono_actividadvideo_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 3px 13px;
+    padding: 0px 8px;
     background-position: center;
     text-align: center;
     margin-left: -1px;
     margin-right: 10px;
+    vertical-align: top;
 }
 
 /*Actividad Video Corregir profesor*/
@@ -2182,38 +2189,41 @@ th {
     background-image: url(imagenes/icono_actividadvideo_tick_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 2px 14px;
+    padding: 0px 8px;
     background-position: center;
     text-align: center;
     margin-left: -2px;
     margin-right: 9px;
+    vertical-align: top;
 }
 
 /*Actividad Audio*/
 
 .activitytag_mapas_iconoaudio:before {
-	content: "";
+    content: "";
     background-image: url(imagenes/icono_actividadaudio_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 5px 18px;
+    padding: 0px 10px;
     background-position: center;
     margin-left: -7px;
     margin-right: 6px;
+    vertical-align: top;
 }
 
 /*Actividad Audio corregir profesor*/
 
 .activitytag_mapas_iconoaudio_profesor:before {
-	content: "";
+content: "";
     background-image: url(imagenes/icono_actividadaudio_tick_mapas.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 5px 20px;
+    padding: 0px 11px;
     background-position: center;
     text-align: center;
     margin-right: 3px;
     margin-left: -7px;
+    vertical-align: top;
 }
 
 /*Actividad Audio corregir profesor negro*/
@@ -2229,7 +2239,6 @@ th {
     margin-right: 3px;
     margin-left: -7px;
 }
-
 
 /*TAGS*/
 
