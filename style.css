@@ -295,6 +295,18 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	text-decoration: none;
 }
 /*INDICE LATERAL*/
+#book-index .col-indice {
+    background: #ffffff;
+}
+
+#book-index #indice .units ul li a .title{
+	font-weight: 600;
+}
+
+#book-index #indice .units ul li {
+    border: none;
+}
+
 
 #indice .units ul li:not(.add) a .title {
 	font-size: 14px;
