@@ -171,7 +171,7 @@ strong {
 /*TOC*/
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background-color: #333 !important;
+	background-color: #dc4f22 !important;
 }
 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
@@ -363,7 +363,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background: #31A2C7;
+	background: #dc4f22;
 }
 
 
