@@ -3217,7 +3217,7 @@ content: "";
 
 #list-units .unittag_activities_mapasdemo:hover {
     background: #dc4f22 !important;
-    border: 3px dotted #555555;
+    border: none;
 }
 #indice .unit-content .header .title {
 	display: none;
