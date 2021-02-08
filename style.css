@@ -201,6 +201,9 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #ffffff;
 }
 
+#indice .units ul li a .title{
+	color: #000;
+}
 
 /*General */
 #book-index #indice .units ul li a .title {
