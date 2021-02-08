@@ -3200,10 +3200,11 @@ content: "";
 }
 
 #list-units .unittag_textbook_mapasdemo:hover {
-    background: #3333337d !important;
+    background: #dc4f22 !important;
 }
 #list-units .unittag_activities_mapasdemo {
-    background: #fff !important;
+        background: #fff !important;
+        border: 3px dotted #555555;
 }
 
 .units ul#list-units .unittag_activities_mapasdemo a .title {
@@ -3211,7 +3212,8 @@ content: "";
 }
 
 #list-units .unittag_activities_mapasdemo:hover {
-    background: #3333337d !important;
+    background: #dc4f22 !important;
+    border: 3px dotted #555555;
 }
 #indice .unit-content .header .title {
 	display: none;
