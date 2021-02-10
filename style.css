@@ -594,7 +594,6 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-family: Conv_TypeType-TT_Rounds;
 	font-weight: 400;
 	border-bottom: none;
-	text-transform: capitalize; 
 }
 
 .bck-title-1::before{
