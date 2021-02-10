@@ -730,6 +730,10 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 }
 
+.bck-enfasis-15{
+	font-weight: 400;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
