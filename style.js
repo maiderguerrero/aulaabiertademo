@@ -36,6 +36,7 @@
 				{ name: 'Énfasis-12', element: 'span', attributes: { 'class': 'bck-enfasis-12'} },
 				{ name: 'Énfasis-13', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 				{ name: 'Énfasis-Tutorial', element: 'span', attributes: { 'class': 'bck-enfasis-14'} },
+				{ name: 'Énfasis-15', element: 'span', attributes: { 'class': 'bck-enfasis-15'} },
 
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
