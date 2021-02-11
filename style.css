@@ -283,11 +283,11 @@ body {
 /*tamaÃ±o enunciado listas*/
 
 #actividad .pregunta .texto_curso {
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 }
 
 #actividad textarea {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 /*ENLACE WEB*/
