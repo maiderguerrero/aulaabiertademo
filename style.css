@@ -210,6 +210,11 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #000;
 }
 
+#list-units .unittag_titulo_mapasdemo {
+    background: #dc4f22 !important;
+}
+
+
 /*General */
 #book-index #indice .units ul li a .title {
 	margin: 0;
@@ -334,6 +339,9 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 	background: #31A2C7;
 }
 
+#book-index #indice .units ul li:hover {
+    background-color: #b7b7b7 !important;
+}
 
 #indice .unit-content .header .title {
 	color: #fff;
