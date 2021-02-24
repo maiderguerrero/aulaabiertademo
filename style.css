@@ -3229,8 +3229,9 @@ content: "";
     background: #dc4f22 !important;
 }
 #list-units .unittag_activities_mapasdemo {
-        background: #fff !important;
-        border: 3px dotted #555555;
+    background: #fff !important;
+    outline: 3px dotted #555555;
+    outline-offset: -3px;
 }
 
 .units ul#list-units .unittag_activities_mapasdemo a .title {
