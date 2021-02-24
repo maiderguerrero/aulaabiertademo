@@ -214,6 +214,10 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
     background: #dc4f22 !important;
 }
 
+.units ul#list-units .unittag_titulo_mapasdemo a .title{
+	color: #fff;
+}
+
 
 /*General */
 #book-index #indice .units ul li a .title {
