@@ -746,6 +746,11 @@ body.is_app .mapasdemo-navbar.ocultar {
 	font-weight: 400;
 }
 
+.bck-enfasis-16{
+    font-weight: bold;
+    font-variant: petite-caps;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
