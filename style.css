@@ -3094,6 +3094,7 @@ content: "";
 .bck-dropdown-2 .fa-chevron-down:before {
     font-size: 1.8rem;
     color: #000;
+    content: "\f078";
 }
 
 .bck-dropdown-2 .bck-dropdown-titulo:before {
