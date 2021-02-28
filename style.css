@@ -795,9 +795,9 @@ body.is_app .mapasdemo-navbar.ocultar {
     background-image: url(imagenes/icono_mapa_combinaciones.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 12px;
-    margin-left: -30px;
-    margin-top: 3px;
+	padding: 22px;
+    margin-left: -44px;
+    margin-top: 6px;
 }
 
 .bck-enfasis-19 {
@@ -805,7 +805,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     font-size: 1.4rem;
     text-transform: uppercase;
     border-radius: 15px;
-    padding: 5px 10px 5px 40px;
+    padding: 5px 10px 5px 33px;
     background: #ffffff;
     border: 2px solid #000;
 }
@@ -818,8 +818,8 @@ body.is_app .mapasdemo-navbar.ocultar {
     background-repeat: no-repeat;
     background-size: contain;
     padding: 12px;
-    margin-left: -30px;
-    margin-top: 3px;
+    margin-left: -25px;
+    margin-top: 6px;
 }
 
 /*----------------------LISTAS-----------------------*/
