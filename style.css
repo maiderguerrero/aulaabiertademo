@@ -751,6 +751,27 @@ body.is_app .mapasdemo-navbar.ocultar {
     font-variant: all-small-caps;
 }
 
+.bck-enfasis-17 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 5px 10px 5px 40px;
+    background: #99D5B5;
+}
+
+
+.bck-enfasis-17:before {
+    content: "";
+    position: absolute;
+    background-image: url(imagenes/icono_entonacion.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 12px;
+    margin-left: -30px;
+    margin-top: 3px;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
