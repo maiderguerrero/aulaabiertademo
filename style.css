@@ -756,7 +756,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     font-size: 1.4rem;
     text-transform: uppercase;
     border-radius: 15px;
-    padding: 5px 10px 5px 40px;
+    padding: 5px 10px 5px 50px;
     background: #99D5B5;
 }
 
@@ -767,9 +767,9 @@ body.is_app .mapasdemo-navbar.ocultar {
     background-image: url(imagenes/icono_entonacion.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 12px;
-    margin-left: -30px;
-    margin-top: 3px;
+    padding: 21px 34px 0px 4px;
+    margin-left: -42px;
+    margin-top: 5px;
 }
 
 /*----------------------LISTAS-----------------------*/
