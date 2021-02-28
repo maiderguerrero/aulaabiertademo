@@ -312,6 +312,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	font-weight: 600;
 	text-decoration: none;
 }
+
+/*FONDO IMAGENES LIBRO DIGITAL*/
+.modal-backdrop{
+    background-color: #2020209e;
+}
+
 /*INDICE LATERAL*/
 #book-index .col-indice {
     background: #ffffff;
