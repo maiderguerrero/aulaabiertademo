@@ -1892,6 +1892,15 @@ body.is_app .mapasdemo-navbar.ocultar {
 	transition: all ease-in-out .5s;
 }
 
+/*INSERTAR ACTIVIDADES BLINK*/
+.texto_curso .bck-activity-link, 
+.texto_curso .bck-link{
+    right: 0;
+    cursor: pointer;
+    width: fit-content;
+    position: absolute;
+}
+
 
 /*AJUSTES ACTIVIDADES*/
 /*Verdadero y falso*/
