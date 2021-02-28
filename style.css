@@ -778,6 +778,50 @@ body.is_app .mapasdemo-navbar.ocultar {
     margin-top: 5px;
 }
 
+.bck-enfasis-18 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 5px 10px 5px 40px;
+    background: #ffffff;
+    border: 2px solid #000;
+}
+
+
+.bck-enfasis-18:before {
+    content: "";
+    position: absolute;
+    background-image: url(imagenes/icono_mapa_combinaciones.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 12px;
+    margin-left: -30px;
+    margin-top: 3px;
+}
+
+.bck-enfasis-19 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 5px 10px 5px 40px;
+    background: #ffffff;
+    border: 2px solid #000;
+}
+
+
+.bck-enfasis-19:before {
+    content: "";
+    position: absolute;
+    background-image: url(imagenes/icono_mapa_tematico.PNG);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 12px;
+    margin-left: -30px;
+    margin-top: 3px;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
