@@ -1913,6 +1913,37 @@ body.is_app .mapasdemo-navbar.ocultar {
 	transition: all ease-in-out .5s;
 }
 
+/*flipbox*/
+body:not(.edit) .front .bck-flipbox-title, 
+body:not(.edit) .front .bck-flipbox-section {
+    color: #000000;
+}
+
+body:not(.edit) .bck-flipbox-face.back {
+    color: #fff;
+    background-color: #4b4b4b;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+body:not(.edit) .bck-flipbox-face.front, 
+body:not(.edit) .bck-flipbox-face.back {
+    backface-visibility: hidden;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b4b4b;
+    transform-style: preserve-3d;
+    transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    height: 100%;
+    width: 100%;
+}
+
+
 /*INSERTAR ACTIVIDADES BLINK*/
 .texto_curso .bck-activity-link, 
 .texto_curso .bck-link{
