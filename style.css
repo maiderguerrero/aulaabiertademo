@@ -1767,7 +1767,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     background: #fff;
 }
 
-.bck-box.bck-box-11 .bck-content {
+.bck-box.bck-box-11 > .bck-content {
 	padding: 4px 10px 15px;
 	width: 100%;
 	margin-left: 0px;
@@ -1776,7 +1776,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background: #fff;
 }
 
-.bck-box.bck-box-11 .bck-title {
+.bck-box.bck-box-11 > .bck-title {
 	background: #333;
     padding: 5px 20px;
     border: 0px;
@@ -1787,7 +1787,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-11 .bck-title:before {
+.bck-box-11 > .bck-title:before {
 	display: none;
 }
 
