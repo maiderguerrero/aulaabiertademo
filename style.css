@@ -1132,6 +1132,10 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 }
 
+.bck-box {
+	background-color: transparent;
+}
+
 .bck-box p {
 	display: block;
 }
@@ -1146,7 +1150,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box.bck-box-1:after {
 	display: none;
 }
-.bck-box-1 .bck-title:before {
+.bck-box-1 > .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 17px;
@@ -1162,7 +1166,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-top: 20px;
 }
 
-.bck-box-1 .bck-title {
+.bck-box-1 > .bck-title {
 	color: #dc4f24;
     font-size: 1.5rem;
     text-align: left;
@@ -1173,7 +1177,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     font-weight: 800;
 }
 
-.bck-box.bck-box-1 .bck-content {
+.bck-box.bck-box-1 > .bck-content {
 	padding: 10px;
 	border-bottom: 2px solid #dc4f24;
 }
@@ -1269,7 +1273,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     color: #fff;
 }
 
-.bck-box.bck-box-2 .bck-content {
+.bck-box.bck-box-2 > .bck-content {
 	font-family: 'Conv_TypeType-TT_Rounds';
 	color: #fff;
     background: #DC4F24;
@@ -1280,7 +1284,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-radius: 15px;
 }
 
-.bck-box.bck-box-2 .bck-title {
+.bck-box.bck-box-2 > .bck-title {
 	color: #fff;
     background: #DC4F24;
     margin-bottom: 0;
@@ -1291,7 +1295,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box.bck-box-2 .bck-title:before {
+.bck-box.bck-box-2 > .bck-title:before {
 	content: " ";
     position: absolute;
     padding: 15px;
@@ -1310,7 +1314,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-radius: 15px;
 }
 
-.bck-box.bck-box-3 .bck-content {
+.bck-box.bck-box-3 > .bck-content {
 	padding: 4px 10px 15px;
 	width: 100%;
 	margin-left: 10px;
@@ -1318,7 +1322,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	border-bottom: 2px solid transparent;
 }
 
-.bck-box.bck-box-3 .bck-title {
+.bck-box.bck-box-3 > .bck-title {
 	padding: 15px 45px;
 	padding-bottom: 0;
     border: 0px;
@@ -1330,7 +1334,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-3 .bck-title:before {
+.bck-box-3 > .bck-title:before {
 	content: " ";
     position: absolute;
     padding: 12px;
@@ -1361,7 +1365,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-radius: 15px;
 }
 
-.bck-box-4 .bck-title {
+.bck-box-4 > .bck-title {
 	padding: 15px 55px;
 	padding-bottom: 0;
     border: 0px;
@@ -1373,7 +1377,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box.bck-box-4 .bck-content {
+.bck-box.bck-box-4 > .bck-content {
 	padding: 4px 10px 15px;
 	width: 100%;
 	margin-left: 10px;
@@ -1381,7 +1385,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 
-.bck-box.bck-box-4 .bck-title:before {
+.bck-box.bck-box-4 > .bck-title:before {
 	    content: " ";
     position: absolute;
     padding: 15px;
@@ -1410,7 +1414,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-top: 15px;
 }
 
-.bck-box-5 .bck-title {
+.bck-box-5 > .bck-title {
 	border-bottom: 0px solid #eee;
 	color: #fff;
 	font-size: 2.1rem;
@@ -1428,7 +1432,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 }
 
 /*CAJA 6*/
-.bck-box-6 .bck-title:before {
+.bck-box-6 > .bck-title:before {
 	content: " ";
 	position: absolute;
 	padding: 15px;
@@ -1445,7 +1449,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-top: 20px;
 }
 
-.bck-box-6 .bck-title {
+.bck-box-6 > .bck-title {
 	color: #dc4f24;
 	font-size: 1.5rem;
 	font-weight: 800;
@@ -1457,7 +1461,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-bottom: 0px;
 }
 
-.bck-box-6 .bck-content {
+.bck-box-6 > .bck-content {
 	background: transparent;
 	border-bottom: 2px solid #dc4f24;
 }
@@ -1553,7 +1557,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-top: 15px;
 }
 
-.bck-box-7 .bck-title {
+.bck-box-7 > .bck-title {
 	border-bottom: 0px solid transparent;
 	color: #fff;
 	font-size: 2.1rem;
@@ -1563,7 +1567,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	text-align: center;
 }
 
-.bck-box-7 .bck-content {
+.bck-box-7 > .bck-content {
 	padding: 10px;
 	background-color: #D0D0D0;
 	border-radius: 15px;
@@ -1612,7 +1616,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	margin-top: 50px;
 }
 
-.bck-box-8 .bck-title {
+.bck-box-8 > .bck-title {
 	color: #fff;
 	font-size: 2rem;
 	font-weight: bold;
@@ -1624,7 +1628,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-8 .bck-content {
+.bck-box-8 > .bck-content {
 	text-align: center;
 	background: #fbede9;
 	border-bottom-left-radius: 15px;
@@ -1655,14 +1659,14 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-radius: 15px;
 }
 
-.bck-box.bck-box-9 .bck-content {
+.bck-box.bck-box-9 > .bck-content {
 	padding: 4px 10px 15px;
 	width: 100%;
 	margin-left: 10px;
 	border-radius: 15px;
 }
 
-.bck-box.bck-box-9 .bck-title {
+.bck-box.bck-box-9 > .bck-title {
 	padding: 15px 45px;
 	padding-bottom: 0;
     border: 0px;
@@ -1673,7 +1677,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-9 .bck-title:before {
+.bck-box-9 > .bck-title:before {
 	content: " ";
     position: absolute;
     padding: 12px;
@@ -1711,14 +1715,14 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-radius: 15px;
 }
 
-.bck-box.bck-box-10 .bck-content {
+.bck-box.bck-box-10 > .bck-content {
 	padding: 4px 10px 15px;
 	width: 100%;
 	margin-left: 10px;
 	border-radius: 15px;
 }
 
-.bck-box.bck-box-10 .bck-title {
+.bck-box.bck-box-10 > .bck-title {
 	padding: 15px 45px;
 	padding-bottom: 0;
     border: 0px;
@@ -1729,7 +1733,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-10 .bck-title:before {
+.bck-box-10 > .bck-title:before {
 	content: " ";
     position: absolute;
     padding: 12px;
@@ -1838,13 +1842,13 @@ body.is_app .mapasdemo-navbar.ocultar {
 	padding: 10px;
 }
 
-.bck-box.bck-box-12 .bck-content {
+.bck-box.bck-box-12 > .bck-content {
 	padding: 15px 10px 15px;
 	background: #F1E9EC;
 	border-radius: 15px;
 }
 
-.bck-box.bck-box-12 .bck-title {
+.bck-box.bck-box-12 > .bck-title {
 	background: #F1E9EC;
     padding: 5px 20px;
     border: 0px;
@@ -1852,7 +1856,7 @@ body.is_app .mapasdemo-navbar.ocultar {
     border-top-right-radius: 15px;
 }
 
-.bck-box-12 .bck-title:before {
+.bck-box-12 > .bck-title:before {
 	display: none;
 }
 
@@ -1867,13 +1871,13 @@ body.is_app .mapasdemo-navbar.ocultar {
 	padding: 10px;
 }
 
-.bck-box.bck-box-13 .bck-content {
+.bck-box.bck-box-13 > .bck-content {
 	padding: 15px 10px 15px;
 	background: #F2FAF6;
 	border-radius: 15px;
 }
 
-.bck-box.bck-box-13 .bck-title {
+.bck-box.bck-box-13 > .bck-title {
 	background: #F2FAF6;
     padding: 5px 20px;
     border: 0px;
