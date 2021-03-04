@@ -1179,6 +1179,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 
 .bck-box.bck-box-1 > .bck-content {
 	padding: 10px;
+	padding-left: 10px;
 	border-bottom: 2px solid #dc4f24;
 }
 
