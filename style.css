@@ -2064,6 +2064,17 @@ body:not(.edit) .bck-flipbox-face.back {
 	margin-left: 40px;
 }
 
+.btn-solution, 
+.btn-solution.disabled, 
+.btn-solution[disabled], 
+.btn-next, .btn-next.disabled, 
+.btn-next[disabled] {
+    color: #fff;
+    background-color: #00bdff;
+    border-color: transparent;
+    border-radius: 0;
+}
+
 .btn-danger,
 .btn-danger[disabled] {
 	color: #fff;
