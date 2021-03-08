@@ -1143,7 +1143,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-box .bck-content {
 	text-align: left;
 	padding: 10px;
-	line-height: 0px;
+	line-height: auto;
 }
 
 /*CAJA 1*/
