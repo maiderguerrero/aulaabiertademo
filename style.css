@@ -554,7 +554,7 @@ body.is_app .mapasdemo-navbar.ocultar {
 	background-repeat: no-repeat;
 	padding: 10px;
 	background-size: contain;
-	margin-top: 4px;
+	margin-top: 0px;
 	position: absolute;
 }
 
@@ -3528,6 +3528,7 @@ background: transparent;
 
 #actividad a, body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img){
 background-color: transparent;
+margin-bottom: auto;
 }
 
 #actividad textarea {
