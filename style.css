@@ -2506,7 +2506,8 @@ content: "";
 
 
 /*CAJA 7 - tag azul*/
-.activitytag_azul_mapas .bck-box-7 > .bck-content {
+.activitytag_azul_mapas .bck-box-7 > .bck-content,
+.activitytag_azul_mapas .bck-box-7 > .bck-title {
     background-color: #B3C6DE;
 }
 
@@ -2610,7 +2611,10 @@ content: "";
 	border-bottom: 2px solid #009746;
 }
 
-.activitytag_verde_mapas .bck-box-7 > .bck-content {
+/*CAJA 7 - tag verde*/
+
+.activitytag_verde_mapas .bck-box-7 > .bck-content,
+.activitytag_verde_mapas .bck-box-7 > .bck-title {
     background-color: #B8D4B2;
 }
 
