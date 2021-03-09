@@ -2504,6 +2504,12 @@ content: "";
 	border-bottom: 2px solid #007AAB;
 }
 
+
+/*CAJA 7 - tag azul*/
+.activitytag_azul_mapas .bck-box-7 > .bck-content {
+    background-color: #B3C6DE;
+}
+
 /*Caja 7 en cajas 1 y 6 - tag azul*/
 
 .activitytag_azul_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
