@@ -2604,6 +2604,10 @@ content: "";
 	border-bottom: 2px solid #009746;
 }
 
+.activitytag_verde_mapas .bck-box-7 > .bck-content {
+    background-color: #B8D4B2;
+}
+
 /*Caja 7 en cajas 1 y 6 - tag verde*/
 
 .activitytag_verde_mapas .bck-box.bck-box-1 .bck-box-7 .bck-content {
@@ -3528,7 +3532,6 @@ background: transparent;
 
 #actividad a, body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img){
 background-color: transparent;
-margin-bottom: auto;
 }
 
 #actividad textarea {
