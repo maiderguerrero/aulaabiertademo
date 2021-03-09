@@ -2009,6 +2009,10 @@ body:not(.edit) .bck-flipbox-face.back {
     right: 0;
     cursor: pointer;
     width: fit-content;
+    -webkit-width: fit-content;
+    -moz-width: fit-content;
+    -o-width: fit-content;
+    -ms-width: fit-content;
     position: absolute;
 }
 
