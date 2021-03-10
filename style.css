@@ -821,6 +821,28 @@ body.is_app .mapasdemo-navbar.ocultar {
     margin-top: 6px;
 }
 
+.bck-enfasis-20 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 5px 10px 5px 33px;
+    background: #ffffff;
+    border: 2px solid #000;
+}
+
+
+.bck-enfasis-20:before {
+    content: "A-Z";
+    font-size: 1rem;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 12px;
+    margin-left: -25px;
+    margin-top: 6px;
+}
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
