@@ -835,12 +835,13 @@ body.is_app .mapasdemo-navbar.ocultar {
 .bck-enfasis-20:before {
     content: "A-Z";
     font-size: 1rem;
+    font-weight: 800;
     position: absolute;
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 12px;
+    padding: 0;
     margin-left: -25px;
-    margin-top: 6px;
+    margin-top: 1px;
 }
 
 /*----------------------LISTAS-----------------------*/
