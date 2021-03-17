@@ -2027,8 +2027,7 @@ body:not(.edit) .bck-flipbox-face.back {
 
 
 /*INSERTAR ACTIVIDADES BLINK*/
-.texto_curso .bck-activity-link, 
-.texto_curso .bck-link{
+.texto_curso .bck-activity-link {
     right: 0;
     cursor: pointer;
     width: fit-content;
@@ -2037,6 +2036,15 @@ body:not(.edit) .bck-flipbox-face.back {
     -o-width: fit-content;
     -ms-width: fit-content;
     position: absolute;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 375px) {
+	.texto_curso .bck-activity-link{
+    
+    position: relative;
+    margin-bottom: 13px;
+}
 }
 
 
