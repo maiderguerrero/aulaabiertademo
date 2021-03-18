@@ -2044,6 +2044,12 @@ body:not(.edit) .bck-flipbox-face.back {
     right: 0;
 }
 
+@media screen and (max-width: 375px) {
+	.texto_curso .bck-activity-link {
+    margin-bottom: 15px;
+}
+}
+
 
 /*AJUSTES ACTIVIDADES*/
 /*Verdadero y falso*/
