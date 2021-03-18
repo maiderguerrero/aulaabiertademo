@@ -2046,7 +2046,12 @@ body:not(.edit) .bck-flipbox-face.back {
 
 @media screen and (max-width: 375px) {
 	.texto_curso .bck-activity-link {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
+}
+
+.bck-activity-link-container {
+    position: relative;
+    right: 0;
 }
 }
 
