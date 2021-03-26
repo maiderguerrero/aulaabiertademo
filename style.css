@@ -2519,7 +2519,7 @@ content: "";
 	background: #E6F2F7;
 }
 
-.activitytag_azul_mapas .bck-box-4 .bck-title {
+.activitytag_azul_mapas .bck-box-4 > .bck-title {
     background: #E6F2F7;
 }
 
@@ -2534,16 +2534,16 @@ content: "";
 }
 
 /*CAJA 6 - tag azul*/
-.activitytag_azul_mapas .bck-box-6 .bck-title:before {
+.activitytag_azul_mapas .bck-box-6 > .bck-title:before {
 	background-image: url(imagenes/enparejas_mapas_azul.png);
 }
 
 
-.activitytag_azul_mapas .bck-box-6 .bck-title {
+.activitytag_azul_mapas .bck-box-6 > .bck-title {
 	color: #007AAB;
 }
 
-.activitytag_azul_mapas .bck-box-6 .bck-content {
+.activitytag_azul_mapas .bck-box-6 > .bck-content {
 	border-bottom: 2px solid #007AAB;
 }
 
@@ -2643,16 +2643,16 @@ content: "";
 }
 
 /*CAJA 6 - tag verde*/
-.activitytag_verde_mapas .bck-box-6 .bck-title:before {
+.activitytag_verde_mapas .bck-box-6 > .bck-title:before {
 	background-image: url(imagenes/enparejas_mapas_verde.png);
 }
 
 
-.activitytag_verde_mapas .bck-box-6 .bck-title {
+.activitytag_verde_mapas .bck-box-6 > .bck-title {
 	color: #009746;
 }
 
-.activitytag_verde_mapas .bck-box-6 .bck-content {
+.activitytag_verde_mapas .bck-box-6 > .bck-content {
 	border-bottom: 2px solid #009746;
 }
 
@@ -2750,16 +2750,16 @@ content: "";
 }
 
 /*CAJA 6 - tag naranjaclaro*/
-.activitytag_naranjaclaro_mapas .bck-box-6 .bck-title:before {
+.activitytag_naranjaclaro_mapas .bck-box-6 > .bck-title:before {
 	background-image: url(imagenes/enparejas_mapas_naranjaclaro.png);
 }
 
 
-.activitytag_naranjaclaro_mapas .bck-box-6 .bck-title {
+.activitytag_naranjaclaro_mapas .bck-box-6 > .bck-title {
 	color: #F39200;
 }
 
-.activitytag_naranjaclaro_mapas .bck-box-6 .bck-content {
+.activitytag_naranjaclaro_mapas .bck-box-6 > .bck-content {
 	border-bottom: 2px solid #F39200;
 }
 
@@ -2849,16 +2849,16 @@ content: "";
 }
 
 /*CAJA 6 - tag negro*/
-.activitytag_negro_mapas .bck-box-6 .bck-title:before {
+.activitytag_negro_mapas .bck-box-6 > .bck-title:before {
 	background-image: url(imagenes/enparejas_mapas_negro.png);
 }
 
 
-.activitytag_negro_mapas .bck-box-6 .bck-title {
+.activitytag_negro_mapas .bck-box-6 > .bck-title {
 	color: #000000;
 }
 
-.activitytag_negro_mapas .bck-box-6 .bck-content {
+.activitytag_negro_mapas .bck-box-6 > .bck-content {
 	border-bottom: 2px solid #000000;
 }
 
@@ -3118,16 +3118,16 @@ content: "";
 }
 
 /*CAJA 6 - tag gris*/
-.activitytag_gris_mapas .bck-box-6 .bck-title:before {
+.activitytag_gris_mapas .bck-box-6 > .bck-title:before {
 	background-image: url(imagenes/enparejas_mapas_grisverde.png);
 }
 
 
-.activitytag_gris_mapas .bck-box-6 .bck-title {
+.activitytag_gris_mapas .bck-box-6 > .bck-title {
 	color: #8EA79B;
 }
 
-.activitytag_gris_mapas .bck-box-6 .bck-content {
+.activitytag_gris_mapas .bck-box-6 > .bck-content {
 	border-bottom: 2px solid #8EA79B;
 }
 
