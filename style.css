@@ -662,6 +662,16 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-weight: 600;
 }
 
+.bck-title-9 {
+	background-color: #77C8EE;
+    font-weight: 600;
+    padding: 5px 10px;
+    width: fit-content;
+    font-size: 2rem;
+    color: #414141;
+}
+
+
 .bck-enfasis {
 	color: #31A2C7;
 	font-weight: bold;
