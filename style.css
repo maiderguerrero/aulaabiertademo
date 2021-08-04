@@ -1,4 +1,4 @@
-/*Estilo MAPAS - CSS*/
+/*Estilo AULA ABIERTA - CSS*/
 
 /* Fonts */
 
@@ -605,25 +605,38 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 
 .bck-title-1 {
-	color: #DC4F24;
-	font-size: 4.3rem;
-	padding-bottom: 0px;
-	margin-left: 10px;
-	font-family: Conv_TypeType-TT_Rounds;
-	font-weight: 400;
-	border-bottom: none;
+    color: #414141;
+    font-size: 3.5rem;
+    padding-bottom: 15px;
+    margin-left: 0;
+    font-family: Conv_TypeType-TT_Rounds;
+    font-weight: 200;
+    border-bottom: 6px solid #E86547;
 }
+
 
 .bck-title-1::before{
 	content: '';
 	display: none;
 }
 
+.bck-title-2 {
+	color: #414141;
+    font-size: 2.5rem;
+    border-bottom: 3px solid #BCBCBC;
+    padding-bottom: 5px;
+    font-family: 'Conv_TypeType-TT_Rounds';
+    font-weight: 400;
+}
+
+
 .bck-title-3 {
-	font-family: Conv_TypeType-TT_Rounds;
-	font-weight: 100;
-	font-size: 1.7rem;
-	border-bottom: none;
+	color: #e86547;
+    font-size: 2.5rem;
+    border-bottom: 3px solid #e86547;
+    padding-bottom: 5px;
+    font-family: 'Conv_TypeType-TT_Rounds';
+    font-weight: 400;
 }
 
 .bck-title-4 {
