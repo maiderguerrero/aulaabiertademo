@@ -2,17 +2,17 @@
 (function (blink) {
 	'use strict';
 
-	var mapasdemoStyle = function () {
+	var aulaabiertademoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	mapasdemoStyle.prototype = {
+	aulaabiertademoStyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
-		bodyClassName: 'content_type_clase_mapasdemo',
+		bodyClassName: 'content_type_clase_aulaabiertademo',
 		ckEditorStyles: {
-			name: 'mapasdemo',
+			name: 'aulaabiertademo',
 			styles: [
 				{ name: 'Título Prepárate', element: 'h2', attributes: { 'class': 'bck-title bck-title-preparate'} },
 				{ name: 'Título 1', element: 'h3', attributes: { 'class': 'bck-title bck-title-1'} },
@@ -232,7 +232,7 @@
 
 		formatCarouselindicators: function (scope, classNavbar) {
 			var that = scope || this,
-				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'mapasdemo-navbar'),
+				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'aulaabiertademo-navbar'),
 				$navbarBottom = $('.navbar-bottom'),
 				firstSlide = eval('t0_slide');
 			if(blink.courseInfo && blink.courseInfo.courseDateCreated) var courseYearCreated = new Date(blink.courseInfo.courseDateCreated).getFullYear();
@@ -431,7 +431,7 @@
 
 		animateNavbarOnScroll: function (scope, classNavbar) {
 			var that = scope || this,
-				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'mapasdemo-navbar');
+				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'aulaabiertademo-navbar');
 			if (!blink.isApp) return;
 			var $navbar = $('.'+navbar);
 			var lastScrollTop = 0;
@@ -517,9 +517,9 @@
  		}
 	};
 
-	mapasdemoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), mapasdemoStyle.prototype);
+	aulaabiertademoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), aulaabiertademoStyle.prototype);
 
-	blink.theme.styles['mapasdemo'] = mapasdemoStyle;
+	blink.theme.styles['aulaabiertademo'] = aulaabiertademoStyle;
 
 })( blink );
 
