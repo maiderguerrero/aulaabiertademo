@@ -194,15 +194,15 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #fff;
 }
 
-#list-units .unittag_textbook_mapasdemo {
+#list-units .unittag_textbook_aulaabiertademo {
 	background: #31a2c7 !important;
 }
 
-#list-units .unittag_textbook_mapasdemo:hover {
+#list-units .unittag_textbook_aulaabiertademo:hover {
 	background: #3333337d !important;
 }
 
-.units ul#list-units .unittag_textbook_mapasdemo a .title {
+.units ul#list-units .unittag_textbook_aulaabiertademo a .title {
 	color: #ffffff;
 }
 
@@ -210,11 +210,11 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #000;
 }
 
-#list-units .unittag_titulo_mapasdemo {
+#list-units .unittag_titulo_aulaabiertademo {
     background: #dc4f22 !important;
 }
 
-.units ul#list-units .unittag_titulo_mapasdemo a .title{
+.units ul#list-units .unittag_titulo_aulaabiertademo a .title{
 	color: #fff;
 }
 
@@ -238,7 +238,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*logo*/
 
 
-.content_type_curso_mapasdemo   .libro-left ul li .title:before {
+.content_type_curso_aulaabiertademo   .libro-left ul li .title:before {
 	content: "";
 	background-size: contain;
 	top: 3px;
@@ -252,7 +252,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	opacity: 1;
 }
 
-.content_type_curso_mapasdemo.content_type_clase_mapasdemo   .libro-left ul li .title:before { 
+.content_type_curso_aulaabiertademo.content_type_clase_aulaabiertademo   .libro-left ul li .title:before { 
 	opacity: 0;
 }
 .navbar-content .logo-publisher {
@@ -426,7 +426,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	background: #ccc;
 }
 
-.mapasdemo-navbar h3 {
+.aulaabiertademo-navbar h3 {
 	width: 75%;
 	margin: auto;
 	margin-bottom: 15px;
@@ -455,7 +455,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
     background: #fff;
 }
 
-.mapasdemo-navbar {
+.aulaabiertademo-navbar {
 	position: fixed;
 	bottom: 0;
 	left: 0;
@@ -471,25 +471,25 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	background: none;
 }
 
-body.is_app .mapasdemo-navbar {
+body.is_app .aulaabiertademo-navbar {
 	-webkit-transition: top 0.5s linear;
 	-o-transition: top 0.5s linear;
 	-moz-transition: top 0.5s linear;
 	transition: top 0.5s linear;
 }
 
-body.is_app .mapasdemo-navbar.ocultar {
+body.is_app .aulaabiertademo-navbar.ocultar {
 	top: -136px;
 }
 
-.mapasdemo-navbar .navbar-content {
+.aulaabiertademo-navbar .navbar-content {
 	width: 100%;
 	height: 100%;
 	padding: 0 20px;
 	text-align: center;
 }
 
-.mapasdemo-navbar .copyright {
+.aulaabiertademo-navbar .copyright {
 	color: #fff;
 	line-height: 5.0rem;
 }
@@ -3144,7 +3144,7 @@ content: "";
 
 
 /*WB*/
-.activitytag_wb_mapasdemo #actividad .content .header .title h3 {
+.activitytag_wb_aulaabiertademo #actividad .content .header .title h3 {
 	background: #50748A;
 }
 
@@ -3463,28 +3463,28 @@ content: "";
 }
 
 
-#list-units .unittag_textbook_mapasdemo {
+#list-units .unittag_textbook_aulaabiertademo {
     background: #000 !important;
 }
 
-.units ul#list-units .unittag_textbook_mapasdemo a .title {
+.units ul#list-units .unittag_textbook_aulaabiertademo a .title {
     color: #ffffff;
 }
 
-#list-units .unittag_textbook_mapasdemo:hover {
+#list-units .unittag_textbook_aulaabiertademo:hover {
     background: #dc4f22 !important;
 }
-#list-units .unittag_activities_mapasdemo {
+#list-units .unittag_activities_aulaabiertademo {
     background: #fff !important;
     outline: 3px dotted #555555;
     outline-offset: -3px;
 }
 
-.units ul#list-units .unittag_activities_mapasdemo a .title {
+.units ul#list-units .unittag_activities_aulaabiertademo a .title {
     color: #000;
 }
 
-#list-units .unittag_activities_mapasdemo:hover {
+#list-units .unittag_activities_aulaabiertademo:hover {
     background: #dc4f22 !important;
     border: none;
 }
