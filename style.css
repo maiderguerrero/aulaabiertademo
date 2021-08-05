@@ -434,13 +434,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	font-weight: bold;
 }
 
-#actividad .content .header .title h3 {
-	color: #fff;
-	background: #DC4F24;
-	width: 100%;
-	padding: 13px;
-	font-weight: bold;
-}
+
 #actividad .content .header .title h3::before{
 	content: '';
 	display: none;
@@ -570,7 +564,9 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	padding-left: 12px;
 }
 
-/*tÃ­tulo genÃ©rico*/
+/*-------------------------------------------------TÍTULOS---------------------------------------------------*/
+
+/*Título general*/
 
 .bck-title {
 	color: #211915;
@@ -579,7 +575,22 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	font-weight: inherit;
 }
 
+/*Título slide*/
 
+#actividad .content .header .title h3 {
+    background: transparent;
+    width: 100%;
+    color: #414141;
+    font-size: 3.5rem;
+    padding-bottom: 15px;
+    margin-left: 0;
+    font-family: Conv_TypeType-TT_Rounds;
+    font-weight: 200;
+    border-bottom: 6px solid #E86547;
+}
+
+
+/*Título 1*/
 
 .bck-title-1 {
     color: #414141;
@@ -597,6 +608,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	display: none;
 }
 
+/*Título 2*/
+
 .bck-title-2 {
 	color: #414141;
     font-size: 2.5rem;
@@ -606,6 +619,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-weight: 400;
 }
 
+/*Título 3*/
 
 .bck-title-3 {
 	color: #e86547;
@@ -616,6 +630,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-weight: 400;
 }
 
+/*Título 4*/
+
 .bck-title-4 {
 	font-weight: 100;
     font-size: 5rem;
@@ -623,6 +639,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-bottom: none;
     color: #C70A10;
 }
+
+/*Título 5*/
 
 .bck-title-5 {
     border-radius: 0;
@@ -635,6 +653,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     color: #E86547;
 }
 
+/*Título 6*/
 
 .bck-title-6 {
 	color: #414141;
@@ -644,6 +663,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     padding-bottom: 6px;
 }
 
+/*Título 7*/
+
 .bck-title-7 {
 	color: #414141;
     font-size: 2.2rem;
@@ -651,6 +672,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-weight: bold;
     padding-bottom: 6px;
 }
+
+/*Título 8*/
 
 .bck-title-8 {
 	font-size: 1.4rem;
@@ -661,6 +684,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     color: #414141;
     font-weight: 600;
 }
+
+/*Título 9*/
 
 .bck-title-9 {
 	background-color: #77C8EE;
