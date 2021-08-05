@@ -760,14 +760,10 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 }
 
+/*Énfasis 8*/
+
 .bck-enfasis-8 {
-	font-weight: bold;
-	font-size: 1.4rem;
-	text-transform: uppercase;
-	color: #fff;
-	background-color: #dc4f24;
-	border-radius: 15px;
-	padding: 2px;
+	color: #727473;
 }
 
 .bck-enfasis-9 {
