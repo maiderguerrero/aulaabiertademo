@@ -1380,13 +1380,13 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-box-1 > .bck-title:before {
 	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/icono_cajasabiasque_aulaabierta.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
+    position: absolute;
+    padding: 11px;
+    background-image: url(imagenes/icono_cajasabiasque_aulaabierta.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -1px;
+    margin-left: -40px;
 }
 
 
