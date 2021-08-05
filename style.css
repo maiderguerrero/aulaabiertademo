@@ -1268,7 +1268,6 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 
-
 /*LISTA DESORDENADA 5*/
 #actividad .content .cke_contents .bck-ul-5,
 #actividad .content .texto_curso .bck-ul-5,
@@ -1281,11 +1280,11 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-5 li,
 #actividad .popover-content .bck-ul-5 li,
 #actividad .content .workspace ul li .bck-ul-5 li {
-	padding-left: 40px;
-	position: relative;
-	list-style-type: none;
-	margin-bottom: 10px;
-	font-weight: bold;
+	padding-left: 20px;
+    position: relative;
+    list-style-type: none;
+    margin-bottom: 10px;
+    font-weight: inherit;
 }
 
 #actividad .content .cke_contents .bck-ul-5 li:before,
@@ -1293,12 +1292,49 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .popover-content ul.bck-ul-5 li:before,
 #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	content: "►";
-	background: none;
+    background: none;
     color: #333;
-    position: absolute;
+    position: relative;
     margin-top: 0em;
-    margin-left: 4px;
+    margin-left: -16px;
+    margin-right: 38px;
     font-size: 1.5rem;
+
+}
+
+
+/*LISTA DESORDENADA 6*/
+#actividad .content .cke_contents .bck-ul-6,
+#actividad .content .texto_curso .bck-ul-6,
+#actividad .content .workspace ul li .bck-ul-6 {
+	list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-6 li,
+#actividad .content .cke_contents .bck-ul-6 li,
+#actividad .content .texto_curso .bck-ul-6 li,
+#actividad .popover-content .bck-ul-6 li,
+#actividad .content .workspace ul li .bck-ul-6 li {
+	padding-left: 40px;
+	position: relative;
+	list-style: none;
+	margin-bottom: 10px;
+	color: #727473;
+}
+
+#actividad .content .cke_contents .bck-ul-6 li:before,
+#actividad .content .texto_curso ul.bck-ul-6 li:before,
+#actividad .popover-content ul.bck-ul-6 li:before,
+#actividad .content .workspace ul li ul.bck-ul-6 li:before {
+	content: "";
+    height: 5px;
+    width: 5px;
+    background-color: #333;
+    color: #727473;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 6px;
 
 }
 
