@@ -32,6 +32,7 @@
 				{ name: 'Énfasis-04', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis-05', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'Énfasis-06', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
+				{ name: 'Énfasis-07', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 
 
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
