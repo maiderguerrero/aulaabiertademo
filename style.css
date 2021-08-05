@@ -1708,58 +1708,36 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 /*CAJA 9*/
 .bck-box.bck-box-9 {
-	background: #FFE054;
-    border: none;
-    text-align: left;
-    border-radius: 15px;
+	min-height: auto;
+	margin-top: 20px;
+	-webkit-box-shadow: 0 9px 15px 5px #d4d2d2;
+    box-shadow: 0 9px 15px 5px #d4d2d2;
+    padding: 15px;
+    background: #E1E2E3;
 }
 
-.bck-box.bck-box-9 > .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 10px;
-	border-radius: 15px;
-}
 
-.bck-box.bck-box-9 > .bck-title {
-	padding: 15px 45px;
-	padding-bottom: 0;
-    border: 0px;
-    color: #333;
-    font-size: 1.5rem;
-    font-weight: 800;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+.bck-box-9 > .bck-title {
+	color: #414141;
+	font-size: 1.5rem;
+	font-weight: 800;
+	text-align: left;
+	background-color: #E1E2E3;
+	padding: 10px;
+	border-bottom: none;
+	margin-bottom: 0px;
 }
 
 .bck-box-9 > .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
+	display: none;
 }
 
-/*Caja 9 dentro de caja 6*/
-.bck-box-6 .bck-box-9 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/vocabulario_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
+.bck-box-9 > .bck-content {
+	background: #E1E2E3;
+	border-bottom: none;
 }
 
-/*Párrafos en caja 9*/
 
-.bck-box.bck-box-9 p {
-	margin-bottom: 5px;
-}
 
 
 /*CAJA 10*/
