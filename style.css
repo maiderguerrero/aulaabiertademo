@@ -716,21 +716,24 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Énfasis 2*/
 
 .bck-enfasis-2 {
-	color: #5888c3;
-	font-style: italic;
+	color: #7192C7;
+    font-style: normal;
+    font-weight: 800;
 }
 
 /*Énfasis 3*/
 
 .bck-enfasis-3 {
-	color: #728fab;
+	color: #7E7C81;
+    font-weight: 800;
 }
 
 /*Énfasis 4*/
 
 .bck-enfasis-4 {
-	background-color: #ffcca3;
 	font-weight: bold;
+	background-color: inherit;
+    color: #497A69;
 }
 
 /*Énfasis 5*/
@@ -744,8 +747,10 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Énfasis 6*/
 
 .bck-enfasis-6 {
-	font-weight: bold;
-	color: #DBBC00;
+    font-weight: inherit;
+    color: #414141;
+    background-color: #C7E4F6;
+    padding: 5px 10px;
 }
 
 
@@ -2213,48 +2218,60 @@ body:not(.edit) .bck-flipbox-face.back {
 	vertical-align: top;
 }
 
-.item-container .icon-critical:before {
-	background-image: url(imagenes/criticalthinking_naranja.png);
+/*Icono 1*/
+
+.item-container .icon-1:before {
+	background-image: url(imagenes/icono_parejas_aulaabierta.jpg);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-gold:before {
-	background-image: url(imagenes/criticalthinking_naranjaclaro.png);
+/*Icono 2*/
+
+.item-container .icon-2:before {
+	background-image: url(imagenes/icono_grupos_aulaabierta.jpg);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-verde:before {
-	background-image: url(imagenes/criticalthinking_verde.png);
+/*Icono 3*/
+
+.item-container .icon-3:before {
+	background-image: url(imagenes/icono_audio_aulaabierta.jpg);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-negro:before {
-	background-image: url(imagenes/criticalthinking_negro.png);
+/*Icono 4*/
+
+.item-container .icon-4:before {
+	background-image: url(imagenes/icono_lupa_aulaabierta.jpg);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-critical-azul:before {
-	background-image: url(imagenes/criticalthinking_azul.png);
+/*Icono 5*/
+
+.item-container .icon-5:before {
+	background-image: url(imagenes/icono_internet_aulaabierta.jpg);
 	width: 160px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
 }
 
-.item-container .icon-search:before {
-	background-image: url(imagenes/search_naranja.png);
+/*Icono 6*/
+
+.item-container .icon-6:before {
+	background-image: url(imagenes/icono_exclamaciongris_aulaabierta.png);
 	width: 105px;
     height: 23px;
     vertical-align: top;
@@ -2262,51 +2279,8 @@ body:not(.edit) .bck-flipbox-face.back {
     margin-top: 1px;
 }
 
-.item-container .icon-search-naranjaclaro:before {
-	background-image: url(imagenes/search_naranjaclaro.png);
-	width: 105px;
-    height: 23px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
 
-.item-container .icon-search-verde:before {
-	background-image: url(imagenes/search_verde.png);
-	width: 105px;
-    height: 23px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
 
-.item-container .icon-search-negro:before {
-	background-image: url(imagenes/search_negro.png);
-	width: 105px;
-    height: 23px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-search-azul:before {
-	background-image: url(imagenes/search_azul.png);
-	width: 105px;
-    height: 23px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-video-oscuro:before {
-	background-image: url(imagenes/icono_video_oscuro.png);
-	height: 20px;
-	width: 33px;
-}
-
-.item-container .icon-bocadillo-blanco:before {
-	background-image: url(imagenes/bocadillo_blanco.png);
-}
 
 /**TABLA**/
 table,
