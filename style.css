@@ -1347,22 +1347,9 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 /*CAJA 1*/
-.bck-box.bck-box-1:before,
-.bck-box.bck-box-1:after {
-	display: none;
-}
-.bck-box-1 > .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/icono_cajasabiasque_aulaabierta.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
-}
 
-.bck-box .bck-box-1 {
+
+.bck-box.bck-box-1 {
 	min-height: auto;
 	margin-top: 20px;
 	background-color: #F9FAF8;
@@ -1370,6 +1357,13 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
 	box-shadow: 0 9px 15px 5px #D4D2D2;
 }
+
+
+.bck-box.bck-box-1:before,
+.bck-box.bck-box-1:after {
+	display: none;
+}
+
 
 .bck-box-1 > .bck-title {
 	color: #727473;
@@ -1382,97 +1376,25 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-weight: 800;
 }
 
+
+.bck-box-1 > .bck-title:before {
+	content: " ";
+	position: absolute;
+	padding: 17px;
+	background-image: url(imagenes/icono_cajasabiasque_aulaabierta.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-top: -3px;
+	margin-left: -40px;
+}
+
+
 .bck-box.bck-box-1 > .bck-content {
 	padding: 10px;
 	padding-left: 10px;
 	border-bottom: none;
 }
 
-.bck-box.bck-box-1 .bck-content {
-	padding-left: 10px;
-}
-
-.bck-box-1 {
-	background: transparent;
-}
-
-/*Caja 1 en caja 11*/
-
-.bck-box-11 .bck-box-1 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/engrupo_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
-	display: block;
-}
-
-.bck-box-11 .bck-box .bck-box-1 {
-	min-height: 80px;
-	margin-top: 20px;
-}
-
-.bck-box-11 .bck-box-1 .bck-title {
-	color: #dc4f24;
-    font-size: 2rem;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    font-weight: 800;
-}
-
-.bck-box-11 .bck-box.bck-box-1 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-	border-radius: 0;
-}
-
-.bck-box-11 .bck-box-1 {
-	background: transparent;
-}
-
-/*Caja 1 en caja 13*/
-
-.bck-box-13 .bck-box-1 .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/engrupo_mapas_naranja.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: -3px;
-	margin-left: -40px;
-	display: block;
-}
-
-.bck-box-13 .bck-box .bck-box-1 {
-	min-height: 80px;
-	margin-top: 20px;
-}
-
-.bck-box-13 .bck-box-1 .bck-title {
-	color: #dc4f24;
-    font-size: 2rem;
-    text-align: left;
-    background-color: transparent;
-    padding: 10px;
-    padding-left: 50px;
-    font-weight: 800;
-}
-
-.bck-box-13 .bck-box.bck-box-1 .bck-content {
-	padding: 10px;
-	border-bottom: 2px solid #dc4f24;
-	border-radius: 0;
-}
-
-.bck-box-13 .bck-box-1 {
-	background: transparent;
-}
 
 /*CAJA 2*/
 .bck-box.bck-box-2 {
