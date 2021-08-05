@@ -1356,6 +1356,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	color: #727473;
 	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
 	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
 }
 
 
@@ -1367,7 +1368,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-box-1 > .bck-title {
 	color: #727473;
-    font-size: 1.5rem;
+    font-size: 16px;
     text-align: left;
     background-color: transparent;
     padding: 10px;
