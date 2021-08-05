@@ -1675,56 +1675,36 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 
 /*CAJA 8*/
-.bck-box-8 > .bck-title:before {
-	content: " ";
-	position: absolute;
-	padding: 17px;
-	background-image: url(imagenes/icono_video_blanco.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	margin-top: 3px;
-	margin-left: -52px;
+.bck-box.bck-box-8 {
+	min-height: auto;
+	margin-top: 20px;
+	-webkit-box-shadow: 0 9px 15px 5px #d4d2d2;
+    box-shadow: 0 9px 15px 5px #d4d2d2;
+    padding: 15px;
+    background: #CDE9F9;
 }
 
-.bck-box .bck-box-8 {
-	min-height: 80px;
-	margin-top: 50px;
-}
 
 .bck-box-8 > .bck-title {
-	color: #fff;
-	font-size: 2rem;
-	font-weight: bold;
+	color: #414141;
+	font-size: 1.5rem;
+	font-weight: 800;
 	text-align: left;
-	background-color: #dc4f24;
+	background-color: #CDE9F9;
 	padding: 10px;
-	padding-left: 70px;
-	border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+
+.bck-box-8 > .bck-title:before {
+	display: none;
 }
 
 .bck-box-8 > .bck-content {
-	text-align: center;
-	background: #fbede9;
-	border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
+	background: #CDE9F9;
+	border-bottom: none;
 }
 
-.bck-box-8 {
-	background: transparent;
-	margin-top: 50px;
-}
-
-.bck-box-8:before {
-	content: "VIDEO";
-	color: #dc4f24;
-	padding: 40px;
-	position: absolute;
-	margin-top: -65px;
-	left: -30px;
-	font-weight: bold;
-	font-size: 2.2rem;
-}
 
 /*CAJA 9*/
 .bck-box.bck-box-9 {
