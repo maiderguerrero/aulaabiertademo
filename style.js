@@ -26,14 +26,14 @@
 				{ name: 'Título 10', element: 'h3', attributes: { 'class': 'bck-title bck-title-10'} },
 				{ name: 'Título 11', element: 'h3', attributes: { 'class': 'bck-title bck-title-11'} },
 
-				{ name: 'Énfasis-01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
-				{ name: 'Énfasis-02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
-				{ name: 'Énfasis-03', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
-				{ name: 'Énfasis-04', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
-				{ name: 'Énfasis-05', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
-				{ name: 'Énfasis-06', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
-				{ name: 'Énfasis-07', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
-				{ name: 'Énfasis-08', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
+				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'Énfasis 03', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
+				{ name: 'Énfasis 04', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
+				{ name: 'Énfasis 05', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'Énfasis 06', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
+				{ name: 'Énfasis 07', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
+				{ name: 'Énfasis 08', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 
 
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
