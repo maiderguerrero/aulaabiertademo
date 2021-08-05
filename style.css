@@ -2222,7 +2222,7 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-1:before {
 	background-image: url(imagenes/icono_parejas_aulaabierta.jpg);
-	width: 160px;
+	width: 25px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
@@ -2232,7 +2232,7 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-2:before {
 	background-image: url(imagenes/icono_grupos_aulaabierta.jpg);
-	width: 160px;
+	width: 25px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
@@ -2242,7 +2242,7 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-3:before {
 	background-image: url(imagenes/icono_audio_aulaabierta.jpg);
-	width: 160px;
+	width: 25px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
@@ -2252,7 +2252,7 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-4:before {
 	background-image: url(imagenes/icono_lupa_aulaabierta.jpg);
-	width: 160px;
+	width: 25px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
@@ -2262,7 +2262,7 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-5:before {
 	background-image: url(imagenes/icono_internet_aulaabierta.jpg);
-	width: 160px;
+	width: 25px;
     height: 25px;
     vertical-align: top;
     margin-right: 5px;
@@ -2272,11 +2272,10 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-6:before {
 	background-image: url(imagenes/icono_exclamaciongris_aulaabierta.png);
-	width: 105px;
-    height: 23px;
+	width: 25px;
+    height: 25px;
     vertical-align: top;
     margin-right: 5px;
-    margin-top: 1px;
 }
 
 
