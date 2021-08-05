@@ -1151,20 +1151,54 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .popover-content ul.bck-ul-1 li:before,
 #actividad .content .workspace ul li ul.bck-ul-1 li:before {
 	content: "";
-    height: 6px;
-    width: 6px;
+    height: 5px;
+    width: 5px;
     background-color: #333;
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 9px;
+    margin-top: 10px;
     margin-left: 6px;
 
 }
 
 
-
 /*LISTA DESORDENADA 2*/
+#actividad .content .cke_contents .bck-ul-2,
+#actividad .content .texto_curso .bck-ul-2,
+#actividad .content .workspace ul li .bck-ul-2 {
+	list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-2 li,
+#actividad .content .cke_contents .bck-ul-2 li,
+#actividad .content .texto_curso .bck-ul-2 li,
+#actividad .popover-content .bck-ul-2 li,
+#actividad .content .workspace ul li .bck-ul-2 li {
+	padding-left: 40px;
+	position: relative;
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+#actividad .content .cke_contents .bck-ul-2 li:before,
+#actividad .content .texto_curso ul.bck-ul-2 li:before,
+#actividad .popover-content ul.bck-ul-2 li:before,
+#actividad .content .workspace ul li ul.bck-ul-2 li:before {
+	content: "";
+    height: 9px;
+    width: 9px;
+    background-color: #333;
+    color: #333;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 6px;
+
+}
+
+
+/*LISTA DESORDENADA 3*/
 #actividad .content .cke_contents .bck-ul-3,
 #actividad .content .texto_curso .bck-ul-3,
 #actividad .content .workspace ul li .bck-ul-3 {
@@ -1178,7 +1212,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ul-3 li {
 	padding-left: 40px;
 	position: relative;
-	list-style-type: none;
+	list-style: none;
 	margin-bottom: 10px;
 }
 
@@ -1186,14 +1220,16 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso ul.bck-ul-3 li:before,
 #actividad .popover-content ul.bck-ul-3 li:before,
 #actividad .content .workspace ul li ul.bck-ul-3 li:before {
-	font-family: 'FontAwesome';
-    content: "\f058";
-    background-color: transparent;
-    color: #fff;
+	content: "";
+    height: 9px;
+    width: 9px;
+    background-color: #transparent;
+    color: #333;
+    border-radius: 50%;
     position: absolute;
-    margin-top: 1px;
-    margin-left: -5px;
-    background: transparent;
+    margin-top: 7px;
+    margin-left: 6px;
+    border: 2px solid #414141;
 
 }
 
