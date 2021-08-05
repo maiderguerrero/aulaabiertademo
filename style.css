@@ -1230,8 +1230,44 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     margin-top: 7px;
     margin-left: 6px;
     border: 1px solid #414141;
+}
+
+
+/*LISTA DESORDENADA 4*/
+#actividad .content .cke_contents .bck-ul-4,
+#actividad .content .texto_curso .bck-ul-4,
+#actividad .content .workspace ul li .bck-ul-4 {
+	list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-4 li,
+#actividad .content .cke_contents .bck-ul-4 li,
+#actividad .content .texto_curso .bck-ul-4 li,
+#actividad .popover-content .bck-ul-4 li,
+#actividad .content .workspace ul li .bck-ul-4 li {
+	padding-left: 40px;
+	position: relative;
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+#actividad .content .cke_contents .bck-ul-4 li:before,
+#actividad .content .texto_curso ul.bck-ul-4 li:before,
+#actividad .popover-content ul.bck-ul-4 li:before,
+#actividad .content .workspace ul li ul.bck-ul-4 li:before {
+	content: "";
+    height: 9px;
+    width: 9px;
+    background-color: #333;
+    color: #333;
+    border-radius: 0;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 6px;
 
 }
+
+
 
 /*LISTA DESORDENADA 5*/
 #actividad .content .cke_contents .bck-ul-5,
