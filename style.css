@@ -1407,6 +1407,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
 	box-shadow: 0 9px 15px 5px #D4D2D2;
 	font-size: 16px;
+	border: none;
 }
 
 
@@ -1416,6 +1417,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 
+.bck-box.bck-box-2 > .bck-title,
 .bck-box-2 > .bck-title {
 	color: #727473;
     font-size: 16px;
@@ -1428,7 +1430,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 
-.bck-box-2 > .bck-title:before {
+.bck-box.bck-box-2 > .bck-title:before {
 	content: " ";
     position: absolute;
     padding: 11px;
