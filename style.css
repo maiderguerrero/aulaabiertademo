@@ -1,4 +1,11 @@
+
 /*Estilo AULA ABIERTA - CSS*/
+
+:root{
+
+   --colorteja: #E86547;
+
+ }
 
 /* Fonts */
 
@@ -586,7 +593,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     margin-left: 0;
     font-family: Conv_TypeType-TT_Rounds;
     font-weight: 200;
-    border-bottom: 6px solid #E86547;
+    border-bottom: 6px solid var(--colorteja);
 }
 
 
@@ -599,7 +606,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     margin-left: 0;
     font-family: Conv_TypeType-TT_Rounds;
     font-weight: 200;
-    border-bottom: 6px solid #E86547;
+    border-bottom: 6px solid var(--colorteja);
 }
 
 
@@ -622,9 +629,9 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Título 3*/
 
 .bck-title-3 {
-	color: #e86547;
+	color: var(--colorteja);
     font-size: 2.5rem;
-    border-bottom: 3px solid #e86547;
+    border-bottom: 3px solid var(--colorteja);
     padding-bottom: 5px;
     font-family: 'Conv_TypeType-TT_Rounds';
     font-weight: 400;
@@ -650,7 +657,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-size: 5rem;
     margin-left: 0;
     border-bottom: none;
-    color: #E86547;
+    color: var(--colorteja);
 }
 
 /*Título 6*/
@@ -697,24 +704,36 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 
-.bck-enfasis {
-	color: #31A2C7;
-	font-weight: bold;
+/*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
+
+/*Énfasis 1*/
+
+.bck-enfasis-1 {
+	color: var(--colorteja);
+    font-weight: 800;
 }
+
+/*Énfasis 2*/
 
 .bck-enfasis-2 {
 	color: #5888c3;
 	font-style: italic;
 }
 
+/*Énfasis 3*/
+
 .bck-enfasis-3 {
 	color: #728fab;
 }
+
+/*Énfasis 4*/
 
 .bck-enfasis-4 {
 	background-color: #ffcca3;
 	font-weight: bold;
 }
+
+/*Énfasis 5*/
 
 .bck-enfasis-5 {
 	font-family: 'Conv_marydale', Sans-Serif;
@@ -722,10 +741,14 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	font-size: 2rem;
 }
 
+/*Énfasis 6*/
+
 .bck-enfasis-6 {
 	font-weight: bold;
 	color: #DBBC00;
 }
+
+
 
 .bck-enfasis-7 {
 	font-weight: bold;
