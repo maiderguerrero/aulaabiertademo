@@ -1449,106 +1449,107 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 /*CAJA 3*/
+
 .bck-box.bck-box-3 {
-	background: #F1B9A7;
-    border: none;
-    text-align: left;
-    border-radius: 15px;
+	min-height: auto;
+	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #727473;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
+	border: none;
 }
+
+
+.bck-box.bck-box-3:before,
+.bck-box.bck-box-3:after {
+	display: none;
+}
+
+
+.bck-box.bck-box-3 > .bck-title,
+.bck-box-3 > .bck-title {
+	color: #727473;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 50px;
+    border-radius: 0px;
+    font-weight: 800;
+}
+
+
+.bck-box.bck-box-3 > .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 11px;
+    background-image: url(imagenes/icono_paracomunicar_aulaabierta.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -1px;
+    margin-left: -40px;
+}
+
 
 .bck-box.bck-box-3 > .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 10px;
-	border-radius: 15px;
-	border-bottom: 2px solid transparent;
+	padding: 10px;
+	padding-left: 10px;
+	border-bottom: none;
 }
 
-.bck-box.bck-box-3 > .bck-title {
-	padding: 15px 45px;
-	padding-bottom: 0;
-    border: 0px;
-    color: #000;
-    font-size: 1.5rem;
-    font-weight: 800;
-    background: #F1B9A7;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-}
+/*CAJA 4*/
 
-.bck-box-3 > .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/campana_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
-
-/*Caja 3 dentro de caja 6*/
-.bck-box-6 .bck-box-3 .bck-title:before {
-	content: " ";
-    position: absolute;
-    padding: 12px;
-    background: url(imagenes/campana_mapas.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: -3px;
-    margin-left: -25px;
-}
-
-/*CAJA4*/
 .bck-box.bck-box-4 {
-	background: #F1B9A7;
-    border: none;
-    text-align: left;
-    border-radius: 15px;
+	min-height: auto;
+	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #727473;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
+	border: none;
 }
 
+
+.bck-box.bck-box-4:before,
+.bck-box.bck-box-4:after {
+	display: none;
+}
+
+
+.bck-box.bck-box-4 > .bck-title,
 .bck-box-4 > .bck-title {
-	padding: 15px 55px;
-	padding-bottom: 0;
-    border: 0px;
-    color: #000;
-    font-size: 1.5rem;
+	color: #727473;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 50px;
+    border-radius: 0px;
     font-weight: 800;
-    background: #F1B9A7;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-}
-
-.bck-box.bck-box-4 > .bck-content {
-	padding: 4px 10px 15px;
-	width: 100%;
-	margin-left: 10px;
-	border-radius: 15px;
 }
 
 
 .bck-box.bck-box-4 > .bck-title:before {
-	    content: " ";
+	content: " ";
     position: absolute;
-    padding: 15px;
-    background: url(imagenes/estrategia_mapas.png);
+    padding: 11px;
+    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
     background-repeat: no-repeat;
     background-size: contain;
-    margin-top: -4px;
-    margin-left: -35px;
+    margin-top: -1px;
+    margin-left: -40px;
 }
 
-.bck-box-5 .bck-box-4 .bck-title {
-	padding: 15px 55px;
-	padding-bottom: 0;
-    border: 0px;
-    color: #333;
-    font-size: 1.5rem;
-    font-weight: 800;
-    background: #F1B9A7;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+
+.bck-box.bck-box-4 > .bck-content {
+	padding: 10px;
+	padding-left: 10px;
+	border-bottom: none;
 }
+
 
 /*CAJA5*/
 .bck-box.bck-box-5 {
