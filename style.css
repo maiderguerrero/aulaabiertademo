@@ -1223,7 +1223,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	content: "";
     height: 9px;
     width: 9px;
-    background-color: #transparent;
+    background-color: transparent;
     color: #333;
     border-radius: 50%;
     position: absolute;
