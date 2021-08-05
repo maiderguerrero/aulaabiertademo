@@ -1157,43 +1157,12 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: .6em;
+    margin-top: 9px;
     margin-left: 6px;
 
 }
 
-/*LISTA DESORDENADA 2*/
-#actividad .content .cke_contents .bck-ul-2,
-#actividad .content .texto_curso .bck-ul-2,
-#actividad .content .workspace ul li .bck-ul-2 {
-	list-style-type: none;
-}
 
-#actividad .content .cke_contents .bck-ul-2 li,
-#actividad .content .cke_contents .bck-ul-2 li,
-#actividad .content .texto_curso .bck-ul-2 li,
-#actividad .popover-content .bck-ul-2 li,
-#actividad .content .workspace ul li .bck-ul-2 li {
-	padding-left: 40px;
-	position: relative;
-	list-style-type: none;
-	margin-bottom: 10px;
-	font-weight: bold;
-}
-
-#actividad .content .cke_contents .bck-ul-2 li:before,
-#actividad .content .texto_curso ul.bck-ul-2 li:before,
-#actividad .popover-content ul.bck-ul-2 li:before,
-#actividad .content .workspace ul li ul.bck-ul-2 li:before {
-	content: "►";
-	background: none;
-    color: #333;
-    position: absolute;
-    margin-top: 0em;
-    margin-left: 4px;
-    font-size: 1.5rem;
-
-}
 
 /*LISTA DESORDENADA 2*/
 #actividad .content .cke_contents .bck-ul-3,
@@ -1225,6 +1194,39 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     margin-top: 1px;
     margin-left: -5px;
     background: transparent;
+
+}
+
+/*LISTA DESORDENADA 5*/
+#actividad .content .cke_contents .bck-ul-5,
+#actividad .content .texto_curso .bck-ul-5,
+#actividad .content .workspace ul li .bck-ul-5 {
+	list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul-5 li,
+#actividad .content .cke_contents .bck-ul-5 li,
+#actividad .content .texto_curso .bck-ul-5 li,
+#actividad .popover-content .bck-ul-5 li,
+#actividad .content .workspace ul li .bck-ul-5 li {
+	padding-left: 40px;
+	position: relative;
+	list-style-type: none;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#actividad .content .cke_contents .bck-ul-5 li:before,
+#actividad .content .texto_curso ul.bck-ul-5 li:before,
+#actividad .popover-content ul.bck-ul-5 li:before,
+#actividad .content .workspace ul li ul.bck-ul-5 li:before {
+	content: "►";
+	background: none;
+    color: #333;
+    position: absolute;
+    margin-top: 0em;
+    margin-left: 4px;
+    font-size: 1.5rem;
 
 }
 
