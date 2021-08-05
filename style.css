@@ -1355,7 +1355,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	content: " ";
 	position: absolute;
 	padding: 17px;
-	background-image: url(imagenes/engrupo_mapas_naranja.png);
+	background-image: url(imagenes/icono_cajasabiasque_aulaabierta.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin-top: -3px;
@@ -1363,12 +1363,16 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 .bck-box .bck-box-1 {
-	min-height: 80px;
+	min-height: auto;
 	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #727473;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
 }
 
 .bck-box-1 > .bck-title {
-	color: #dc4f24;
+	color: #727473;
     font-size: 1.5rem;
     text-align: left;
     background-color: transparent;
@@ -1381,7 +1385,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-box.bck-box-1 > .bck-content {
 	padding: 10px;
 	padding-left: 10px;
-	border-bottom: 2px solid #dc4f24;
+	border-bottom: none;
 }
 
 .bck-box.bck-box-1 .bck-content {
