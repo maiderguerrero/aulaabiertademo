@@ -1398,45 +1398,52 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 
 /*CAJA 2*/
+
 .bck-box.bck-box-2 {
-	background: #DC4F24;
-    border: none;
-    margin-top: 20px;
-    border-radius: 15px;
-    color: #fff;
+	min-height: auto;
+	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #727473;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
 }
 
-.bck-box.bck-box-2 > .bck-content {
-	font-family: 'Conv_TypeType-TT_Rounds';
-	color: #fff;
-    background: #DC4F24;
-    font-size: 2.1rem;
-    font-weight: bold;
-    padding-top: 4px;
-    padding-left: 20px;
-    border-radius: 15px;
+
+.bck-box.bck-box-2:before,
+.bck-box.bck-box-2:after {
+	display: none;
 }
 
-.bck-box.bck-box-2 > .bck-title {
-	color: #fff;
-    background: #DC4F24;
-    margin-bottom: 0;
-    font-size: 1.5rem;
-    padding: 15px 45px 0px 55px;
+
+.bck-box-2 > .bck-title {
+	color: #727473;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 50px;
+    border-radius: 0px;
     font-weight: 800;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
 }
 
-.bck-box.bck-box-2 > .bck-title:before {
+
+.bck-box-2 > .bck-title:before {
 	content: " ";
     position: absolute;
-    padding: 15px;
-    background: url(imagenes/foro_mapas.png);
+    padding: 11px;
+    background-image: url(imagenes/icono_cajanecesitasayuda_aulaabierta.png);
     background-repeat: no-repeat;
     background-size: contain;
-    margin-top: -3px;
-    margin-left: -35px;
+    margin-top: -1px;
+    margin-left: -40px;
+}
+
+
+.bck-box.bck-box-2 > .bck-content {
+	padding: 10px;
+	padding-left: 10px;
+	border-bottom: none;
 }
 
 /*CAJA 3*/
