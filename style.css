@@ -1551,28 +1551,56 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 
-/*CAJA5*/
+/*CAJA 5*/
 .bck-box.bck-box-5 {
-	min-height: 0;
-	margin-top: 15px;
-}
-
-.bck-box-5 > .bck-title {
-	border-bottom: 0px solid #eee;
+	min-height: auto;
+	margin-top: 20px;
+	background-color: var(--colorteja);
 	color: #fff;
-	font-size: 2.1rem;
-	font-weight: bold;
-	background-color: #bf0811;
-	padding: 10px;
-	text-align: center;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
+	border: none;
 }
 
-.bck-box.bck-box-5 {
-	padding: 10px;
-	background-color: #FBEDE9;
-	top: -20px;
-	border-radius: 0px 0px 15px 15px;
+
+.bck-box.bck-box-5:before,
+.bck-box.bck-box-5:after {
+	display: none;
 }
+
+
+.bck-box.bck-box-5 > .bck-title,
+.bck-box-5 > .bck-title {
+	color: #fff;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 50px;
+    border-radius: 0px;
+    font-weight: 800;
+}
+
+
+.bck-box.bck-box-5 > .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 11px;
+    background-image: url(imagenes/icono_cajaestrategiablanco_aulaabierta.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -1px;
+    margin-left: -40px;
+}
+
+
+.bck-box.bck-box-5 > .bck-content {
+	padding: 10px;
+	padding-left: 10px;
+	border-bottom: none;
+}
+
 
 /*CAJA 6*/
 .bck-box-6 > .bck-title:before {
