@@ -753,12 +753,10 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     padding: 5px 10px;
 }
 
-
+/*Énfasis 7*/
 
 .bck-enfasis-7 {
-	font-weight: bold;
-	font-size: 1.4rem;
-	text-transform: uppercase;
+	font-weight:400;
 
 }
 
