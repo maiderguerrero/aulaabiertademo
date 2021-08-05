@@ -1597,8 +1597,9 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-box.bck-box-5 > .bck-content {
 	padding: 10px;
-	padding-left: 10px;
-	border-bottom: none;
+    padding-left: 48px;
+    padding-right: 20px;
+    border-bottom: none;
 }
 
 
