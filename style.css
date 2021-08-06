@@ -296,6 +296,16 @@ body {
 	text-align: left;
 }
 
+/*Imágenes*/
+
+.bck-i-fullscreen-wrapper {
+    padding: 0;
+}
+
+#actividad .content img {
+	border-radius: 0;
+}
+
 /*tamaÃ±o enunciado listas*/
 
 #actividad .pregunta .texto_curso {
