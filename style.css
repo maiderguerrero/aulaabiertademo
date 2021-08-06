@@ -1874,6 +1874,37 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	display: none;
 }
 
+/*CAJA 14*/
+.bck-box.bck-box-14 {
+	min-height: auto;
+	margin-top: 20px;
+	-webkit-box-shadow: 0 9px 15px 5px #d4d2d2;
+    box-shadow: 0 9px 15px 5px #d4d2d2;
+    padding: 15px;
+    background: #F0EEEC;
+    border: 1px solid #000;
+}
+
+
+.bck-box-14 > .bck-title {
+	color: #414141;
+	font-weight: 800;
+	text-align: left;
+	background-color: #F0EEEC;
+	padding: 10px;
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+
+.bck-box-14 > .bck-title:before {
+	display: none;
+}
+
+.bck-box-14 > .bck-content {
+	background: #F0EEEC;
+	border-bottom: none;
+}
+
 
 
 /*CAJA POP-UP*/
