@@ -71,6 +71,11 @@
 				{ name: 'Icono 06', element: 'span', attributes: { 'class': 'icon icon-6' } },
 				{ name: 'Icono 07', element: 'span', attributes: { 'class': 'icon icon-7' } },
 
+				{ name: 'Celda 01', element: 'td', attributes: { 'class': 'celda-1' } },
+				{ name: 'Celda 02', element: 'td', attributes: { 'class': 'celda-2' } },
+				{ name: 'Celda 03', element: 'td', attributes: { 'class': 'celda-3' } },
+				{ name: 'Celda 04', element: 'td', attributes: { 'class': 'celda-4' } },
+
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
 				{ name: 'Desplegable 3', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-3' } },
