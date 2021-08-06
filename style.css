@@ -306,6 +306,13 @@ body {
 	border-radius: 0;
 }
 
+
+/*Párrafos*/
+
+.texto_curso p:last-of-type {
+	margin-bottom: 20px;
+}
+
 /*tamaÃ±o enunciado listas*/
 
 #actividad .pregunta .texto_curso {
