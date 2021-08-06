@@ -703,6 +703,20 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     color: #414141;
 }
 
+/*Título 10*/
+
+.bck-title-10{
+    color: #fff;
+    font-size: 3.3rem;
+    padding-bottom: 15px;
+    margin-left: 0;
+    font-family: Conv_TypeType-TT_Rounds;
+    font-weight: 200;
+    border-bottom: 6px solid fff;
+}
+
+
+
 
 /*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
 
