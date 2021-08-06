@@ -1817,26 +1817,26 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-box.bck-box-12 {
     border: none;
     text-align: left;
-    border-radius: 15px;
-    background: #F1E9EC;
-    -webkit-box-shadow: 10px 10px 15px 0 #BABABA;
-	box-shadow: 10px 10px 15px 0 #BABABA;
+    border-radius: 0;
+    background: #FDF5F7;
+    -webkit-box-shadow: none;
+	box-shadow: none;
 	margin-bottom: 35px;
-	padding: 10px;
+	padding: 20px;
 }
 
 .bck-box.bck-box-12 > .bck-content {
 	padding: 15px 10px 15px;
-	background: #F1E9EC;
-	border-radius: 15px;
+	background: #FDF5F7;
+	border-radius: 0;
 }
 
 .bck-box.bck-box-12 > .bck-title {
-	background: #F1E9EC;
+	background: #FDF5F7;
     padding: 5px 20px;
     border: 0px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
 }
 
 .bck-box-12 > .bck-title:before {
