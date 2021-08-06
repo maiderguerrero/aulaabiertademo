@@ -1878,8 +1878,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-box.bck-box-14 {
 	min-height: auto;
 	margin-top: 20px;
-	-webkit-box-shadow: 0 9px 15px 5px #d4d2d2;
-    box-shadow: 0 9px 15px 5px #d4d2d2;
+	-webkit-box-shadow: none;
+    box-shadow: none;
     padding: 15px;
     background: #F0EEEC;
     border: 1px solid #000;
