@@ -1833,7 +1833,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-box.bck-box-12 > .bck-title {
 	background: #FDF5F7;
-    padding: 5px 20px;
+    padding: 5px 10px;
     border: 0px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
@@ -1864,7 +1864,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-box.bck-box-13 > .bck-title {
 	background: #FFEFA4;
-    padding: 5px 20px;
+    padding: 5px 10px;
     border: 0px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
@@ -1880,7 +1880,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	margin-top: 20px;
 	-webkit-box-shadow: none;
     box-shadow: none;
-    padding: 15px;
+    padding: 10px;
     background: #F0EEEC;
     border: 1px solid #000;
 }
