@@ -1784,6 +1784,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     box-shadow: 0 9px 15px 5px #d4d2d2;
     padding: 15px;
     background: #FFFAE4;
+    margin-bottom: 40px;
 }
 
 
@@ -1924,6 +1925,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     padding: 10px;
     background: #F0EEEC;
     border: 1px solid #000;
+    margin-bottom: 40px;
 }
 
 
