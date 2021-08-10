@@ -736,7 +736,15 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-bottom: 6px solid #fff;
 }
 
+/*Título 11*/
 
+.bck-title-11 {
+	font-weight: 100;
+    font-size: 5rem;
+    margin-left: 0;
+    border-bottom: none;
+    color: #fff;
+}
 
 
 /*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
