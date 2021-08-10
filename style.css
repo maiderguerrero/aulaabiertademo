@@ -1972,6 +1972,37 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	padding: 15px;
 }
 
+/*CAJA 16*/
+
+.bck-box.bck-box-16 {
+    border: none;
+    text-align: left;
+    border-radius: 0;
+    background: #F0F0EF;
+    -webkit-box-shadow: none;
+	box-shadow: none;
+	margin-bottom: 35px;
+	padding: 10px;
+}
+
+.bck-box.bck-box-16 > .bck-content {
+	padding: 15px 10px 15px;
+	background: #F0F0EF;
+	border-radius: 0;
+}
+
+.bck-box.bck-box-16 > .bck-title {
+	background: #F0F0EF;
+    padding: 5px 10px;
+    border: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.bck-box-16 > .bck-title:before {
+	display: none;
+}
+
 
 /*CAJA POP-UP*/
 .info-popover .popover-title:before,
