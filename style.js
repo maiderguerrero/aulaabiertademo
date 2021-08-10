@@ -62,6 +62,7 @@
 				{ name: 'Caja 13', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-13' } },
 				{ name: 'Caja 14', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-14' } },
 				{ name: 'Caja 15', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-15' } },
+				{ name: 'Caja 16', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-16' } },
 
 				{ name: 'Icono 01', element: 'span', attributes: { 'class': 'icon icon-1' } },
 				{ name: 'Icono 02', element: 'span', attributes: { 'class': 'icon icon-2' } },
