@@ -799,6 +799,9 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     color: #414141;
     background-color: #C7E4F6;
     padding: 5px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
 }
 
 /*Énfasis 7*/
