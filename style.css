@@ -1219,7 +1219,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-2 li,
 #actividad .popover-content .bck-ul-2 li,
 #actividad .content .workspace ul li .bck-ul-2 li {
-	padding-left: 40px;
+	padding-left: 15px;
 	position: relative;
 	list-style: none;
 	margin-bottom: 0px;
@@ -1237,7 +1237,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-radius: 50%;
     position: absolute;
     margin-top: 7px;
-    margin-left: 6px;
+    margin-left: -15px;
 
 }
 
@@ -1255,7 +1255,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-3 li,
 #actividad .popover-content .bck-ul-3 li,
 #actividad .content .workspace ul li .bck-ul-3 li {
-	padding-left: 40px;
+	padding-left: 15px;
 	position: relative;
 	list-style: none;
 	margin-bottom: 0px;
@@ -1273,7 +1273,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-radius: 50%;
     position: absolute;
     margin-top: 7px;
-    margin-left: 6px;
+    margin-left: -15px;
     border: 1px solid #414141;
 }
 
@@ -1292,7 +1292,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-4 li,
 #actividad .popover-content .bck-ul-4 li,
 #actividad .content .workspace ul li .bck-ul-4 li {
-	padding-left: 40px;
+	padding-left: 15px;
 	position: relative;
 	list-style: none;
 	margin-bottom: 0px;
@@ -1310,7 +1310,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-radius: 0;
     position: absolute;
     margin-top: 7px;
-    margin-left: 6px;
+    margin-left: -15px;
 
 }
 
@@ -1320,7 +1320,8 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-5,
 #actividad .content .workspace ul li .bck-ul-5 {
 	list-style-type: none;
-	margin-top: 15px;
+	margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #actividad .content .cke_contents .bck-ul-5 li,
@@ -1328,7 +1329,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .texto_curso .bck-ul-5 li,
 #actividad .popover-content .bck-ul-5 li,
 #actividad .content .workspace ul li .bck-ul-5 li {
-	padding-left: 20px;
+	padding-left: 0px;
     position: relative;
     list-style-type: none;
     margin-bottom: 10px;
