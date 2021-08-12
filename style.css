@@ -751,6 +751,42 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     color: #fff;
 }
 
+/*Título 12*/
+
+.bck-title-12 {
+	color: var(--colorteja);
+	font-size: 3.3rem;
+}
+
+/*Título 13*/
+
+.bck-title-13 {
+	color: var(--colorteja);
+	font-size: 5.3rem;
+	font-weight: 100;
+}
+
+/*Título 14*/
+
+.bck-title-14 {
+	color: var(--colorteja);
+	font-size: 4.3rem;
+}
+
+
+/*Título 15*/
+
+.bck-title-15 {
+	font-weight: bold;
+	font-size: 1.6rem;
+}
+
+/*Título 16*/
+
+.bck-title-16 {
+	font-size: 2.3rem;
+}
+
 
 /*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
 
