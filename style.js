@@ -25,6 +25,12 @@
 				{ name: 'Título 09', element: 'h3', attributes: { 'class': 'bck-title bck-title-9'} },
 				{ name: 'Título 10', element: 'h3', attributes: { 'class': 'bck-title bck-title-10'} },
 				{ name: 'Título 11', element: 'h3', attributes: { 'class': 'bck-title bck-title-11'} },
+				{ name: 'Título 12', element: 'h3', attributes: { 'class': 'bck-title bck-title-12'} },
+				{ name: 'Título 13', element: 'h3', attributes: { 'class': 'bck-title bck-title-13'} },
+				{ name: 'Título 14', element: 'h3', attributes: { 'class': 'bck-title bck-title-14'} },
+				{ name: 'Título 15', element: 'h3', attributes: { 'class': 'bck-title bck-title-15'} },
+				{ name: 'Título 16', element: 'h3', attributes: { 'class': 'bck-title bck-title-16'} },
+				
 
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
