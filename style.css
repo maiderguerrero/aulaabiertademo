@@ -1018,7 +1018,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ol-1 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
-	margin-left: 23px;
+	margin-left: -17px;
 }
 
 #actividad .content .cke_contents .bck-ol-1 li,
@@ -1063,7 +1063,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 #actividad .content .workspace ul li .bck-ol-2 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
-	margin-left: 21px;
+	margin-left: -19px;
 }
 
 #actividad .content .cke_contents .bck-ol-2 li,
