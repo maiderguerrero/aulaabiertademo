@@ -882,6 +882,20 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     margin-left: 0;
     border-bottom: none;
     color: #414141;
+    z-index: 1;
+}
+
+
+.bck-title-19:after {
+    content: "";
+    display: block;
+    background-color: #C09100;
+    margin-top: -31px;
+    z-index: -2;
+    border-left: 0;
+    border-right: 0;
+    min-height: 26px;
+    margin-bottom: 15px;
 }
 
 
