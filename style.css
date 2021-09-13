@@ -677,6 +677,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-family: Neue Haas Unica Pro;
     font-weight: 600;
     border-bottom: 5px solid var(--colorteja);
+    margin-bottom: 30px;
 
 }
 
@@ -792,6 +793,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-family: Neue Haas Unica Pro;
     font-weight: 600;
     border-bottom: 5px solid #fff;
+     margin-bottom: 30px;
 }
 
 /*Título 11*/
