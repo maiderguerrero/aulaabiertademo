@@ -907,150 +907,13 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	color: #727473;
 }
 
+/*Éndasis 9*/
+
 .bck-enfasis-9 {
-	font-weight: 800;
-}
-
-.bck-enfasis-10 {
-	background-color: #99D5B5;
-}
-
-.bck-enfasis-11 {
-	color: #373636;
-}
-
-.bck-enfasis-12 {
-	color: #fff;
-    position: relative;
-    font-weight: bold;
-    border-radius: 8px;
-    padding: 2px 18px 2px 18px;
-    background-color: #009746;
-    font-size: 1.6rem;
-}
-
-.bck-enfasis-13 {
-	font-style: italic;
-	font-size: 1.8rem;
-}
-
-.bck-enfasis-14{
-	font-weight: bold;
-	font-size: 1.4rem;
-	text-transform: uppercase;
-	border-radius: 15px;
-	padding: 5px 10px 5px 40px;
-	background: #FFE054;
-}
-
-.bck-enfasis-14:before {
-	content: "";
-	position: absolute;
-	background-image: url(imagenes/icono_video_oscuro.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 12px;
-    margin-left: -30px;
-    margin-top: 5px;
-
-}
-
-.bck-enfasis-15{
-	font-weight: 400;
-}
-
-.bck-enfasis-16{
-    font-weight: bold;
-    font-variant: all-small-caps;
-}
-
-.bck-enfasis-17 {
-    font-weight: bold;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    border-radius: 15px;
-    padding: 5px 10px 5px 50px;
-    background: #99D5B5;
-}
-
-
-.bck-enfasis-17:before {
-    content: "";
-    position: absolute;
-    background-image: url(imagenes/icono_entonacion.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 21px 34px 0px 4px;
-    margin-left: -42px;
-    margin-top: 5px;
-}
-
-.bck-enfasis-18 {
-    font-weight: bold;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    border-radius: 15px;
-    padding: 5px 10px 5px 40px;
-    background: #ffffff;
-    border: 2px solid #000;
-}
-
-
-.bck-enfasis-18:before {
-    content: "";
-    position: absolute;
-    background-image: url(imagenes/icono_mapa_combinaciones.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-	padding: 22px;
-    margin-left: -44px;
-    margin-top: 6px;
-}
-
-.bck-enfasis-19 {
-    font-weight: bold;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    border-radius: 15px;
-    padding: 5px 10px 5px 33px;
-    background: #ffffff;
-    border: 2px solid #000;
-}
-
-
-.bck-enfasis-19:before {
-    content: "";
-    position: absolute;
-    background-image: url(imagenes/icono_mapa_tematico.PNG);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 12px;
-    margin-left: -25px;
-    margin-top: 6px;
-}
-
-.bck-enfasis-20 {
-    font-weight: bold;
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    border-radius: 15px;
-    padding: 5px 10px 5px 33px;
-    background: #ffffff;
-    border: 2px solid #000;
-}
-
-
-.bck-enfasis-20:before {
-    content: "A-Z";
-    font-size: 1.1rem;
+	color: #C8291D;
     font-weight: 800;
-    position: absolute;
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 0;
-    margin-left: -25px;
-    margin-top: 1px;
 }
+
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
@@ -2435,10 +2298,11 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-5:before {
 	background-image: url(imagenes/icono_capsulasonido_aulaabierta.png);
-	width: 25px;
-    height: 25px;
+    width: 45px;
+    height: 20px;
     vertical-align: top;
     margin-right: 5px;
+    background-size: contain;
 }
 
 /*Icono 6*/
@@ -2455,10 +2319,11 @@ body:not(.edit) .bck-flipbox-face.back {
 
 .item-container .icon-7:before {
 	background-image: url(imagenes/icono_videotutorial_aulaabierta.png);
-	width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 28px;
     vertical-align: top;
     margin-right: 5px;
+    background-size: contain;
 }
 
 
