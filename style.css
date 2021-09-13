@@ -832,6 +832,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-title-15 {
 	font-weight: bold;
 	font-size: 1.6rem;
+	color: #EAC3AF;
 }
 
 /*Título 16*/
@@ -839,6 +840,13 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-title-16 {
 	font-size: 3.3rem;
 	margin-top: 13px;
+}
+
+/*Título 17*/
+
+.bck-title-16 {
+	font-size: 3.6rem;
+	color: #414141
 }
 
 
