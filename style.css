@@ -850,6 +850,20 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	color: #414141
 }
 
+/*Título 18*/
+
+.bck-title-18 {
+    background: transparent;
+    width: 100%;
+    color: #414141;
+    font-size: 3.6rem;
+    padding-bottom: 13px;
+    margin-left: 0;
+    font-family: Neue Haas Unica Pro;
+    font-weight: 300;
+    border-bottom: 5px solid var(--colorteja);
+}
+
 
 /*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
 
