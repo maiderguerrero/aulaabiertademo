@@ -797,11 +797,11 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Título 11*/
 
 .bck-title-11 {
-	font-weight: 400;
+	font-weight: 100;
     font-size: 4.6rem;
     margin-left: 0;
     border-bottom: none;
-    color: #200000;
+    color: #fff;
 }
 
 /*Título 12*/
