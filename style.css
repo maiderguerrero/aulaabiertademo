@@ -3680,6 +3680,14 @@ content: "";
     font-size: 27rem; 
     margin-top: -40px;
 }
+
+.bck-title-14 {
+    font-size: 6.5rem;
+}
+
+.bck-title-16 {
+    font-size: 3.5rem;
+}
 }
 
 @media screen and (max-width: 812px){
@@ -3695,7 +3703,6 @@ content: "";
 .bck-title-16 {
     font-size: 3.3rem;
 }
-
 }
 
 
