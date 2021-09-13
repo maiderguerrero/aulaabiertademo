@@ -814,7 +814,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Título 13*/
 
 .bck-title-13 {
-	color: var(--colorteja);
+	color: #fff;
 	font-size: 20rem;
 	font-weight: 100;
 }
@@ -822,7 +822,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Título 14*/
 
 .bck-title-14 {
-	color: var(--colorteja);
+	color: #fff;
 	font-size: 4.5rem;
 }
 
@@ -840,6 +840,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-title-16 {
 	font-size: 3.3rem;
 	margin-top: 13px;
+	color: #fff;
 }
 
 /*Título 17*/
