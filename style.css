@@ -869,6 +869,19 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-bottom: 5px solid var(--colorteja);
 }
 
+/*Título 19*/
+
+.bck-title-19 {
+    border-radius: 0;
+    background: transparent;
+    padding: 0;
+    font-weight: 600;
+    font-size: 5rem;
+    margin-left: 0;
+    border-bottom: none;
+    color: #414141;
+}
+
 
 /*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
 
