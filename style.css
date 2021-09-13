@@ -2005,7 +2005,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Caja 17*/
 
 .bck-box.bck-box-17 {
-    border: 3px solid #BDBCBC;
+    border: none;
     text-align: left;
     border-radius: 0;
     background: #fff;
@@ -2030,6 +2030,38 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 .bck-box-17 > .bck-title:before {
+	display: none;
+}
+
+
+/*Caja 18*/
+
+.bck-box.bck-box-18 {
+    border: 3px solid #BDBCBC;
+    text-align: left;
+    border-radius: 0;
+    background: #fff;
+    -webkit-box-shadow: none;
+	box-shadow: none;
+	margin-bottom: 35px;
+	padding: 10px;
+}
+
+.bck-box.bck-box-18 > .bck-content {
+	padding: 15px 10px 15px;
+	background: #fff;
+	border-radius: 0;
+}
+
+.bck-box.bck-box-18 > .bck-title {
+	background: #fff;
+    padding: 5px 10px;
+    border: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.bck-box-18 > .bck-title:before {
 	display: none;
 }
 
