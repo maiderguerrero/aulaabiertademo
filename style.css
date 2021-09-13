@@ -912,6 +912,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 .bck-enfasis-9 {
 	color: #C8291D;
     font-weight: 800;
+    font-size: 1.8rem;
 }
 
 
@@ -2321,7 +2322,7 @@ body:not(.edit) .bck-flipbox-face.back {
 	background-image: url(imagenes/icono_videotutorial_aulaabierta.png);
     width: 30px;
     height: 28px;
-    vertical-align: top;
+    vertical-align: bottom;
     margin-right: 5px;
     background-size: contain;
 }
