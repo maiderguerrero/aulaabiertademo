@@ -3675,7 +3675,29 @@ content: "";
 	.libro-left ul li .title:before {
 		left: 48%;
 	}
+
+	.bck-title-13 {
+    font-size: 27rem; 
+    margin-top: -40px;
 }
+}
+
+@media screen and (max-width: 812px){
+	.bck-title-13 {
+    font-size: 20rem; 
+    margin-top: -25px;
+}
+
+	.bck-title-14 {
+	font-size: 4.5rem;
+}
+
+.bck-title-16 {
+    font-size: 3.3rem;
+}
+
+}
+
 
 
 #list-units .unittag_textbook_aulaabiertademo {
