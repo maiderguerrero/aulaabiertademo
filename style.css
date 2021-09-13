@@ -2434,7 +2434,7 @@ body:not(.edit) .bck-flipbox-face.back {
 /*Icono 5*/
 
 .item-container .icon-5:before {
-	background-image: url(imagenes/icono_internet_aulaabierta.jpg);
+	background-image: url(imagenes/icono_capsulasonido_aulaabierta.png);
 	width: 25px;
     height: 25px;
     vertical-align: top;
@@ -2451,7 +2451,15 @@ body:not(.edit) .bck-flipbox-face.back {
     margin-right: 5px;
 }
 
+/*Icono 7*/
 
+.item-container .icon-7:before {
+	background-image: url(imagenes/icono_videotutorial_aulaabierta.png);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
 
 
 /**TABLA**/
