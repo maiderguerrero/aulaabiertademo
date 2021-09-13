@@ -2004,7 +2004,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Caja 17*/
 
 .bck-box.bck-box-17 {
-    border: none;
+    border: 3px solid #BDBCBC;
     text-align: left;
     border-radius: 0;
     background: #fff;
