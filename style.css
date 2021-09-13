@@ -878,7 +878,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     background: #fff;
     padding: 0;
     font-weight: 800;
-    font-size: 3.4rem;
+    font-size: 3rem;
     margin-left: 0;
     border-bottom: none;
     color: #414141;
@@ -891,7 +891,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     content: "";
     display: block;
     background-color: #C09100;
-    margin-top: -31px;
+    margin-top: -28px;
     z-index: -2;
     border-left: 0;
     border-right: 0;
