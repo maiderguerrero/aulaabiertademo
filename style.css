@@ -883,6 +883,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     border-bottom: none;
     color: #414141;
     z-index: 1;
+    display: inline;
 }
 
 
