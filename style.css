@@ -2301,7 +2301,7 @@ body:not(.edit) .bck-flipbox-face.back {
 	background-image: url(imagenes/icono_capsulasonido_aulaabierta.png);
     width: 45px;
     height: 20px;
-    vertical-align: top;
+    vertical-align: bottom;
     margin-right: 5px;
     background-size: contain;
 }
