@@ -814,16 +814,20 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Título 13*/
 
 .bck-title-13 {
-	color: #fff;
-	font-size: 20rem;
-	font-weight: 100;
+    color: #fff;
+    font-size: 35rem;
+    font-weight: 200;
+    margin: 0;
+    margin-top: -60px;
+    letter-spacing: -40px;
 }
 
 /*Título 14*/
 
 .bck-title-14 {
-	color: #fff;
-	font-size: 4.5rem;
+    color: #fff;
+    font-size: 7.5rem;
+    font-weight: 300;
 }
 
 
@@ -838,9 +842,10 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Título 16*/
 
 .bck-title-16 {
-	font-size: 3.3rem;
-	margin-top: 13px;
-	color: #fff;
+    font-size: 3.7rem;
+    margin-top: 0;
+    color: #fff;
+    font-weight: 300;
 }
 
 /*Título 17*/
