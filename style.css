@@ -267,8 +267,8 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #000;
 }
 
-#list-units .unittag_titulo_aulaabiertademo {
-    background: #dc4f22 !important;
+#list-units .unittag_titulo_aulaabierta {
+    background: #c82918 !important;
 }
 
 .units ul#list-units .unittag_titulo_aulaabiertademo a .title{
