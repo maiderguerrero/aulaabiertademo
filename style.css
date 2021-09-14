@@ -973,6 +973,15 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     font-size: 1.8rem;
 }
 
+/*Éndasis 10*/
+
+.bck-enfasis-10 {
+    color: #fff;
+    background-color: #c82918;
+    border-radius: 15px;
+    padding: 2px;
+}
+
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
