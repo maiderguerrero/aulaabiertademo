@@ -3750,8 +3750,6 @@ content: "";
 }
 #list-units .unittag_activities_aulaabierta {
     background: #efdada !important;
-    outline: 3px dotted #555555;
-    outline-offset: -3px;
 }
 
 .units ul#list-units .unittag_activities_aulaabierta a .title {
