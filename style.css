@@ -232,7 +232,7 @@ strong {
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background-color: #dc4f22 !important;
+	background-color: #c82918 !important;
 }
 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
