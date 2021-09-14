@@ -950,7 +950,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 /*Énfasis 7*/
 
 .bck-enfasis-7 {
-	font-weight:400;
+	font-weight: 400;
 
 }
 
@@ -980,6 +980,13 @@ body.is_app .aulaabiertademo-navbar.ocultar {
     text-transform: uppercase;
 }
 
+
+/*Énfasis 11*/
+
+.bck-enfasis-11 {
+	font-weight: 100;
+
+}
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
