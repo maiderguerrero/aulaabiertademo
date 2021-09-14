@@ -459,11 +459,6 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 }
 
 
-#indice .units ul li.active:not(.disabled),
-#indice .units ul li:focus:not(.disabled) {
-	background: #dc4f22;
-}
-
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title,
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
@@ -3775,10 +3770,6 @@ content: "";
 #indice .unit-content .header .title {
 	display: none;
  }
- #indice .units ul li.active:not(.disabled), 
-#indice .units ul li:focus:not(.disabled) {
-    background-color: #dc4f22 !important;
-}
 
 .btn-primary, 
 .btn-primary.disabled {
