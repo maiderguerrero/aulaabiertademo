@@ -3741,24 +3741,24 @@ content: "";
     background: #c82918 !important;
 }
 
-.units ul#list-units .unittag_textbook_aulaabiertademo a .title {
+.units ul#list-units .unittag_textbook_aulaabierta a .title {
     color: #ffffff;
 }
 
-#list-units .unittag_textbook_aulaabiertademo:hover {
+#list-units .unittag_textbook_aulaabierta:hover {
     background: #dc4f22 !important;
 }
-#list-units .unittag_activities_aulaabiertademo {
-    background: #fff !important;
+#list-units .unittag_activities_aulaabierta {
+    background: #efdada !important;
     outline: 3px dotted #555555;
     outline-offset: -3px;
 }
 
-.units ul#list-units .unittag_activities_aulaabiertademo a .title {
+.units ul#list-units .unittag_activities_aulaabierta a .title {
     color: #000;
 }
 
-#list-units .unittag_activities_aulaabiertademo:hover {
+#list-units .unittag_activities_aulaabierta:hover {
     background: #dc4f22 !important;
     border: none;
 }
