@@ -271,7 +271,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
     background: #c82918 !important;
 }
 
-.units ul#list-units .unittag_titulo_aulaabiertademo a .title{
+.units ul#list-units .unittag_titulo_aulaabierta a .title{
 	color: #fff;
 }
 
@@ -295,7 +295,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*logo*/
 
 
-.content_type_curso_aulaabiertademo   .libro-left ul li .title:before {
+.content_type_curso_aulaabiertademo .libro-left ul li .title:before {
 	content: "";
 	background-size: contain;
 	top: 3px;
@@ -3737,8 +3737,8 @@ content: "";
 
 
 
-#list-units .unittag_textbook_aulaabiertademo {
-    background: #000 !important;
+#list-units .unittag_textbook_aulaabierta {
+    background: #c82918 !important;
 }
 
 .units ul#list-units .unittag_textbook_aulaabiertademo a .title {
