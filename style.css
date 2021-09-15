@@ -554,8 +554,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 }
 
 .aulaabiertademo-navbar .copyright {
-	color: #fff;
-	line-height: 5.0rem;
+	display: none;
 }
 
 .slider-navigator:hover,
