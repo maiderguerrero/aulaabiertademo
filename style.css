@@ -3842,6 +3842,13 @@ content: "";
     background-image: none;
 }
 
+#indice .unit-content .material .item .imagen.video:before,
+#indice .unit-content .material .item .imagen.musica:before,
+#indice .unit-content .material .item .imagen.img:before {
+	background-image: none;
+    background-color: #68bfdd;
+}
+
 a:hover {
     outline: 0;
     color: #dc4f22;
