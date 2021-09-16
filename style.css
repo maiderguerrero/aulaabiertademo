@@ -242,7 +242,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-	background: #dc4f22;
+	background: #b7b7b7;
 	border: none;
 
 }
