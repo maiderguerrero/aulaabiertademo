@@ -633,6 +633,15 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 	padding-left: 12px;
 }
 
+/*HR*/
+
+hr {
+    margin: 0 0 25px 0;
+    border-top-color: #fff;
+    border-top-width: 4px;
+    border-top-style: solid;
+}
+
 /*-------------------------------------------------TÍTULOS---------------------------------------------------*/
 
 /*Título general*/
@@ -811,7 +820,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-title-13 {
     color: #fff;
-    font-size: 35rem;
+    font-size: 33rem;
     font-weight: 200;
     margin: 0;
     margin-top: -60px;
