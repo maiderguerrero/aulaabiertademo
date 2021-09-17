@@ -3554,6 +3554,7 @@ content: "";
 .bck-dropdown-2 .bck-dropdown-titulo {
 	font-size: 1.8rem;
 	padding: 0;
+	color: #414141;
 }
 
 .bck-dropdown-2 .bck-dropdown-titulo:before {
