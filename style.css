@@ -3561,6 +3561,12 @@ content: "";
 	display: none;
 }
 
+.bck-dropdown-2 .bck-dropdown-content {
+	padding: 10px;
+	padding-left: 17px;
+	border: 2px solid #efdada;
+}
+
 
 .bck-dropdown-icon>.fa{
 	text-align: right;
