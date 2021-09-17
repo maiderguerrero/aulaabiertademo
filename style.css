@@ -2260,12 +2260,12 @@ hr {
 /*flipbox*/
 body:not(.edit) .front .bck-flipbox-title, 
 body:not(.edit) .front .bck-flipbox-section {
-    color: #000000;
+    color: #414141;
 }
 
 body:not(.edit) .bck-flipbox-face.back {
-    color: #fff;
-    background-color: #4b4b4b;
+    color: #414141;
+    background-color: #efdada;
     position: absolute;
     top: 0;
     left: 0;
@@ -2277,7 +2277,7 @@ body:not(.edit) .bck-flipbox-face.back {
     backface-visibility: hidden;
     border-style: solid;
     border-width: 2px;
-    border-color: #4b4b4b;
+    border-color: #efdada;
     transform-style: preserve-3d;
     transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
@@ -2285,6 +2285,11 @@ body:not(.edit) .bck-flipbox-face.back {
     -webkit-transition: all .5s ease-in-out;
     height: 100%;
     width: 100%;
+}
+
+body:not(.edit) .back .bck-flipbox-title, 
+body:not(.edit) .back .bck-flipbox-section {
+    color: #414141;
 }
 
 
