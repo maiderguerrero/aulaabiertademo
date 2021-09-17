@@ -3515,15 +3515,21 @@ content: "";
 }
 
 /*Dropdown 2*/
+.bck-dropdown.bck-dropdown-2 {
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
 .bck-dropdown-2 .bck-dropdown-button {
     margin-top: 0px;
     background: #efdada;
     color: #414141;
     text-align: left;
     border: none;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
 }
 
 .bck-dropdown-2 .bck-dropdown-icon {
