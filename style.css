@@ -2258,6 +2258,11 @@ hr {
 }
 
 /*flipbox*/
+
+.bck-flipbox {
+	font-size: 1.8rem;
+}
+
 body:not(.edit) .front .bck-flipbox-title, 
 body:not(.edit) .front .bck-flipbox-section {
     color: #414141;
