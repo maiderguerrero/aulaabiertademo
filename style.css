@@ -3490,11 +3490,22 @@ content: "";
 
 /*Dropdown 1*/
 .bck-dropdown.bck-dropdown-1 {
-	background-color: #9D9D9C;
+	background-color: #c82918;
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-	background-color: #9D9D9C;
+	background-color: #c82918;
+}
+
+.bck-dropdown-1 .bck-dropdown-titulo {
+    font-size: 1.8rem;
+    padding-left: 0px;
+    margin-top: -6px;
+}
+
+.bck-dropdown-1 .bck-dropdown-content {
+    background-color: #fff;
+    border: 2px solid #c82918;
 }
 
 /*Dropdown 2*/
