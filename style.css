@@ -416,7 +416,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 #book-index #indice .units ul li.active a {
-	background: #c82918;
+	background: #b7b7b7;
 }
 
 
