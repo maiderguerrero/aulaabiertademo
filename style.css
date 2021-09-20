@@ -890,18 +890,6 @@ hr {
 }
 
 
-.bck-title-19:after {
-    content: "";
-    display: block;
-    background-color: #C09100;
-    margin-top: -28px;
-    z-index: -2;
-    border-left: 0;
-    border-right: 0;
-    min-height: 26px;
-    margin-bottom: 15px;
-}
-
 
 /*----------------------------------------------------ÉNFASIS----------------------------------------------------*/
 
