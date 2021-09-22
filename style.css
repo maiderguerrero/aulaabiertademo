@@ -1412,7 +1412,7 @@ hr {
 	position: relative;
 	list-style: none;
 	margin-bottom: 10px;
-	color: #727473;
+	color: #545655;
 }
 
 #actividad .content .cke_contents .bck-ul-6 li:before,
@@ -1422,8 +1422,8 @@ hr {
 	content: "";
     height: 5px;
     width: 5px;
-    background-color: #727473;
-    color: #727473;
+    background-color: #545655;
+    color: #545655;
     border-radius: 50%;
     position: absolute;
     margin-top: 12px;
