@@ -1680,11 +1680,11 @@ hr {
 .bck-box.bck-box-5 {
 	min-height: auto;
 	margin-top: 20px;
-	background-color: var(--colorteja);
+	background-color: #d84f2f;
 	color: #fff;
 	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
 	box-shadow: 0 9px 15px 5px #D4D2D2;
-	font-size: 16px;
+	font-size: 18px;
 	border: none;
 	margin-bottom: 35px;
 }
