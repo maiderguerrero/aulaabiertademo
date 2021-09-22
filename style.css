@@ -517,6 +517,11 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 
 .slide_main .html-book input {
     background: #fff;
+    border: 1px solid #aaa;
+}
+
+.form-control {
+	border: 1px solid #aaa;
 }
 
 .aulaabiertademo-navbar {
