@@ -987,6 +987,20 @@ hr {
 	font-weight: 100;
 }
 
+/*Énfasis 12*/
+
+.bck-enfasis-12 {
+    color: #fff;
+    background-color: transparent;
+    border-radius: 15px;
+    padding: 2px 6px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    border: 2px solid #fff;
+}
+
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
