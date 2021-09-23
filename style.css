@@ -529,6 +529,10 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	border: 1px solid #aaa;
 }
 
+.html-book .js-rich-group {
+    border: 1px solid #aaa;
+}
+
 .aulaabiertademo-navbar {
 	position: fixed;
 	bottom: 0;
