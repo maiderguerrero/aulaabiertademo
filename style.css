@@ -249,7 +249,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
-	color: #fff;
+	color: #000;
 }
 
 #list-units .unittag_textbook_aulaabiertademo {
