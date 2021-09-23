@@ -272,7 +272,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 }
 
 #list-units .unittag_titulo_aulaabierta {
-    background: #c82918 !important;
+    background: #fff !important;
 }
 
 .units ul#list-units .unittag_titulo_aulaabierta a .title{
@@ -2852,8 +2852,11 @@ th {
 }
 
 #list-units .unittag_textbook_aulaabierta:hover {
-    background: #b7b7b7 !important;
+    background: #fff !important;
+    border-bottom: 2px solid #c82918;
 }
+
+
 #list-units .unittag_activities_aulaabierta {
     background: #efdada !important;
 }
@@ -2863,7 +2866,8 @@ th {
 }
 
 #list-units .unittag_activities_aulaabierta:hover {
-    background: #b7b7b7 !important;
+    background: #fff !important;
+    border-bottom: 2px solid #c82918;
     border: none;
 }
 #indice .unit-content .header .title {
