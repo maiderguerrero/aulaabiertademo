@@ -912,7 +912,7 @@ hr {
 /*Énfasis 2*/
 
 .bck-enfasis-2 {
-	color: #7192C7;
+	color: #3778b1;
     font-style: normal;
     font-weight: 800;
 }
@@ -1003,6 +1003,14 @@ hr {
     font-size: 1.4rem;
     text-transform: uppercase;
     border: 2px solid #fff;
+}
+
+/*Énfasis 13*/
+
+.bck-enfasis-13 {
+	color: #7192C7;
+    font-style: normal;
+    font-weight: 800;
 }
 
 
