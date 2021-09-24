@@ -2390,6 +2390,12 @@ body:not(.edit) .back .bck-flipbox-section {
 	margin-left: 20px;
 }
 
+/*Sopa de letras*/
+
+.rf-foundword {
+    color: #545655;
+}
+
 /*parejas cartas*/
 
 #actividad .workspace.memory .flip-container p {
