@@ -515,6 +515,11 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	display: none;
 }
 
+
+.slide_main input {
+	border: 1px solid #aaa;
+}
+
 .slide_main input:focus,
 .slide_main .form-control:focus {
 	border-color: #aaa;
@@ -579,6 +584,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 #actividad .workspace.chooseblanks .inline-answer a {
 	margin: -7px 2px 2px 2px;
+	border: 2px solid #aaa;
 }
 
 .bck-i-fullscreen figcaption {
@@ -2372,6 +2378,20 @@ body:not(.edit) .back .bck-flipbox-section {
 	margin-left: 47px;
 }
 
+.fillblanks-draggable-wrapper .response {
+	border: 3px solid #aaa;
+}
+
+/*Arrastrar imagen a espacio*/
+
+.fillblankimages-draggable-wrapper .response {
+	border: 3px solid #aaa;
+}
+
+.slide_main .fillblankimages-draggable .img-input-container {
+	border-color: #aaa;
+}
+
 /*clasificar*/
 #actividad .workspace.clasificar .clasificar_lista>ul {
 	display: inline-block;
@@ -2384,6 +2404,11 @@ body:not(.edit) .back .bck-flipbox-section {
 	background: #fff;
 	padding-left: 10px;
 	padding-right: 10px;
+	border: 3px solid #aaa;
+}
+
+#actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+	border: 3px solid #aaa;
 }
 
 /*tipo test*/
@@ -2395,6 +2420,38 @@ body:not(.edit) .back .bck-flipbox-section {
 	font-size: 1.8rem;
 	font-weight: 300;
 	margin-left: 20px;
+}
+
+/*Marcar palabras*/
+
+#actividad .markword-active {
+	border: 2px solid #aaa !important;
+}
+
+/*Relacionar Unir*/
+
+#actividad .workspace.matching .opcion {
+	border: 3px solid #aaa;
+}
+
+/*Ordenar*/
+
+#actividad .workspace.ordenar .js-rank-item {
+	border: 3px solid #aaa;
+}
+
+/*Señalar respuesta*/
+
+#actividad .workspace.chooseblanks select {
+	border-bottom: 2px solid #aaa;
+}
+
+/*Sintaxis*/
+
+#actividad .workspace.syntax .bloque, #actividad .slide-syntax .sintaxis_frase .bloque {
+	border-bottom: 2px #aaa solid;
+    border-left: 2px #aaa solid;
+    border-right: 2px #aaa solid;
 }
 
 /*Sopa de letras*/
