@@ -2352,6 +2352,13 @@ body:not(.edit) .back .bck-flipbox-section {
 
 
 /*AJUSTES ACTIVIDADES*/
+
+/*Respuesta múltiple*/
+
+#actividad .workspace.multiple-choice .opcion {
+    border: 3px solid #aaa;
+}
+
 /*Verdadero y falso*/
 #actividad .workspace.true-false .tf-option {
 	display: inline-block;
