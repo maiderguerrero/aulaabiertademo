@@ -2206,6 +2206,38 @@ hr {
 }
 
 
+/*Caja 19*/
+
+.bck-box-19>.bck-title {
+    border: 0;
+    color: #fff;
+    border-radius: 0;
+    content: " ";
+    background-repeat: no-repeat;
+    position: relative;
+    background: url(imagenes/caja_19_aulaabierta_header.png);
+    padding: 0 0 7px;
+    background-size: cover;
+    top: 2px;
+    left: 0;
+    width: 100%
+}
+
+.bck-box.bck-box-19 {
+    background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0
+    -webkit-box-shadow: 0 8px 15px 5px #CFCFCF;
+	box-shadow: 0 8px 15px 5px #CFCFCF;
+}
+
+.bck-box.bck-box-19>.bck-content {
+    padding: 20px 27px;
+    background: #eeeeee;
+}
+
+
 
 /*CAJA POP-UP*/
 .info-popover .popover-title:before,
