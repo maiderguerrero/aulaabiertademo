@@ -1536,6 +1536,7 @@ hr {
     text-align: left;
     background-color: transparent;
     padding: 10px;
+    padding-bottom: 0px;
     padding-left: 50px;
     border-radius: 0px;
     font-weight: 800;
@@ -1557,6 +1558,7 @@ hr {
 .bck-box.bck-box-1 > .bck-content {
 	padding: 10px;
 	padding-left: 10px;
+	padding-top: 0px
 	border-bottom: none;
 }
 
@@ -1589,6 +1591,7 @@ hr {
     text-align: left;
     background-color: transparent;
     padding: 10px;
+    padding-bottom: 0px;
     padding-left: 50px;
     border-radius: 0px;
     font-weight: 800;
@@ -1610,6 +1613,7 @@ hr {
 .bck-box.bck-box-2 > .bck-content {
 	padding: 10px;
 	padding-left: 10px;
+	padding-top: 0px;
 	border-bottom: none;
 }
 
@@ -1641,6 +1645,7 @@ hr {
     text-align: left;
     background-color: transparent;
     padding: 10px;
+    padding-bottom: 0px;
     padding-left: 50px;
     border-radius: 0px;
     font-weight: 800;
@@ -1662,6 +1667,7 @@ hr {
 .bck-box.bck-box-3 > .bck-content {
 	padding: 10px;
 	padding-left: 10px;
+	padding-top: 0px;
 	border-bottom: none;
 }
 
@@ -1693,6 +1699,7 @@ hr {
     text-align: left;
     background-color: transparent;
     padding: 10px;
+    padding-bottom: 0px;
     padding-left: 50px;
     border-radius: 0px;
     font-weight: 800;
@@ -1714,6 +1721,7 @@ hr {
 .bck-box.bck-box-4 > .bck-content {
 	padding: 10px;
 	padding-left: 10px;
+	padding-top: 0px;
 	border-bottom: none;
 }
 
