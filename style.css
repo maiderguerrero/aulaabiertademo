@@ -1,5 +1,5 @@
 
-/*Estilo BANABIL - CSS*/
+/*Estilo AULA ABIERTA - CSS*/
 
 :root{
 
@@ -8,6 +8,215 @@
  }
 
 /* Fonts */
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-LightIt.eot');
+    src: url('fonts/NeueHaasUnicaPro-LightIt.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-LightIt.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-LightIt.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-LightIt.svg#NeueHaasUnicaPro-LightIt') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-UltLightIt.eot');
+    src: url('fonts/NeueHaasUnicaPro-UltLightIt.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-UltLightIt.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-UltLightIt.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-UltLightIt.svg#NeueHaasUnicaPro-UltLightIt') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Heavy.eot');
+    src: url('fonts/NeueHaasUnicaPro-Heavy.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Heavy.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Heavy.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Heavy.svg#NeueHaasUnicaPro-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Thin.eot');
+    src: url('fonts/NeueHaasUnicaPro-Thin.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Thin.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Thin.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Thin.svg#NeueHaasUnicaPro-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Light.eot');
+    src: url('fonts/NeueHaasUnicaPro-Light.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Light.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Light.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Light.svg#NeueHaasUnicaPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Regular.eot');
+    src: url('fonts/NeueHaasUnicaPro-Regular.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Regular.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Regular.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Regular.svg#NeueHaasUnicaPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-BoldItalic.eot');
+    src: url('fonts/NeueHaasUnicaPro-BoldItalic.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-BoldItalic.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-BoldItalic.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-BoldItalic.svg#NeueHaasUnicaPro-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-HeavyIt.eot');
+    src: url('fonts/NeueHaasUnicaPro-HeavyIt.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-HeavyIt.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-HeavyIt.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-HeavyIt.svg#NeueHaasUnicaPro-HeavyIt') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-XBlack.eot');
+    src: url('fonts/NeueHaasUnicaPro-XBlack.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-XBlack.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-XBlack.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-XBlack.svg#NeueHaasUnicaPro-XBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Medium.eot');
+    src: url('fonts/NeueHaasUnicaPro-Medium.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Medium.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Medium.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Medium.svg#NeueHaasUnicaPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-BlackIt.eot');
+    src: url('fonts/NeueHaasUnicaPro-BlackIt.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-BlackIt.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-BlackIt.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-BlackIt.svg#NeueHaasUnicaPro-BlackIt') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-UltraLight.eot');
+    src: url('fonts/NeueHaasUnicaPro-UltraLight.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-UltraLight.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-UltraLight.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-UltraLight.svg#NeueHaasUnicaPro-UltraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Black.eot');
+    src: url('fonts/NeueHaasUnicaPro-Black.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Black.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Black.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Black.svg#NeueHaasUnicaPro-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Bold.eot');
+    src: url('fonts/NeueHaasUnicaPro-Bold.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Bold.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Bold.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Bold.svg#NeueHaasUnicaPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-MediumIt.eot');
+    src: url('fonts/NeueHaasUnicaPro-MediumIt.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-MediumIt.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-MediumIt.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-MediumIt.svg#NeueHaasUnicaPro-MediumIt') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-ThinItalic.eot');
+    src: url('fonts/NeueHaasUnicaPro-ThinItalic.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-ThinItalic.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-ThinItalic.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-ThinItalic.svg#NeueHaasUnicaPro-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Pro';
+    src: url('fonts/NeueHaasUnicaPro-Italic.eot');
+    src: url('fonts/NeueHaasUnicaPro-Italic.woff2') format('woff2'),
+        url('fonts/NeueHaasUnicaPro-Italic.woff') format('woff'),
+        url('fonts/NeueHaasUnicaPro-Italic.ttf') format('truetype'),
+        url('fonts/NeueHaasUnicaPro-Italic.svg#NeueHaasUnicaPro-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Marydale';
+    src: url('fonts/Marydale.eot');
+    src: url('fonts/Marydale.woff2') format('woff2'),
+        url('fonts/Marydale.woff') format('woff'),
+        url('fonts/Marydale.ttf') format('truetype'),
+        url('fonts/Marydale.svg#Marydale') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stag';
+    src: url('fonts/Stag-Light.eot');
+    src: url('fonts/Stag-Light.woff2') format('woff2'),
+        url('fonts/Stag-Light.woff') format('woff'),
+        url('fonts/Stag-Light.ttf') format('truetype'),
+        url('fonts/Stag-Light.svg#Stag-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
 
 
 
@@ -46,15 +255,15 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #000;
 }
 
-#list-units .unittag_textbook_banabildemo {
+#list-units .unittag_textbook_aulaabiertademo {
 	background: #31a2c7 !important;
 }
 
-#list-units .unittag_textbook_banabildemo:hover {
+#list-units .unittag_textbook_aulaabiertademo:hover {
 	background: #3333337d !important;
 }
 
-.units ul#list-units .unittag_textbook_banabildemo a .title {
+.units ul#list-units .unittag_textbook_aulaabiertademo a .title {
 	color: #ffffff;
 }
 
@@ -90,7 +299,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*logo*/
 
 
-.content_type_curso_banabildemo .libro-left ul li .title:before {
+.content_type_curso_aulaabiertademo .libro-left ul li .title:before {
 	content: "";
 	background-size: contain;
 	top: 3px;
@@ -104,7 +313,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	opacity: 1;
 }
 
-.content_type_curso_banabildemo.content_type_clase_banabildemo   .libro-left ul li .title:before { 
+.content_type_curso_aulaabiertademo.content_type_clase_aulaabiertademo   .libro-left ul li .title:before { 
 	opacity: 0;
 }
 .navbar-content .logo-publisher {
@@ -132,6 +341,7 @@ body {
 	font-size: 1.8rem;
 	font-weight: normal;
 	text-align: left;
+	font-family: 'Neue Haas Unica Pro';
 	color: #000;
 	background-color: #ffffff;
 }
@@ -291,7 +501,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	background: #ccc;
 }
 
-.banabildemo-navbar h3 {
+.aulaabiertademo-navbar h3 {
 	width: 75%;
 	margin: auto;
 	margin-bottom: 15px;
@@ -328,7 +538,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
     border: 1px solid #aaa;
 }
 
-.banabildemo-navbar {
+.aulaabiertademo-navbar {
 	position: fixed;
 	bottom: 0;
 	left: 0;
@@ -344,25 +554,25 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 	background: none;
 }
 
-body.is_app .banabildemo-navbar {
+body.is_app .aulaabiertademo-navbar {
 	-webkit-transition: top 0.5s linear;
 	-o-transition: top 0.5s linear;
 	-moz-transition: top 0.5s linear;
 	transition: top 0.5s linear;
 }
 
-body.is_app .banabildemo-navbar.ocultar {
+body.is_app .aulaabiertademo-navbar.ocultar {
 	top: -136px;
 }
 
-.banabildemo-navbar .navbar-content {
+.aulaabiertademo-navbar .navbar-content {
 	width: 100%;
 	height: 100%;
 	padding: 0 20px;
 	text-align: center;
 }
 
-.banabildemo-navbar .copyright {
+.aulaabiertademo-navbar .copyright {
 	display: none;
 }
 
@@ -472,6 +682,7 @@ hr {
     font-size: 1.6rem;
     padding-bottom: 13px;
     margin-left: 0;
+    font-family: Neue Haas Unica Pro;
     font-weight: 600;
     border-bottom: 5px solid var(--colorteja);
 }
@@ -486,6 +697,7 @@ hr {
     font-size: 1.6rem;
     padding-bottom: 13px;
     margin-left: 0;
+    font-family: Neue Haas Unica Pro;
     font-weight: 600;
     border-bottom: 5px solid var(--colorteja);
     margin-bottom: 30px;
@@ -505,6 +717,7 @@ hr {
     font-size: 2.6rem;
     border-bottom: 3px solid #BCBCBC;
     padding-bottom: 5px;
+    font-family: 'Neue Haas Unica Pro';
     font-weight: 300;
     margin-bottom: 25px;
 }
@@ -516,6 +729,7 @@ hr {
     font-size: 2.6rem;
     border-bottom: 3px solid var(--colorteja);
     padding-bottom: 5px;
+    font-family: 'Neue Haas Unica Pro';
     font-weight: 300;
     margin-bottom: 25px;
 }
@@ -599,6 +813,7 @@ hr {
     font-size: 1.6rem;
     padding-bottom: 15px;
     margin-left: 0;
+    font-family: Neue Haas Unica Pro;
     font-weight: 600;
     border-bottom: 5px solid #fff;
      margin-bottom: 30px;
@@ -674,6 +889,7 @@ hr {
     font-size: 3.6rem;
     padding-bottom: 13px;
     margin-left: 0;
+    font-family: Neue Haas Unica Pro;
     font-weight: 300;
     border-bottom: 5px solid var(--colorteja);
 }
@@ -729,6 +945,7 @@ hr {
 /*Énfasis 5*/
 
 .bck-enfasis-5 {
+	font-family: 'Marydale', Sans-Serif;
 	color: #0057A4;
 	font-size: 2.2rem;
 }
@@ -826,7 +1043,7 @@ hr {
 #actividad .content .workspace ul li .bck-ol-1 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
-	margin-left: -30px;
+	margin-left: -17px;
 }
 
 #actividad .content .cke_contents .bck-ol-1 li,
@@ -838,34 +1055,40 @@ hr {
 	padding-left: 0px;
 	position: relative;
 	z-index: 0;
-	font-weight: bold;
+	font-weight: 400;
 }
 
+#actividad .content .cke_contents .bck-ol-1 li:before,
+#actividad .content .texto_curso .bck-ol-1 li:before,
+#actividad .popover-content .bck-ol-1 li:before,
+#actividad .content .workspace ul li .bck-ol-1 li:before {
+	margin-left: -13px;
+}
 
 #actividad .content .cke_contents .bck-ol-1 li:before,
 #actividad .content .texto_curso .bck-ol-1 li:before,
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
 	content: counter(bck-li-counter) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    color: #8EBF99;
-    font-size: 30px;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
+	font-family: Neue Haas Unica Pro;
+	font-weight: 800;
+	position: absolute;
+	text-align: right;
+	color: #333;
+	font-size: 1.8rem;
+	width: 31px;
+	margin-top: 0px;
+	left: -25px;
+	top: 0px;
 }
 
 /*LISTA ORDENADA 2*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -30px;
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+	margin-left: -19px;
 }
 
 #actividad .content .cke_contents .bck-ol-2 li,
@@ -873,38 +1096,34 @@ hr {
 #actividad .content .texto_curso .bck-ol-2 li,
 #actividad .popover-content .bck-ol-2 li,
 #actividad .content .workspace ul li .bck-ol-2 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: bold;
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	position: relative;
+	z-index: 0;
 }
 
-
 #actividad .content .cke_contents .bck-ol-2 li:before,
-#actividad .content .texto_curso .bck-ol-2 li:before,
-#actividad .popover-content .bck-ol-2 li:before,
-#actividad .content .workspace ul li .bck-ol-2 li:before {
-    content: counter(bck-li-counter) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    color: #E7964A;
-    font-size: 30px;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
+#actividad .content .texto_curso ol.bck-ol-2 li:before,
+#actividad .popover-content ol.bck-ol-2 li:before,
+#actividad .content .workspace ul li ol.bck-ol-2 li:before {
+	content: counter(bck-li-counter,lower-alpha) ".";
+	position: absolute;
+	color: #333;
+	font-weight: 800;
+	margin-top: 0;
+	text-align: right;
+	margin-left: -10px;
+	width: 30px;
+	font-family: Neue Haas Unica Pro;
+
 }
 
 /*LISTA ORDENADA 3*/
 #actividad .content .cke_contents .bck-ol-3,
 #actividad .content .texto_curso .bck-ol-3,
 #actividad .content .workspace ul li .bck-ol-3 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -30px;
+	list-style-type: none;
+	counter-reset: bck-li-counter;
 }
 
 #actividad .content .cke_contents .bck-ol-3 li,
@@ -912,38 +1131,31 @@ hr {
 #actividad .content .texto_curso .bck-ol-3 li,
 #actividad .popover-content .bck-ol-3 li,
 #actividad .content .workspace ul li .bck-ol-3 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: bold;
+	padding-left: 0px;
 }
 
-
 #actividad .content .cke_contents .bck-ol-3 li:before,
-#actividad .content .texto_curso .bck-ol-3 li:before,
-#actividad .popover-content .bck-ol-3 li:before,
-#actividad .content .workspace ul li .bck-ol-3 li:before {
-    content: counter(bck-li-counter) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    color: #BD79A3;
-    font-size: 30px;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
+#actividad .content .texto_curso ol.bck-ol-3 li:before,
+#actividad .popover-content ol.bck-ol-3 li:before,
+#actividad .content .workspace ul li ol.bck-ol-3 li:before {
+	content: counter(bck-li-counter, upper-alpha)'.';
+	position: absolute;
+	color: #000;
+	font-size: 1.8rem;
+	font-weight: bold;
+	text-align: right;
+	left: -20px;
+	font-family: inherit;
+	margin: 0px 0px 0px -3px;
+	width: inherit;
 }
 
 /*LISTA ORDENADA 4*/
 #actividad .content .cke_contents .bck-ol-4,
 #actividad .content .texto_curso .bck-ol-4,
 #actividad .content .workspace ul li .bck-ol-4 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -30px;
+	list-style-type: none;
+	counter-reset: bck-li-counter;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li,
@@ -951,142 +1163,25 @@ hr {
 #actividad .content .texto_curso .bck-ol-4 li,
 #actividad .popover-content .bck-ol-4 li,
 #actividad .content .workspace ul li .bck-ol-4 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: bold;
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	z-index: 0;
 }
-
 
 #actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso .bck-ol-4 li:before,
-#actividad .popover-content .bck-ol-4 li:before,
-#actividad .content .workspace ul li .bck-ol-4 li:before {
-    content: counter(bck-li-counter) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    color: #7992B3;
-    font-size: 30px;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
-}
-
-/*LISTA ORDENADA 5*/
-
-#actividad .content .cke_contents .bck-ol-5,
-#actividad .content .texto_curso .bck-ol-5,
-#actividad .content .workspace ul li .bck-ol-5 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -30px;
-}
-
-#actividad .content .cke_contents .bck-ol-5 li,
-#actividad .content .cke_contents .bck-ol-5 li,
-#actividad .content .texto_curso .bck-ol-5 li,
-#actividad .popover-content .bck-ol-5 li,
-#actividad .content .workspace ul li .bck-ol-5 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: bold;
-}
-
-
-#actividad .content .cke_contents .bck-ol-5 li:before,
-#actividad .content .texto_curso .bck-ol-5 li:before,
-#actividad .popover-content .bck-ol-5 li:before,
-#actividad .content .workspace ul li .bck-ol-5 li:before {
-    content: counter(bck-li-counter) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    color: #FBC700;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
-}
-
-/*lISTA ORDENADA 6*/
-
-#actividad .content .cke_contents .bck-ol-6,
-#actividad .content .texto_curso .bck-ol-6,
-#actividad .content .workspace ul li .bck-ol-6 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -30px;
-}
-
-#actividad .content .cke_contents .bck-ol-6 li,
-#actividad .content .cke_contents .bck-ol-6 li,
-#actividad .content .texto_curso .bck-ol-6 li,
-#actividad .popover-content .bck-ol-6 li,
-#actividad .content .workspace ul li .bck-ol-6 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: bold;
-}
-
-
-#actividad .content .cke_contents .bck-ol-6 li:before,
-#actividad .content .texto_curso .bck-ol-6 li:before,
-#actividad .popover-content .bck-ol-6 li:before,
-#actividad .content .workspace ul li .bck-ol-6 li:before {
-    content: counter(bck-li-counter) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
-}
-
-#actividad .content .cke_contents .bck-ol-7,
-#actividad .content .texto_curso .bck-ol-7,
-#actividad .content .workspace ul li .bck-ol-7 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-    margin-left: -30px;
-}
-
-#actividad .content .cke_contents .bck-ol-7 li,
-#actividad .content .cke_contents .bck-ol-7 li,
-#actividad .content .texto_curso .bck-ol-7 li,
-#actividad .popover-content .bck-ol-7 li,
-#actividad .content .workspace ul li .bck-ol-7 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-weight: bold;
-}
-
-
-#actividad .content .cke_contents .bck-ol-7 li:before,
-#actividad .content .texto_curso .bck-ol-7 li:before,
-#actividad .popover-content .bck-ol-7 li:before,
-#actividad .content .workspace ul li .bck-ol-7 li:before {
-    content: counter(bck-li-counter,lower-alpha) ".";
-    font-weight: 500;
-    position: absolute;
-    text-align: right;
-    width: 31px;
-    margin-top: -4px;
-    margin-left: -10px;
-    left: -25px;
-    top: 0px;
+#actividad .content .texto_curso ol.bck-ol-4 li:before,
+#actividad .popover-content ol.bck-ol-4 li:before,
+#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+	content: counter(bck-li-counter, lower-alpha)'.';
+	position: absolute;
+	color: #000;
+	font-size: 1.8rem;
+	font-weight: bold;
+	text-align: right;
+	left: -20px;
+	font-family: inherit;
+	margin: 0px 0px 0px -1px;
+	width: inherit;
 }
 
 
@@ -2179,6 +2274,7 @@ hr {
 .fa-info:before {
 	content: "+";
 	font-weight: bold;
+	font-family: Neue Haas Unica Pro;
 	font-size: 2.2rem;
 	line-height: 20px;
 	color: #333;
@@ -2319,12 +2415,11 @@ body:not(.edit) .back .bck-flipbox-section {
 .fillblanks-draggable-wrapper {
 	text-align: left;
 	margin-bottom: 20px;
-	margin-left: 9px;
+	margin-left: 47px;
 }
 
 .fillblanks-draggable-wrapper .response {
-    border: 2px solid #fbc700;
-    border-radius: 0;
+	border: 3px solid #aaa;
 }
 
 /*Arrastrar imagen a espacio*/
@@ -3008,3 +3103,20 @@ border-radius: 0px;
     font-size: 18px;
 }
 
+
+.zoom_flag_img {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    vertical-align: top;
+    background-image: url(../../../images/shared/tools.png);
+    -webkit-background-size: 81px auto;
+    -moz-background-size: 81px auto;
+    -o-background-size: 81px auto;
+    background-size: 81px auto;
+    background-position: -7px -549px;
+    background-repeat: no-repeat;
+    height: 28px;
+    width: 28px;
+    background-color: rgba(75,75,75,.57);
+}
