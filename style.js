@@ -2,17 +2,17 @@
 (function (blink) {
 	'use strict';
 
-	var aulaabiertademoStyle = function () {
+	var banabildemoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	aulaabiertademoStyle.prototype = {
+	banabildemoStyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
-		bodyClassName: 'content_type_clase_aulaabiertademo',
+		bodyClassName: 'content_type_clase_banabildemo',
 		ckEditorStyles: {
-			name: 'aulaabiertademo',
+			name: 'banabildemo',
 			styles: [
 				{ name: 'Título 01', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 02', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
@@ -52,6 +52,11 @@
 
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 02', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
+				{ name: 'Lista Ordenada 03', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
+				{ name: 'Lista Ordenada 04', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
+				{ name: 'Lista Ordenada 05', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-5' } },
+				{ name: 'Lista Ordenada 06', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-6' } },
+				{ name: 'Lista Ordenada 07', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-7' } },
 
 
 				{ name: 'Lista Desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
@@ -248,7 +253,7 @@
 
 		formatCarouselindicators: function (scope, classNavbar) {
 			var that = scope || this,
-				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'aulaabiertademo-navbar'),
+				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'banabildemo-navbar'),
 				$navbarBottom = $('.navbar-bottom'),
 				firstSlide = eval('t0_slide');
 			if(blink.courseInfo && blink.courseInfo.courseDateCreated) var courseYearCreated = new Date(blink.courseInfo.courseDateCreated).getFullYear();
@@ -447,7 +452,7 @@
 
 		animateNavbarOnScroll: function (scope, classNavbar) {
 			var that = scope || this,
-				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'aulaabiertademo-navbar');
+				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'banabildemo-navbar');
 			if (!blink.isApp) return;
 			var $navbar = $('.'+navbar);
 			var lastScrollTop = 0;
@@ -533,9 +538,9 @@
  		}
 	};
 
-	aulaabiertademoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), aulaabiertademoStyle.prototype);
+	banabildemoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), banabildemoStyle.prototype);
 
-	blink.theme.styles['aulaabiertademo'] = aulaabiertademoStyle;
+	blink.theme.styles['banabildemo'] = banabildemoStyle;
 
 })( blink );
 
