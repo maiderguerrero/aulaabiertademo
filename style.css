@@ -1029,7 +1029,7 @@ hr {
 	font-weight: 800;
     color: #C82918;
     position: relative;
-    padding-left: 20px;
+    padding-left: 30px;
 }
 
 .bck-enfasis-14:before {
@@ -1040,7 +1040,7 @@ hr {
 	position: absolute;
 	padding: 10px;
 	left: 0px;
-	top: 2px;
+	top: -7px;
 }
 
 
@@ -1050,7 +1050,7 @@ hr {
 	font-weight: 800;
     color: #C82918;
     position: relative;
-    padding-left: 40px;
+    padding-left: 45px;
 }
 
 .bck-enfasis-15:before {
@@ -1059,7 +1059,7 @@ hr {
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
-    padding: 18px;
+    padding: 10px 20px;
     left: 0px;
     top: 8px;
 }
