@@ -1024,6 +1024,31 @@ hr {
 }
 
 
+/*Énfasis 14*/
+.bck-enfasis-14 {
+	font-weight: 800;
+    color: #C82918;
+    position: relative;
+}
+
+.bck-enfasis-14:before {
+	content: "";
+	background-image: url(imagenes/icono_videotutorial_aulaabierta.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	position: absolute;
+	padding: 20px;
+}
+
+/*Énfasis 15*/
+
+.bck-enfasis-15 {
+	font-weight: 800;
+    color: #C82918;
+    position: relative;
+}
+
+
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
