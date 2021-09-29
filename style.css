@@ -1064,6 +1064,11 @@ hr {
 	top: 2px;
 }
 
+/*Énfasis 16*/
+.bck-enfasis-16 {
+	color: #c75940;
+}
+
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
