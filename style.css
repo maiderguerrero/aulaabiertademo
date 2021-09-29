@@ -1030,6 +1030,7 @@ hr {
     color: #C82918;
     position: relative;
     padding-left: 30px;
+    font-size: 16px;
 }
 
 .bck-enfasis-14:before {
@@ -1051,6 +1052,7 @@ hr {
     color: #C82918;
     position: relative;
     padding-left: 45px;
+    font-size: 16px;
 }
 
 .bck-enfasis-15:before {
