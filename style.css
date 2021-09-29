@@ -2623,6 +2623,17 @@ body:not(.edit) .back .bck-flipbox-section {
 }
 
 
+/*Icono 8*/
+
+.item-container .icon-8:before {
+	background-image: url(imagenes/icono_flechas_aulaabierta.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+
 /**TABLA**/
 table,
 .bck-table {
