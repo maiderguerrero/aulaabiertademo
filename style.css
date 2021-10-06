@@ -246,6 +246,11 @@ strong {
     margin-left: 10px;
 }
 
+#indice .units ul li.aulaabierta-toc-unithead a .title:before {
+    filter: brightness(0);
+    -webkit-filter: brightness(0);
+}
+
 
 #indice .units ul li {
     background: #d4e4ea;
@@ -654,7 +659,7 @@ body.is_app .aulaabiertademo-navbar.ocultar {
 
 .bck-file-attach:before {
 	content: " ";
-	background-image: url(imagenes/icono_transcripciones.png);
+	background-image: url(imagenes/icono_transcripciones_aulaabierta.png);
 	background-repeat: no-repeat;
 	padding: 10px;
 	background-size: contain;
