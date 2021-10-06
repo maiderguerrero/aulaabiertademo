@@ -226,6 +226,27 @@ strong {
 }
 
 /*TOC*/
+
+#indice .units ul li.aulaabierta-toc-unithead {
+	margin-bottom: 8px;
+    max-height: none!important;
+}
+
+#indice .units ul li.aulaabierta-toc-unithead.aulaabierta-toc-active {
+    margin-bottom: 8px;
+    margin-top: 0;
+}
+
+#indice .units ul li.aulaabierta-toc-subunit.aulaabierta-toc-subunit-active {
+    max-height: 100%;
+    margin-top: 3px;
+}
+
+#indice .units ul li.aulaabierta-toc-subunit {
+    margin-left: 10px;
+}
+
+
 #indice .units ul li {
     background: #d4e4ea;
 }
@@ -3163,19 +3184,4 @@ border-radius: 0px;
 }
 
 
-.zoom_flag_img {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    vertical-align: top;
-    background-image: url(../../../images/shared/tools.png);
-    -webkit-background-size: 81px auto;
-    -moz-background-size: 81px auto;
-    -o-background-size: 81px auto;
-    background-size: 81px auto;
-    background-position: -7px -549px;
-    background-repeat: no-repeat;
-    height: 28px;
-    width: 28px;
-    background-color: rgba(75,75,75,.57);
-}
+
